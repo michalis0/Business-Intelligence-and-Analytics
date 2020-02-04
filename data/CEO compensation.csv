@@ -1,0 +1,800 @@
+Total Comp,Top 20,Wide Industry,Company,CEO,City of Birth,State of Birth,Age,Undergrad,UG Degree,UG Date,AgeOfUnder,Graduate,Grad Degree,MBA?,MasterPhd?,G_date,AgeOfGradu,YearsFirm,YearsCEO,Salary,Bonus,other,St_gains,Comp for 5 yrs,Stock owned,Sales,Profits,Return over 5 yrs,Industry,Industry Code
+203020000,TRUE,Travel,Walt Disney,Mr. Michael D Eisner,New York,NY,52,Denison U,BA,64,22,,none,0,0,,,10,10,750000,,9667,202261000,236771000,0.561,8865,779.5,17,Travel-hotelsrecreation,8
+53110900,TRUE,Financial,Travelers,Mr. Sanford I Weill,New York,NY,61,Cornell,BA,55,22,,none,0,0,,,8,8,1018750,3030310,2161890,46900000,141605000,1.168,6797,950,28,Financial services-leasefinance,1
+38675400,TRUE,Insurance,Conseco,Mr. Stephen C Hilbert,Terre Haute,IN,48,,,,,,none,0,0,,,15,15,250000,8287670,190570,29947100,51156100,2.842,2637,308.9,76,Insurance-lifehealth,4
+38010500,TRUE,Travel,Mirage Resorts,Mr. Stephen A Wynn,New Haven,CT,52,U of Pennsylvan,BA,63,21,,none,0,0,,,21,21,1504940,,5564,36500000,43492500,14.835,953,48.1,24,Travel-hotelsrecreation,8
+33689900,TRUE,Aerospacedefense,Loral,Mr. Bernard L Schwartz,New York,NY,68,CUNY City,BBA,48,22,,none,0,0,,,22,22,859000,3525670,3316240,25989000,64753300,1.728,3562,201.4,20,Aerospacedefense,11
+32582300,TRUE,Health,Forest Laboratories,Mr. HowardSolomon,New York,NY,66,CUNY City,BA,49,21,Yale,JD,0,1,52,24,17,17,482885,60000,5707,32033700,62818700,1.258,333,75.7,23,Health-drugs,3
+32228000,TRUE,Retailing,AutoZone,Mr. Joseph R Hyde III,Memphis,TN,51,U of North Caro,BS,65,22,,none,0,0,,,29,22,551670,551670,7552,31117100,34960900,10.038,1287,91.8,52,Retailing-specialty retailers,6
+23136400,TRUE,Business,First Financial Mana,Mr. Patrick H Thomas,Atlanta,GA,51,Georgia State U,BS,60,17,Georgia State U,MS,0,1,61,18,23,20,875000,5410130,13423000,3428280,40027700,0.812,1670,127.6,28,Business-services,13
+20658300,TRUE,Food,Cracker Barrel Old C,Mr. Dan W Evins,Smithville,TN,58,,,,,,none,0,0,,,24,24,326600,861748,30647,19439300,24016800,0.671,578,51.1,43,Food distributors-restaurant chains,2
+16774500,TRUE,Insurance,ITT,Mr. Rand V Araskog,Fergus Falls,MN,62,US Military Aca,BS,53,21,,none,0,0,,,27,15,1525000,2584900,6836760,5827820,33770700,0.36,22043,963,15,Insurance-propertycasualty,4
+16755600,TRUE,Entertainment,King World Productio,Mr. MichaelKing,Summit,NJ,46,Fairleigh Dicki,BA,71,23,,none,0,0,,,21,10,950000,1297000,11502,14497100,28655400,5.916,498,102.2,17,Entertainmentinformation-broadcasting,17
+16171700,TRUE,Financial,Fund American Enterp,Mr. John J Byrne,Passaic,NJ,61,Rutgers,BS,54,21,U of Michigan,MS,0,1,59,26,9,9,550000,165000,4844980,10611800,80808800,7.705,251,70.4,20,Financial services-leasefinance,1
+15914900,TRUE,Financial,Bear Stearns Cos,Mr. James E Cayne,Evanston,IL,60,,,,,,none,0,0,,,25,1,200000,8136970,7577980,,,3.011,3396,474.3,20,Financial services-brokerage,1
+15706100,TRUE,Financial,Bankers Trust New Yo,Mr. Charles S Sanford Jr,Savannah,GA,57,U of Georgia,BA,58,21,U of Pennsylvan,MBA,1,1,60,23,33,7,750000,8115700,4032650,2807720,31104000,0.342,7800,1070,16,Financial services-multinational banks,1
+15652900,TRUE,Entertainment,Viacom,Mr. Frank J Biondi Jr,New York,NY,49,Princeton,BA,66,21,Harvard,MBA,1,1,68,23,7,7,922045,1000000,13730800,,21464700,0.149,2005,169.5,9,Entertainmentinformation-broadcasting,17
+15556700,TRUE,Retailing,Blockbuster Entertai,Mr. H WayneHuizenga,Evergreen Park,IL,56,,,,,,none,0,0,,,7,7,444231,112500,,15000000,18053500,4.38,2227,243.6,30,Retailing-specialty retailers,6
+14925100,TRUE,Food,Brinker Internationa,Mr. Norman E Brinker,Denver,CO,63,San Diego State,,57,26,,none,0,0,,,11,11,573708,753887,104873,13492700,16617000,2.056,740,56.9,43,Food distributors-restaurant chains,2
+14899200,TRUE,Aerospacedefense,General Dynamics,Mr. James R Mellor,Detroit,MI,64,U of Michigan,BS,52,22,U of Michigan,MS,0,1,53,23,13,1,670000,1350000,12879200,,,0.89,3187,885,24,Aerospacedefense,11
+14651700,TRUE,Food,Coca-Cola,Mr. Roberto C Goizueta,Cuba,,62,Yale,BS,53,21,,none,0,0,,,40,13,1454000,2200000,1519540,9478130,51896200,0.623,13957,2188,28,Fooddrinktobacco-beverages,2
+14176500,TRUE,Consumer,Duracell Internation,Mr. C RobertKidder,Freeport,NY,49,U of Michigan,BS,66,21,Iowa State,MS,0,1,68,23,17,10,610486,410000,22197,13133900,16388600,0.121,1788,132.2,23,Consumer nondurables-personal products,18
+13944500,FALSE,Retailing,CUC International,Mr. Walter A Forbes,Rockford,IL,51,Northwestern U,BS,61,18,Harvard,MBA,1,1,68,25,18,18,583958,575000,144965,12640600,18809500,0.832,843,80,62,Retailing-home shopping,6
+13565100,FALSE,Retailing,Circuit City Stores,Mr. Richard L Sharp,Washington,DC,47,,,,,,none,0,0,,,11,8,583012,870000,,12112000,18357100,1.024,3822,125.4,14,Retailing-consumer electronics,6
+13070800,FALSE,Food,General Mills,Mr. H BrewsterAtwater J,Minneapolis,MN,63,Princeton,AB,52,21,Stanford U,MBA,1,1,54,23,36,13,607689,777800,88533,11596800,26277400,0.261,8381,518.8,17,Fooddrinktobacco-food processors,2
+12837900,FALSE,ComputersComm,Applied Materials,Mr. James C Morgan,Danville,IL,55,Cornell,BS,62,23,Cornell,MBA,1,1,63,24,18,17,485000,388000,641069,11323800,22301000,0.556,1205,122.4,50,Computerscommunications-peripherals,16
+12702700,FALSE,ComputersComm,Advanced Micro Devic,Mr. Walter J Sanders III,Chicago,IL,57,U of Illinois,BSE,58,21,,none,0,0,,,25,25,929000,2081420,1415880,8276420,41334500,0.385,1648,228.8,30,Computerscommunications-peripherals,16
+12385900,FALSE,Insurance,Equitable Cos,Mr. Richard H Jenrette,Raleigh,NC,65,U of North Caro,BA,51,22,Harvard,MBA,1,1,57,28,35,4,730000,11400000,255896,,21332500,0.00001,6480,234.5,74,Insurance-lifehealth,4
+12327000,FALSE,Food,Quaker Oats,Mr. William D Smithburg,Chicago,IL,55,DePaul U,BS,60,21,Northwestern U,MBA,1,1,61,22,28,13,795000,748800,6337280,4445890,24309400,0.219,5792,304.6,8,Fooddrinktobacco-food processors,2
+12203300,FALSE,Forest,Louisiana-Pacific,Mr. Harry A Merlo,Stirling City,CA,69,U of Cal Berkel,BS,49,24,,none,0,0,,,44,20,650000,,11553300,,22134100,1.143,2511,254.4,31,Forest products-paperlumber,9
+12112000,FALSE,Entertainment,Comcast,Mr. Ralph J Roberts,New York,NY,74,U of Pennsylvan,BS,41,21,,none,0,0,,,32,31,772958,,4257930,7081150,31947800,8.056,1338,-98.9,15,Entertainmentinformation-broadcasting,17
+11965700,FALSE,Food,Sara Lee,Mr. John H Bryan,West Point,MS,57,Rhodes C,BA,58,21,,none,0,0,,,34,19,885144,870053,207447,10003000,31667000,0.317,14963,733,15,Fooddrinktobacco-food processors,2
+11853200,FALSE,Consumer,Whirlpool,Mr. David R Whitwam,Stanley,WI,52,U of Wisc Madis,BS,67,25,,none,0,0,,,26,7,800000,1300000,3497530,6255710,18494700,0.233,7533,231,20,Consumer durables-appliances,18
+11705900,FALSE,Financial,Mellon Bank,Mr. Frank V Cahouet,Boston,MA,61,Harvard,BA,54,21,U of Penn-Whart,MBA,1,1,59,26,7,7,760000,625000,2287530,8033410,23139200,0.426,3237,361,20,Financial services-regional banks,1
+11282200,FALSE,Consumer,Goodyear TireRubbe,Mr. Stanley C Gault,Wooster,OH,68,Col of Wooster,BA,48,22,,none,0,0,,,3,3,935000,1018970,36057,9292190,13938800,0.068,11643,488.7,14,Consumer durables-automotive parts,18
+10967200,FALSE,ComputersComm,Parametric Technolog,Mr. Steven C Walske,Los Alamos,NM,41,Princeton,BA,74,21,Harvard,MBA,1,1,78,25,7,7,250000,400000,4497,10312800,26817900,1.979,184,49.3,62,Computerscommunications-software,16
+10780600,FALSE,Insurance,SunAmerica,Mr. EliBroad,New York,NY,60,Michigan State,BA,54,20,,none,0,0,,,37,37,595833,970320,972835,8241610,21736600,19.186,884,138.6,38,Insurance-lifehealth,4
+10568400,FALSE,Construction,Centex,Mr. Laurence E Hirsch,New York,NY,48,U of Pennsylvan,BS,68,22,Villanova,JD,0,1,71,25,9,6,464167,330000,24261,9750000,13131700,0.729,2996,78.7,18,Construction-builders,0
+10149200,FALSE,Financial,PaineWebber Group,Mr. Donald B Marron,Goshen,NY,59,,,,,,none,0,0,,,35,14,600000,6300000,534432,2714750,25615300,1.346,4005,246.2,20,Financial services-brokerage,1
+9678660,FALSE,Insurance,Leucadia National,Mr. Ian M Cumming,Canada,,54,U of Kansas,,62,22,,none,0,0,,,16,16,464412,1614120,250127,7350000,17392700,19.521,1408,116.3,38,Insurance-diversified,4
+9544050,FALSE,Aerospacedefense,AlliedSignal,Mr. Lawrence A Bossidy,Pittsfield,MA,59,Colgate U,BA,57,22,,none,0,0,,,3,3,1100000,1500000,4128400,2815650,20743300,0.063,11827,656,22,Aerospacedefense,11
+9259790,FALSE,Consumer,Chrysler,Mr. Robert J Eaton,Buena Vista,CO,54,U of Kansas,BSM,63,23,,none,0,0,,,2,1,928750,1900000,1952760,4478270,,0.029,43600,2415,21,Consumer durables-automobilestrucks,18
+9111170,FALSE,Consumer,Premark Internationa,Mr. Warren L Batts,Norfolk,VA,61,Georgia Tech,BEE,61,28,Harvard,MBA,1,1,63,30,14,8,683333,910000,591272,6926560,17672600,0.927,3097,172.5,20,Consumer durables-home furnishings,18
+9093260,FALSE,Capital goods,Emerson Electric,Mr. Charles F Knight,Lake Forest,IL,58,Cornell,BME,58,22,Cornell,MBA,1,1,59,23,21,21,800000,1100000,6196990,996275,19707900,0.27,8200,838.7,18,Capital goods-electrical equipment,14
+8920400,FALSE,ComputersComm,International Game T,Mr. John J Russell,Oklahoma City,OK,64,,,,,,none,0,0,,,8,1,275000,323750,74294,8247360,,0.161,532,113.9,80,Computerscommunications-peripherals,16
+8833030,FALSE,Entertainment,Time Warner,Mr. Gerald M Levin,Philadelphia,PA,55,Haverford C,BA,60,21,U of Pennsylvan,LLB,0,1,63,24,15,2,1050000,4000000,3783030,,17514700,0.117,14544,-164,7,Entertainmentinformation-broadcasting,17
+8410030,FALSE,Business,Sensormatic Electron,Mr. Ronald G Assaf,Akron,OH,58,,,,,,none,0,0,,,28,23,415484,370000,51046,7573500,11983900,0.512,549,63.2,38,Business-supplies,13
+8378200,FALSE,Consumer,ProcterGamble,Mr. Edwin L Artzt,New York,NY,64,U of Oregon,BS,51,21,,none,0,0,,,40,4,1137500,625000,301200,6314500,18542200,0.051,30067,571,21,Consumer nondurables-personal products,18
+8125370,FALSE,Financial,Merrill Lynch,Mr. Daniel P Tully,New York,NY,62,St John's U NY,BA,53,21,,none,0,0,,,38,2,500000,6200000,1425370,,26552600,0.248,16588,1394.4,25,Financial services-brokerage,1
+8110850,FALSE,Business,Automatic Data Proce,Mr. Josh S Weston,Brooklyn,NY,65,CUNY City,BS,50,21,U of New Zealan,MA,0,1,52,23,24,11,1005000,,436600,6669250,19719900,0.161,2339,310.8,24,Business-services,13
+8075920,FALSE,ComputersComm,EMC,Mr. Michael C Ruettgers,Muskogee,OK,51,Idaho State,BBA,64,21,Harvard,MBA,1,1,67,24,6,2,225000,525000,2000,7323920,,0.127,783,127.1,102,Computerscommunications-peripherals,16
+7782330,FALSE,Energy,Burlington Resources,Mr. Thomas H O'Leary,New York,NY,60,Col of the Holy,BA,54,20,U of Pennsylvan,MBA,1,1,61,27,12,5,750000,750000,200494,6081830,19596300,0.088,1249,256.3,2,Energy-other energy,12
+7709730,FALSE,ComputersComm,International Busine,Mr. Louis V Gerstner Jr,Mineola,NY,52,Dartmouth,BA,63,21,Harvard,MBA,1,1,65,23,1,1,1500000,1125000,5084730,,,0.005,62716,-7987,-9,Computerscommunications-major systems,16
+7524320,FALSE,Food,American Brands,Mr. William J Alley,Vernon,TX,64,U of Oklahoma,BBA,51,21,U of Oklahoma,JD,0,1,54,24,27,7,1053600,862125,5608600,,20516200,0.069,8288,668.2,3,Fooddrinktobacco-tobacco,0
+7285420,FALSE,Aerospacedefense,General Electric,Mr. John F Welch Jr,Peabody,MA,58,U of Massachuse,BS,57,21,U of Illinois,PhD,0,1,60,24,34,13,1750000,2200000,441046,2894380,31373600,0.021,60562,5177,21,Aerospacedefense,11
+7209090,FALSE,Energy,Enron,Mr. Kenneth L Lay,Tyrone,MO,52,U of Missouri,BA,64,22,U of Houston,PhD,0,1,70,28,10,10,960000,1040000,2412270,2796820,27021300,0.319,10097,332.5,31,Energy-other gas,12
+7154000,FALSE,Consumer,Eastman Kodak,Mr. George M C Fisher,Anna,IL,53,U of Illinois,BS,62,21,Brown,MS,0,1,64,23,1,1,2000000,154000,5000000,,,0.038,16364,475,9,Consumer nondurables-photographytoys,18
+6972760,FALSE,Metals,Engelhard,Mr. Orin R Smith,Newark,NJ,58,Brown,BA,57,21,Seton Hall C,MBA,1,1,64,28,17,10,670034,585000,983190,4734540,18450700,0.555,2151,16.7,27,Metals-nonferrous metals,5
+6912640,FALSE,Construction,Masco,Mr. Richard A Manoogian,Long Branch,NJ,57,Yale,BA,58,21,,none,0,0,,,36,26,908000,294000,4402270,1308370,39338400,0.645,3886,221.1,7,Construction-materials,0
+6736920,FALSE,Energy,Panhandle Eastern,Mr. Dennis R Hendrix,Selmer,TN,54,U of Tenn Knoxv,BS,62,22,Georgia State U,MBA,1,1,67,27,9,4,,,6736920,,9812760,0.365,2121,148.1,6,Energy-other gas,12
+6680930,FALSE,Chemicals,Monsanto,Mr. Richard J Mahoney,Springfield,MA,60,U of Massachuse,BS,55,21,,none,0,0,,,32,11,900000,1188000,1358380,3234550,14389900,0.124,7902,494,14,Chemicals-diversified,15
+6519540,FALSE,Retailing,Price/Costco,Mr. James D Sinegal,Pittsburgh,PA,58,San Diego State,BA,59,23,,none,0,0,,,9,6,300000,,20625,6198910,8217950,1.381,15681,145.9,2,Retailing-specialty retailers,6
+6398700,FALSE,ComputersComm,Motorola,Mr. Gary L Tooker,Shelby,OH,54,Arizona State,BSE,62,22,,none,0,0,,,32,1,770000,847000,14100,4767600,,0.028,16963,1022,39,Computerscommunications-peripherals,16
+6389490,FALSE,Entertainment,Harcourt General,Mr. Robert J Tarr Jr,Freeport,NY,50,US Naval Acad,BS,66,22,Harvard,MBA,1,1,73,29,18,2,1250000,937500,3067120,1134870,10528000,0.382,3681,158.6,9,Entertainmentinformation-publishing,17
+6333720,FALSE,Transport,Conrail,Mr. James A Hagen,Forrest City,IA,62,St Ambrose C,BA,56,24,U of Iowa,MA,0,1,58,26,5,5,646899,19500,15434,5651890,10435700,0.092,3453,234,32,Transport-railroad,7
+6287640,FALSE,Transport,Kansas City Southern,Mr. Landon H Rowland,Fuquay Springs,NC,57,Dartmouth,BA,59,22,Harvard,LLB,0,1,62,25,14,7,500345,,552624,5234670,11341700,0.533,961,97,43,Transport-railroad,7
+6247350,FALSE,Entertainment,American Greetings,Mr. MorryWeiss,Czechoslovakia,,54,Case Western,BA,61,21,,none,0,0,,,33,6,500000,470000,17973,5259380,10735600,1.319,1740,125.4,20,Entertainmentinformation-publishing,17
+6231000,FALSE,Insurance,Reliance Group Holdi,Mr. Saul P Steinberg,New York,NY,54,U of Pennsylvan,BS,61,21,,none,0,0,,,33,33,2700000,2700000,831000,,31722300,38.028,2963,85.5,7,Insurance-propertycasualty,4
+6209540,FALSE,Financial,Norwest,Mr. Richard M Kovacevich,Tacoma,WA,50,Stanford U,BS,65,21,Stanford U,MS,0,1,66,22,8,1,700000,1260000,618430,3631110,,0.165,5277,653.6,25,Financial services-regional banks,1
+6124100,FALSE,Business,Olsten,Mr. Frank N Liguori,New York,NY,47,St Francis C NY,BBA,69,22,,none,0,0,,,23,4,621154,500000,5002950,,9623310,1.613,2158,-11.9,24,Business-services,13
+6057940,FALSE,Health,American Home Produc,Mr. John R Stafford,Harrisburg,PA,56,Dickinson C,BA,59,21,George Washingt,LLB,0,1,62,24,24,7,1085000,1085000,32550,3855390,21682300,0.041,8305,1469.3,11,Health-drugs,3
+5852520,FALSE,Health,Schering-Plough,Mr. Robert P Luciano,New York,NY,60,CUNY City,BBA,54,20,U of Michigan,JD,0,1,58,24,16,12,1070000,947000,1948740,1886770,20411800,0.013,4341,825,15,Health-drugs,3
+5827330,FALSE,Financial,JP MorganCo,Mr. DennisWeatherstone,England,,63,,,,,,none,0,0,,,48,4,700000,2354400,748863,2024070,17238100,0.064,11941,1723,14,Financial services-multinational banks,1
+5805380,FALSE,ComputersComm,Itel,Mr. Rod F Dammeyer,Cleveland,OH,53,Kent State U,BA,60,19,,none,0,0,,,9,1,685750,675000,99324,4345310,,0.147,1909,14.8,4,Computerscommunications-major systems,16
+5739200,FALSE,ComputersComm,BMC Software,Mr. Max P Watson Jr,New Orleans,LA,48,Louisiana Tech,BBA,68,22,,none,0,0,,,9,4,240000,621075,982500,3895630,11823600,0.698,274,81.2,41,Computerscommunications-software,16
+5685500,FALSE,Consumer,Dial,Mr. John W Teets,Elgin,IL,60,,,,,,none,0,0,,,30,13,1150330,1173300,3361870,,20386900,0.541,3000,142.4,17,Consumer nondurables-personal products,18
+5584670,FALSE,Transport,CSX,Mr. John W Snow,Toledo,OH,54,U of Toledo,BA,62,22,U of Virginia,PhD,0,1,65,25,17,5,746758,850894,1740150,2246880,15755800,0.244,8940,359,26,Transport-railroad,7
+5409690,FALSE,ComputersComm,Citizens Utilities,Dr. LeonardTow,Brooklyn,NY,66,CUNY Brooklyn,BA,50,22,Columbia,PhD,0,1,60,32,4,4,1003000,485000,3921690,,21969500,1.94,619,125.6,6,Computerscommunications-telecommun,16
+5354910,FALSE,Aerospacedefense,Rockwell Internation,Mr. Donald R Beall,Beaumont,CA,55,San Jose State,BS,60,21,U of Pittsburgh,MBA,1,1,61,22,26,6,815000,900000,3639910,,15142300,0.181,10952,583.6,16,Aerospacedefense,11
+5305940,FALSE,ComputersComm,DSC Communications,Mr. James L Donald,Carthage,TX,62,SMU,BSI,57,25,SMU,MSIE,0,1,65,33,13,13,687682,1460000,3158260,,11804700,0.263,731,81.7,38,Computerscommunications-telecommun,16
+5302870,FALSE,Insurance,Aflac,Mr. Daniel P Amos,Pensacola,FL,42,U of Georgia,BS,73,21,,none,0,0,,,21,4,913218,658346,245049,3486260,13743100,0.898,5001,243.9,20,Insurance-lifehealth,4
+5296770,FALSE,Health,Humana,Mr. David A Jones,Louisville,KY,62,U of Louisville,BS,54,22,Yale,JD,0,1,60,28,33,33,790600,790126,744066,2971970,16948100,5.895,3137,89,25,Health-health care services,3
+5245380,FALSE,Entertainment,BHC Communications,Mr. Herbert J Siegel,Philadelphia,PA,66,Lehigh U,BA,50,22,,none,0,0,,,27,17,884975,3677790,682620,,33741600,18.457,412,224.3,10,Entertainmentinformation-broadcasting,17
+5214890,FALSE,Transport,Burlington Northern,Mr. GeraldGrinstein,Seattle,WA,61,Yale,BA,54,21,Harvard,LLB,0,1,57,24,7,5,600000,767760,3847130,,13553200,0.317,4699,296,26,Transport-railroad,7
+5103330,FALSE,Financial,Dean Witter Discover,Mr. Philip J Purcell,Salt Lake City,UT,50,U of Notre Dame,BBA,64,20,U of Chicago,MBA,1,1,67,23,16,12,650000,2500000,1953330,,11680400,0.102,5822,603.6,,Financial services-leasefinance,1
+5095980,FALSE,Insurance,American Internation,Mr. Maurice R Greenberg,New York,NY,69,U of Miami,BA,48,23,NY Law School,LLB,0,1,50,25,33,27,1231730,1100000,2998,2761250,14833300,2.151,20135,1918.1,15,Insurance-diversified,4
+5095700,FALSE,Financial,Morgan Stanley Group,Mr. Richard B Fisher,Philadelphia,PA,57,Princeton,BA,57,20,Harvard,MBA,1,1,62,25,32,3,475000,2862500,1758200,,15475000,3.212,9176,786.1,18,Financial services-brokerage,1
+4956200,FALSE,Health,Mylan Laboratories,Mr. MilanPuskar,Vintondale,PA,59,Youngstown Stat,BS,60,25,,none,0,0,,,33,1,700000,1400000,481200,2375000,,2.188,244,77.1,34,Health-drugs,3
+4838040,FALSE,Financial,NationsBank,Mr. Hugh L McColl Jr,Bennettsville,SC,58,U of North Caro,BS,57,21,,none,0,0,,,35,11,800000,1800000,2238040,,18496800,0.096,10392,1301.4,9,Financial services-regional banks,1
+4784830,FALSE,Aerospacedefense,Raytheon,Mr. Dennis J Picard,Providence,RI,61,Northeastern U,BSE,62,29,,none,0,0,,,39,3,870762,870000,2109560,934514,10653100,0.144,9201,693,17,Aerospacedefense,11
+4705780,FALSE,Retailing,May Department Store,Mr. David C Farrell,Chicago,IL,60,Antioch U,BA,56,22,,none,0,0,,,38,15,1100000,408112,880652,2317010,13793300,0.315,11529,711,21,Retailing-department stores,6
+4697230,FALSE,Health,HealthTrust,Mr. R ClaytonMcWhorter,Chattanooga,TN,60,Samford U,BS,55,21,,none,0,0,,,24,7,750000,375000,3572230,,6630930,0.781,2425,140.7,37,Health-health care services,3
+4602630,FALSE,Construction,Fluor,Mr. Leslie G McCraw,Sandy Springs,SC,59,Clemson U,BSC,56,21,,none,0,0,,,19,4,680040,610000,562592,2750000,14994400,0.114,8101,175.1,18,Construction-builders,0
+4576230,FALSE,Financial,Federal National Mor,Mr. James A Johnson,Benson,MN,50,U of Minnesota,BA,65,21,Princeton,MA,0,1,68,24,4,3,700000,668338,3207890,,10524600,0.018,16054,2042.5,32,Financial services-leasefinance,1
+4485530,FALSE,Financial,American Express,Mr. HarveyGolub,New York,NY,55,NYU,BS,61,22,,none,0,0,,,10,1,776923,1850000,1242750,615858,,0.047,14173,1605,1,Financial services-leasefinance,1
+4459340,FALSE,Insurance,USFG,Mr. Norman P Blake Jr,New York,NY,52,Purdue U,BA,64,22,Purdue U,MA,0,1,66,24,3,3,1007680,1364080,2087580,,8589430,0.055,3249,127.2,-12,Insurance-propertycasualty,4
+4436690,FALSE,ComputersComm,Southwestern Bell,Mr. Edward E Whitacre Jr,Ennis,TX,52,Texas Tech U,BSI,64,22,,none,0,0,,,31,4,762000,1124000,2550690,,13644700,0.035,10690,1435.2,18,Computerscommunications-telecommun,16
+4396750,FALSE,Financial,Citicorp,Mr. John S Reed,Chicago,IL,55,MIT,BS,61,22,MIT,MS,0,1,65,26,29,10,1150000,3000000,69000,177750,11441000,0.115,32196,1919,9,Financial services-multinational banks,1
+4380070,FALSE,Consumer,Hasbro,Mr. Alan G Hassenfeld,Providence,RI,45,U of Pennsylvan,BA,70,21,,none,0,0,,,24,5,872807,600000,98282,2808980,12453800,3.667,2747,200,25,Consumer nondurables-photographytoys,18
+4373310,FALSE,Insurance,American General,Mr. Harold S Hook,Kansas City,MO,62,U of Missouri,BS,53,21,U of Missouri,MA,0,1,54,22,24,16,980000,784000,749207,1860100,15479400,0.143,4829,250,16,Insurance-lifehealth,4
+4350150,FALSE,Insurance,Progressive,Mr. Peter B Lewis,Cleveland,OH,60,Princeton,AB,55,21,,none,0,0,,,39,29,1000000,1400000,1950150,,15877200,13.934,1955,267.3,24,Insurance-propertycasualty,4
+4308540,FALSE,Transport,Santa Fe Pacific,Mr. Robert D Krebs,Sacramento,CA,52,Stanford U,BA,64,22,Harvard,MBA,1,1,66,24,28,7,450000,143550,82544,3632440,8665240,0.165,2726,338.8,18,Transport-railroad,7
+4173010,FALSE,Retailing,Sears Roebuck,Mr. Edward A Brennan,Chicago,IL,60,Marquette U,BS,55,21,,none,0,0,,,38,8,1025000,2050000,26548,1071460,11161000,0.045,50838,2409.1,10,Retailing-department stores,6
+4164330,FALSE,Financial,PNC Bank,Mr. Thomas H O'Brien,Pittsburgh,PA,57,U of Notre Dame,BS,58,21,Harvard,MBA,1,1,62,25,32,9,800000,1200000,139334,2025000,11187400,0.071,4146,745.3,11,Financial services-regional banks,1
+4154620,FALSE,Consumer,Unifi,Mr. William T Kretzer,Pittsburgh,PA,47,NC State U,BA,68,21,,none,0,0,,,23,9,650000,400000,33058,3071560,13729000,0.599,1365,114.9,23,Consumer nondurables-textiles,18
+4069420,FALSE,Aerospacedefense,Martin Marietta,Mr. Norman R Augustine,Denver,CO,58,Princeton,BSE,57,21,Princeton,MSE,0,1,59,23,17,6,830000,800000,1645320,794103,12625100,0.108,9436,450.3,17,Aerospacedefense,11
+4004090,FALSE,Energy,Exxon,Mr. Lee R Raymond,Watertown,SD,55,U of Wisc Madis,BS,60,21,U of Minnesota,PhD,0,1,63,24,31,1,1143330,500000,352567,2008190,,0.006,97825,5280,13,Energy-international oils,12
+3983410,FALSE,ComputersComm,ATT,Mr. Robert E Allen,Joplin,MO,59,Wabash C,BA,57,22,,none,0,0,,,37,6,1032000,1356700,1594710,,16639100,0.01,67156,3974,14,Computerscommunications-telecommun,16
+3972810,FALSE,Health,Bristol-Myers Squibb,Mr. Charles A Heimbold Jr,Newark,NJ,60,Villanova,BA,54,20,U of Pennsylvan,LLB,0,1,60,26,31,1,828625,621121,2523070,,,0.026,11413,1959,6,Health-drugs,3
+3960920,FALSE,ComputersComm,Silicon Graphics,Mr. Edward R McCracken,Fairfield,IA,50,Iowa State,BSE,66,22,Stanford U,MBA,1,1,68,24,10,10,636043,310000,,3014880,10512200,0.389,1262,114.7,44,Computerscommunications-major systems,16
+3884360,FALSE,Consumer,TRW,Mr. Joseph T Gorman,Rising Sun,IN,56,Kent State U,BA,60,22,Yale,LLB,0,1,62,24,26,5,896667,661000,2326700,,10651900,0.09,7948,220,13,Consumer durables-automotive parts,18
+3806940,FALSE,Energy,Occidental Petroleum,Dr. Ray R Irani,Lebanon,,59,American U Beir,BS,53,18,USC,PhD,0,1,57,22,11,3,1900000,872000,1034940,,18657200,0.192,8116,295,-3,Energy-other energy,12
+3737930,FALSE,Financial,KeyCorp,Mr. Victor J Riley Jr,Buffalo,NY,62,U of Notre Dame,BA,53,21,,none,0,0,,,30,20,720000,720000,2297930,,7316910,0.011,5186,709.9,16,Financial services-regional banks,1
+3719270,FALSE,ComputersComm,Computer Associates,Mr. Charles B Wang,China,,49,CUNY Queens,BS,67,22,,none,0,0,,,18,18,1000000,2700000,19271,,12402200,4.141,2055,341.6,13,Computerscommunications-software,16
+3701460,FALSE,Consumer,Ford Motor,Mr. Alexander J Trotman,England,,60,Michigan State,MBA,72,38,,none,0,0,,,39,1,716667,1000000,136042,1848750,,0.008,108521,2529,10,Consumer durables-automobilestrucks,18
+3659940,FALSE,Financial,Dreyfus,Mr. HowardStein,New York,NY,67,,,,,,none,0,0,,,39,23,237981,1374220,916049,1131690,12949900,3.123,386,99.4,13,Financial services-leasefinance,1
+3646680,FALSE,Energy,Mapco,Mr. James E Barnes,Ponca City,OK,60,Oklahoma State,BS,57,23,,none,0,0,,,11,10,675000,1292000,304971,1374700,18223200,0.684,2567,127,16,Energy-other energy,12
+3631940,FALSE,ComputersComm,Seagate Technology,Mr. Alan F Shugart,Los Angeles,CA,63,U of Redlands,BS,53,22,,none,0,0,,,15,15,550000,411000,1679690,991250,9677880,0.482,3114,151.3,15,Computerscommunications-peripherals,16
+3618090,FALSE,Consumer,Service Corp Interna,Mr. Robert L Waltrip,Austin,TX,63,U of Houston,BBA,54,23,,none,0,0,,,32,32,717500,882000,2018590,,17974300,0.746,899,103.1,19,Consumer nondurables-personal products,18
+3567130,FALSE,Financial,Chase Manhattan,Mr. Thomas G Labrecque,Long Branch,NJ,55,Villanova,BA,60,21,,none,0,0,,,30,4,750000,1500000,1037490,279634,7058520,0.05,11417,466,3,Financial services-multinational banks,1
+3549720,FALSE,Health,Merck,Dr. P RoyVagelos,Westfield,NJ,64,U of Pennsylvan,AB,50,20,Columbia,MD,0,1,54,24,19,9,1040630,1200000,1309100,,23345800,0.07,10498,2166.2,9,Health-drugs,3
+3538890,FALSE,Energy,Baker Hughes,Mr. James D Woods,Falmouth,KY,62,Cal St Fullerto,BA,67,35,,none,0,0,,,39,7,725000,175000,221293,2417590,9120770,0.174,2642,71.5,3,Energy-oilfield services,12
+3514220,FALSE,Travel,Promus Cos,Mr. Philip G Satre,Palo Alto,CA,45,Stanford U,BA,71,22,U of Cal Davis,JD,0,1,75,26,14,1,345639,342183,2826400,,,0.388,1252,91.8,51,Travel-hotelsrecreation,8
+3501910,FALSE,Entertainment,Reader's Digest Asso,Mr. George V Grune,White Plains,NY,64,Duke U,AB,52,22,,none,0,0,,,34,10,822693,500000,2179220,,22576700,0.24,2821,271.9,18,Entertainmentinformation-publishing,17
+3493700,FALSE,Insurance,Old Republic Interna,Mr. A C Zucaro,France,,55,CUNY Queens,BS,62,23,,none,0,0,,,18,4,454850,400000,5486,2633370,5715640,0.355,1736,166.4,19,Insurance-diversified,4
+3414220,FALSE,Consumer,Gillette,Mr. Alfred M Zeien,New York,NY,64,Webb Institute,BS,52,22,,none,0,0,,,26,3,908333,675000,157273,1673620,14248200,0.138,5411,426.9,31,Consumer nondurables-personal products,18
+3409250,FALSE,Financial,Alex Brown,Mr. Alvin B Krongard,Baltimore,MD,58,Princeton,AB,58,22,U of Maryland,JD,0,1,75,39,23,3,200000,2723350,323398,162499,7023870,1.751,628,89.2,21,Financial services-brokerage,1
+3404080,FALSE,Health,Bergen Brunswig,Mr. Robert E Martini,Hackensack,NJ,62,Ohio State U,BS,54,22,,none,0,0,,,38,4,559154,200000,139648,2505280,6498920,7.49,7058,27,1,Health-drugs,3
+3382450,FALSE,Financial,Barnett Banks,Mr. Charles E Rice,Chattanooga,TN,58,U of Miami,BBA,58,22,Rollins C,MBA,1,1,64,28,29,15,685000,1015500,881971,799975,8830270,0.105,3130,421,10,Financial services-regional banks,1
+3367040,FALSE,Travel,Caesars World,Mr. HenryGluck,Germany,,66,U of Pennsylvan,BS,50,22,,none,0,0,,,12,11,862400,848000,1656640,,12945000,1.189,1013,92.5,8,Travel-hotelsrecreation,8
+3366480,FALSE,Financial,Valley Bancorp,Mr. Peter M Platten III,Green Bay,WI,54,U of Wisc Madis,BBA,62,22,,none,0,0,,,29,5,373000,74600,55742,2863140,5440050,1.094,377,45.9,22,Financial services-regional banks,1
+3364990,FALSE,Financial,Countrywide Credit I,Mr. David S Loeb,New York,NY,70,NYU,BS,51,27,,none,0,0,,,25,25,892309,1775000,101485,596197,11045700,2.233,1078,171.4,45,Financial services-leasefinance,1
+3356250,FALSE,Energy,Chevron,Mr. Kenneth T Derr,Wilkes-Barre,PA,57,Cornell,BSM,59,22,Cornell,MBA,1,1,60,23,34,5,900000,914000,1542250,,9791540,0.021,32123,1265,15,Energy-international oils,12
+3351880,FALSE,Chemicals,International Flavor,Mr. Eugene P Grisanti,Buffalo,NY,64,Boston U,LLB,53,23,Harvard,LLM,0,1,54,24,34,9,700000,350000,2301880,,11978400,1.395,1189,202.5,20,Chemicals-specialized,15
+3351020,FALSE,Health,BauschLomb,Mr. Daniel E Gill,Ziegler,IL,57,Northwestern U,BS,58,21,,none,0,0,,,15,13,950000,680000,1636800,84219,21702700,0.186,1872,156.5,16,Health-medical supplies,3
+3350860,FALSE,Food,RJR Nabisco,Mr. Charles M Harper,Lansing,MI,66,Purdue U,BS,49,21,U of Chicago,MBA,1,1,50,22,1,1,704615,1750000,896247,,,0.055,15104,-3,-15,Fooddrinktobacco-tobacco,0
+3315930,FALSE,Metals,Maxxam,Mr. Charles E Hurwitz,Kilgore,TX,54,U of Oklahoma,BS,62,22,,none,0,0,,,16,14,558250,400000,88102,2269580,20204400,30.786,2031,-131.9,5,Metals-nonferrous metals,5
+3296380,FALSE,Financial,Signet Banking,Mr. Robert M Freeman,Richmond,VA,53,U of Virginia,BS,63,22,,none,0,0,,,23,5,530200,488500,374196,1903490,6348370,0.256,1169,174.4,26,Financial services-regional banks,1
+3276450,FALSE,Financial,Huntington Bancshare,Mr. FrankWobst,Germany,,60,U of Erlangen,BA,55,21,Rutgers,MBA,1,1,64,30,20,13,760000,646000,93344,1777100,8297420,0.514,1542,236.9,23,Financial services-regional banks,1
+3274350,FALSE,Metals,Phelps Dodge,Mr. Douglas C Yearley,Oak Park,IL,58,Cornell,BS,58,22,,none,0,0,,,34,5,560000,300000,652657,1761690,15864600,0.154,2596,187.9,22,Metals-nonferrous metals,5
+3251450,FALSE,Consumer,Cummins Engine,Mr. Henry B Schacht,Erie,PA,59,Yale,BS,56,21,Harvard,MBA,1,1,62,27,30,25,600000,450000,1630090,571359,10467000,0.219,4248,182.6,11,Consumer durables-automotive parts,18
+3245430,FALSE,Financial,First Bank System,Mr. John F Grundhofer,Los Angeles,CA,55,Loyola U,BA,60,21,USC,MBA,1,1,64,25,4,4,587500,630000,460410,1567520,8174660,0.117,2231,298,14,Financial services-regional banks,1
+3224090,FALSE,Financial,First Chicago,Mr. Richard L Thomas,Marion,OH,63,Kenyon C,BA,53,22,Harvard,MBA,1,1,58,27,36,2,719157,1300000,892206,312729,5434430,0.294,4827,804.5,11,Financial services-multinational banks,1
+3214100,FALSE,Financial,Charles Schwab,Mr. Charles R Schwab,Sacramento,CA,56,Stanford U,BA,59,21,Stanford U,MBA,1,1,61,23,20,16,690012,2500230,23861,,12508300,22.844,1097,124.4,48,Financial services-brokerage,1
+3202030,FALSE,Chemicals,FMC,Mr. Robert N Burt,Lakewood,OH,57,Princeton,BS,59,22,Harvard,MBA,1,1,64,27,21,3,562500,313875,44121,2281530,5644160,0.207,3754,41,7,Chemicals-diversified,15
+3196490,FALSE,Food,IBP,Mr. Robert L Peterson,Hartington,NE,61,,,,,,none,0,0,,,33,14,1240000,1848050,108440,,15532100,0.126,11671,77.5,13,Fooddrinktobacco-food processors,2
+3151000,FALSE,Chemicals,Sherwin-Williams,Mr. John G Breen,Cleveland,OH,59,John Carroll U,BS,56,21,Case Western,MBA,1,1,61,26,15,15,722800,560000,1392900,475295,10275900,0.583,2949,165.2,21,Chemicals-specialized,15
+3087840,FALSE,Financial,First USA,Mr. John C Tolleson,,,46,,,,,,none,0,0,,,9,9,470000,352500,4430,2260910,10086100,2.07,581,64.1,173,Financial services-leasefinance,1
+3077650,FALSE,Food,ConAgra,Mr. Philip B Fletcher,Watertown,NY,60,St Lawrence U,BS,54,20,MIT,MBA,1,1,70,36,12,2,800000,428600,1055690,793363,,0.223,23002,408.4,15,Fooddrink tobacco-food processors,0
+3059790,FALSE,Chemicals,Lubrizol,Dr. Lester E Coleman,Akron,OH,63,U of Akron,BS,52,21,U of Illinois,PhD,0,1,55,24,39,16,652713,253310,83745,2070020,8391160,0.352,1526,85,17,Chemicals-specialized,15
+3049780,FALSE,Chemicals,Union Carbide,Mr. Robert D Kennedy,Pittsburgh,PA,61,Cornell,BSM,55,22,,none,0,0,,,39,8,815000,590000,107829,1536950,9543830,0.148,4640,165,14,Chemicals-diversified,15
+3042680,FALSE,Energy,Anadarko Petroleum,Mr. Robert J Allison Jr,Evanston,IL,55,U of Kansas,BS,60,21,,none,0,0,,,21,15,750000,675000,219371,1398310,12302800,0.349,476,40,13,Energy-other energy,12
+3012660,FALSE,Financial,Bank of New York,Mr. JohnCarter Bacot,Utica,NY,61,Hamilton C,AB,55,22,Cornell,LLB,0,1,58,25,34,12,898462,1950000,164194,,8560330,0.21,3822,559,9,Financial services-regional banks,1
+3007160,FALSE,Food,Archer Daniels Midla,Mr. Dwayne O Andreas,Worthington,MN,76,,,,,,none,0,0,,,24,24,2633570,,223925,149656,11209300,2.748,10315,468.7,15,Fooddrinktobacco-food processors,2
+2993000,FALSE,Transport,Union Pacific,Mr. DrewLewis,Philadelphia,PA,62,Haverford C,BS,53,21,Harvard,MBA,1,1,55,23,8,7,850000,1450000,692997,,19079300,0.084,7561,705,15,Transport-railroad,7
+2986320,FALSE,Food,PepsiCo,Mr. D WayneCalloway,Elkin,NC,58,Wake Forest U,BBA,59,23,,none,0,0,,,27,8,1191150,1700000,95170,,20514600,0.088,25021,1587.9,22,Fooddrinktobacco-beverages,2
+2975850,FALSE,Insurance,UNUM,Mr. James F Orr III,Minneapolis,MN,51,Villanova,BS,65,22,Boston U,MBA,1,1,70,27,8,7,606154,454600,27439,1887660,11132000,0.171,3397,312,30,Insurance-lifehealth,4
+2955800,FALSE,Health,US Healthcare,Mr. LeonardAbramson,Philadelphia,PA,61,Penn State U,BA,54,21,Nova U,MPA,0,1,78,45,18,18,1841000,1064400,50400,,16907100,11.48,2580,299.7,72,Health-health care services,3
+2948250,FALSE,Financial,FirsTier Financial,Mr. David A Rismiller,Baltimore,MD,58,Ohio State U,BS,59,23,,none,0,0,,,6,5,310000,200000,550750,1887500,6027710,0.581,256,47.9,22,Financial services-regional banks,1
+2909660,FALSE,Financial,BankAmerica,Mr. Richard M Rosenberg,Fall River,MA,64,Suffolk U,BS,52,22,Golden Gate U,LLB,0,1,66,36,8,4,700000,1500000,709655,,12228700,0.019,15900,1954,14,Financial services-multinational banks,1
+2896050,FALSE,Financial,Wells Fargo,Mr. Carl E Reichardt,Houston,TX,62,USC,BA,56,24,,none,0,0,,,24,11,775000,1350000,592061,178988,8304100,0.262,4854,612,20,Financial services-regional banks,1
+2878060,FALSE,ComputersComm,Arrow Electronics,Mr. Stephen P Kaufman,Cambridge,MA,52,MIT,BS,63,21,Harvard,MBA,1,1,65,23,12,8,504000,635644,220447,1517970,8435810,3.4,2536,81.6,45,Computerscommunications-peripherals,16
+2859300,FALSE,Business,Pitney Bowes,Mr. George B Harvey,New Haven,CT,63,U of Pennsylvan,BS,54,23,,none,0,0,,,37,11,676667,585000,1100010,497620,10811500,0.199,3543,353.2,16,Business-supplies,13
+2844130,FALSE,Retailing,Home Depot,Mr. BernardMarcus,Newark,NJ,65,Rutgers,BS,54,25,,none,0,0,,,16,16,600000,2080000,164134,,10784800,3.326,9239,457.4,51,Retailing-home improvement,6
+2840250,FALSE,Consumer,Mattel,Mr. John W Amerman,Newark,NJ,62,Dartmouth,BA,53,21,Dartmouth,MBA,1,1,54,22,14,7,828759,825000,1006050,180436,19772300,0.281,2704,135.9,39,Consumer nondurables-photographytoys,18
+2837870,FALSE,Health,Abbott Laboratories,Mr. Duane L Burnham,Excelsior,MN,52,U of Minnesota,BS,63,21,U of Minnesota,MBA,1,1,72,30,12,4,772615,725000,1340260,,18293500,0.053,8408,1399.1,17,Health-drugs,3
+2797380,FALSE,Food,HJ Heinz,Dr. Anthony J F O'Reilly,Ireland,,58,U of Dublin,BCL,58,22,U of Bradford U,PhD,0,1,80,44,25,15,514000,372557,1910820,,120844000,1.279,7135,543.5,9,Fooddrinktobacco-food processors,2
+2795510,FALSE,Business,Omnicom Group,Mr. BruceCrawford,West Bridgewate,MA,65,U of Pennsylvan,BS,52,23,,none,0,0,,,5,5,875000,565000,521138,834375,8024780,0.307,1516,85.3,23,Business-services,13
+2793820,FALSE,Chemicals,WR Grace,Mr. J P Bolduc,Lewiston,ME,54,St Cloud State,BA,61,21,,none,0,0,,,11,1,800000,986000,1007820,,,0.296,4408,26,11,Chemicals-specialized,15
+2793770,FALSE,Metals,Cyprus Amax Minerals,Mr. Milton H Ward,Bessemer,AL,61,U of Alabama,BS,55,22,U of New Mexico,MBA,1,1,74,41,2,2,747413,1500000,546359,,,0.259,1764,100.2,6,Metals-nonferrous metals,5
+2782690,FALSE,Health,Baxter International,Mr. Vernon R Loucks Jr,Evanston,IL,59,Yale,BA,57,22,Harvard,MBA,1,1,63,28,28,14,693231,500000,918721,670733,15536500,0.117,8879,-268,8,Health-medical supplies,3
+2765700,FALSE,ComputersComm,Texas Instruments,Mr. Jerry R Junkins,Fort Madison,IA,56,Iowa State,BS,59,21,SMU,MS,0,1,68,30,35,9,691850,740000,412048,921800,6003780,0.051,8523,476,16,Computerscommunications-peripherals,16
+2757750,FALSE,Health,US Surgical,Mr. Leon C Hirsch,Bronx,NY,66,,,,,,none,0,0,,,30,30,1026020,352680,1379060,,114346000,3.056,1037,-138.7,17,Health-medical supplies,3
+2756210,FALSE,ComputersComm,Sybase,Mr. Mark B Hoffman,Windom,MN,47,US Military Aca,BS,69,22,U of Arizona,MBA,1,1,79,32,10,10,303372,425000,1087,2026750,3857120,2.08,427,44.1,86,Computerscommunications-software,16
+2755790,FALSE,Health,Hillenbrand Industri,Mr. W AugustHillenbrand,Batesville,IN,53,St Joseph's IND,BS,65,24,,none,0,0,,,28,5,586461,531000,1638330,,7986930,5.024,1448,145.8,25,Health-medical supplies,3
+2755200,FALSE,ComputersComm,Lotus Development,Mr. Jim P Manzi,New York,NY,42,Colgate U,BA,73,21,Tufts U,MA,0,1,79,27,11,8,650000,650000,35046,1420160,29016600,2.683,981,55.5,29,Computerscommunications-software,16
+2752850,FALSE,Insurance,Cincinnati Financial,Mr. Robert B Morgan,Yerkes,KY,60,Eastern Kentuck,BA,54,20,,none,0,0,,,28,3,524633,347030,,1881180,5083030,0.576,1442,202.2,23,Insurance-propertycasualty,4
+2748420,FALSE,Business,Computer Sciences,Mr. William R Hoover,Bingham Canyon,UT,64,U of Utah,BS,53,23,U of Utah,MS,0,1,54,24,30,22,580962,440000,592679,1134780,8105350,1.059,2502,84.2,18,Business-services,13
+2725440,FALSE,Financial,Banc One,Mr. John B McCoy,Columbus,OH,50,Williams C,BA,65,21,Stanford U,MBA,1,1,67,23,27,10,972500,1020000,732938,,11447700,0.125,7227,1120.6,20,Financial services-regional banks,1
+2718320,FALSE,ComputersComm,US West,Mr. Richard D McCormick,Fort Dodge,IA,53,Iowa State,BSE,61,20,,none,0,0,,,9,3,700000,575000,1098460,344860,9265650,0.034,10294,394.4,11,Computerscommunications-telecommun,16
+2702360,FALSE,Forest,International Paper,Mr. John A Georges,El Paso,TX,63,U of Illinois,BS,51,20,Drexel U,MBA,1,1,57,26,15,10,880833,525000,1296530,,14474600,0.169,13685,289,11,Forest products-paperlumber,9
+2701230,FALSE,ComputersComm,Hewlett-Packard,Mr. Lewis E Platt,JohnsonCity,NY,53,Cornell,BSM,64,23,U of Pennsylvan,MBA,1,1,66,25,28,2,818750,53988,1365970,462527,,0.015,21426,1284,11,Computerscommunications-major systems,16
+2684250,FALSE,Chemicals,EI du Pont de Nemour,Mr. Edgar S Woolard Jr,Washington,NC,60,NC State U,BS,56,22,,none,0,0,,,36,5,792000,450000,7005,1435240,11100300,0.069,32621,566,13,Chemicals-diversified,15
+2682580,FALSE,Financial,First Union,Mr. Edward E Crutchfield,Dearborn,MI,52,Davidson C,BA,63,21,U of Pennsylvan,MBA,1,1,65,23,29,10,810000,810000,1062580,,9609750,0.06,5755,817.5,19,Financial services-regional banks,1
+2668750,FALSE,Insurance,American National In,Mr. Robert L Moody,Galveston,TX,58,,,,,,none,0,0,,,12,3,2667730,,1016,,7328710,1.318,1329,185.5,11,Insurance-lifehealth,4
+2656860,FALSE,Entertainment,Gannett,Mr. John J Curley,Easton,PA,55,Dickinson C,BA,60,21,Columbia,MS,0,1,63,24,24,8,800000,500000,618952,737910,10588900,0.12,3642,397.8,10,Entertainmentinformation-publishing,17
+2626950,FALSE,Capital goods,Cooper Industries,Mr. RobertCizik,Scranton,PA,63,U of Connecticu,BA,53,22,Harvard,MBA,1,1,58,27,33,19,835000,400000,1391950,,13981100,0.222,6274,367.1,9,Capital goods-other industrial equipment,14
+2599370,FALSE,Financial,Shawmut National,Mr. Joel B Alvord,Manchester,CT,55,Dartmouth,AB,60,21,Dartmouth,MBA,1,1,61,22,31,8,650000,650000,221247,1078130,8020240,0.117,1931,244.6,-1,Financial services-regional banks,1
+2598470,FALSE,Financial,Household Internatio,Mr. Donald C Clark,Brooklyn,NY,62,Clarkson U,BBA,53,21,Northwestern U,MBA,1,1,61,29,39,12,923118,823815,851535,,11443300,0.377,4455,298.7,6,Financial services-leasefinance,1
+2596990,FALSE,ComputersComm,Sprint,Mr. William T Esrey,Philadelphia,PA,54,Denison U,BA,61,21,Harvard,MBA,1,1,64,24,14,9,802084,817825,448104,528981,12392800,0.063,11368,468.3,8,Computerscommunications-telecommun,16
+2595920,FALSE,Financial,Continental Bank,Mr. Thomas C Theobald,Cincinnati,OH,57,Col of the Holy,AB,58,21,Harvard,MBA,1,1,60,23,7,7,620000,922500,4364,1049060,6339640,0.37,1761,258,15,Financial services-multinational banks,1
+2589510,FALSE,Construction,USG,Mr. Eugene B Connolly,New York,NY,62,Hofstra U,BS,54,22,Hofstra U,MBA,1,1,64,32,36,4,612500,717624,1259380,,4459970,0.016,1916,,-37,Construction-materials,0
+2584440,FALSE,Energy,Mobil,Mr. Lucio A Noto,Brooklyn,NY,56,U of Notre Dame,BS,58,20,Cornell,MBA,1,1,62,24,32,1,608333,550000,601049,825056,,0.013,56576,2084,14,Energy-international oils,12
+2579330,FALSE,Insurance,General Re,Mr. Ronald E Ferguson,Chicago,IL,52,Blackburn U,BA,63,21,U of Michigan,MS,0,1,65,23,25,7,768750,610000,414761,785819,9880650,0.074,3560,696.8,12,Insurance-propertycasualty,4
+2578110,FALSE,Financial,First Commerce,Mr. IanArnof,McCrory,AR,54,Vanderbilt U,BA,61,21,Harvard,MBA,1,1,63,23,16,11,516667,210000,438233,1413210,5073240,0.505,496,95.2,26,Financial services-regional banks,1
+2547860,FALSE,Travel,UAL,Mr. Stephen M Wolf,Oakland,CA,52,San Francisco S,BA,65,23,,none,0,0,,,6,6,625000,,1922860,,31391100,0.39,14511,-31,2,Travel-airlines,8
+2544730,FALSE,Forest,Georgia-Pacific,Mr. Alston D Correll,Brunswick,GA,53,U of Georgia,BS,63,22,U of Maine,MS,0,1,67,26,6,1,816667,550000,1178060,,,0.086,12330,-18,12,Forest products-paperlumber,9
+2533770,FALSE,Retailing,Fred Meyer,Mr. Robert G Miller,Louisville,MS,50,,,,,,none,0,0,,,3,3,505610,409251,693912,925000,,0.625,2979,70.9,19,Retailing-drugdiscount,6
+2528790,FALSE,Retailing,Venture Stores,Mr. JulianSeeherman,Wilkes Barre,PA,64,Syracuse U,BA,51,21,,none,0,0,,,17,10,485000,233965,1809820,,4430300,0.625,1863,43.9,42,Retailing-drugdiscount,6
+2515240,FALSE,Consumer,LeggettPlatt,Mr. Harry M Cornell Jr,Dutch East Indi,,65,U of Missouri,BS,50,21,,none,0,0,,,44,34,472731,340864,526470,1175170,6177530,3.094,1527,85.9,31,Consumer durables-home furnishings,18
+2500000,FALSE,ComputersComm,Compaq Computer,Mr. EckhardPfeiffer,Germany,,52,Nuremberg Busin,BA,63,21,SMU,MBA,1,1,83,41,11,3,1000000,1500000,,,9649150,0.001,7191,462.2,22,Computerscommunications-major systems,16
+2498540,FALSE,Food,Pet,Mr. Miles L Marsh,South Africa,,46,U of Cape Town,BA,70,22,Northwestern U,PhD,0,1,76,28,5,3,575084,322906,1600550,,5851760,0.24,1564,-100.4,3,Fooddrinktobacco-food processors,2
+2489570,FALSE,Retailing,Gap,Mr. Donald G Fisher,San Francisco,CA,65,U of Cal Berkel,BS,50,21,,none,0,0,,,25,25,1397810,1082500,9259,,9866210,21.926,3296,258.4,37,Retailing-apparel,6
+2477660,FALSE,Retailing,Carter Hawley Hale S,Mr. David L Dworkin,Cleveland,OH,50,Webster U,BA,74,30,,none,0,0,,,1,1,1000000,,1477660,,,0.00001,2093,-95.9,-34,Retailing-department stores,6
+2462800,FALSE,ComputersComm,Bell Atlantic,Mr. Raymond W Smith,Pittsburgh,PA,56,Carnegie-Mellon,BS,59,21,U of Pittsburgh,MBA,1,1,67,29,35,5,808900,880700,773200,,12752200,0.027,12990,1481.6,12,Computerscommunications-telecommun,16
+2451950,FALSE,Transport,Ryder System,Mr. M AnthonyBurns,Las Vegas,NV,51,Brigham Young U,BS,64,21,U of Cal Berkel,MBA,1,1,65,22,20,11,725000,460000,16861,1250090,6896010,0.129,4217,114.7,5,Transport-shipping,7
+2440490,FALSE,Aerospacedefense,United Technologies,Mr. GeorgeDavid,Bryn Mawr,PA,52,Harvard,BA,65,23,U of Virginia,MBA,1,1,67,25,19,1,770833,600000,905529,164124,,0.054,20736,487,10,Aerospacedefense,11
+2430100,FALSE,Construction,Morrison Knudsen,Mr. William J Agee,Boise,ID,56,U of Idaho,BS,60,22,Harvard,MBA,1,1,63,25,6,6,750000,950000,730095,,9576770,0.563,2723,35.8,10,Construction-builders,0
+2427560,FALSE,Capital goods,Tyco International,Mr. L DennisKozlowski,Irvington,NJ,47,Seton Hall C,BA,68,21,,none,0,0,,,19,2,920000,,1507560,,,0.589,3133,79.2,8,Capital goods-other industrial equipment,14
+2379490,FALSE,Consumer,Fleetwood Enterprise,Mr. John C Crean,Bowden,ND,68,,,,,,none,0,0,,,44,44,111000,1468530,799959,,13119600,17.533,2207,60,10,Consumer durables-recreation equipment,18
+2378680,FALSE,Consumer,Colgate-Palmolive,Mr. ReubenMark,Jersey City,NJ,55,Middlebury C,BA,60,21,Harvard,MBA,1,1,63,24,31,10,900833,1264000,93949,119898,32532100,0.33,7141,548.1,22,Consumer nondurables-personal products,18
+2375840,FALSE,Financial,Beneficial Corp,Mr. Finn M W Caspersen,New York,NY,52,Brown,AB,63,21,Harvard,LLB,0,1,66,24,22,18,1483500,,892340,,8920710,2.872,1958,186,15,Financial services-leasefinance,1
+2369230,FALSE,Financial,First Alabama Bancsh,Mr. J StanleyMackin,Birmingham,AL,61,Auburn U,BS,54,21,,none,0,0,,,28,4,525000,330383,1295470,218369,5345840,0.248,688,112,20,Financial services-regional banks,1
+2360510,FALSE,Retailing,Best Buy,Mr. Richard M Schulze,St. Paul,MN,53,,,,,,none,0,0,,,28,28,492308,175000,26548,1666660,3949360,25.213,2427,31.1,62,Retailing-consumer electronics,6
+2359970,FALSE,Food,UST Inc,Mr. Vincent A Gierer Jr,New York,NY,46,Iona C,BBA,69,21,,none,0,0,,,16,1,560000,1536090,14150,249725,,0.251,1080,368.9,19,Fooddrinktobacco-tobacco,0
+2356200,FALSE,ComputersComm,Intel,Dr. Andrew S Grove,Hungary,,57,CUNY City,BS,60,23,U of Cal Berkel,PhD,0,1,63,26,26,7,360000,1823700,172500,,11387600,0.11,8782,2295.3,39,Computerscommunications-peripherals,16
+2345800,FALSE,Retailing,JC Penney,Mr. William R Howell,Claremore,OK,58,U of Oklahoma,BBA,58,22,,none,0,0,,,36,11,691967,1048880,532992,71956,10613300,0.072,19578,944,19,Retailing-department stores,6
+2341180,FALSE,Insurance,Aetna LifeCasualty,Mr. Ronald E Compton,Chicago,IL,61,Northwestern U,BA,54,21,,none,0,0,,,40,2,775000,550000,68813,947362,4002120,0.017,17118,-588.3,7,Insurance-diversified,4
+2339510,FALSE,ComputersComm,Pacific Telesis Grou,Mr. SamGinn,St Clair,AL,57,Auburn U,BS,59,22,,none,0,0,,,34,6,743542,793200,802765,,10510000,0.005,9244,191,14,Computerscommunications-telecommun,16
+2331260,FALSE,Metals,USX-US Steel,Mr. Charles A Corry,Cincinnati,OH,62,U of Cincinnati,BA,55,23,U of Cincinnati,JD,0,1,59,27,35,5,946667,750000,194591,440000,8174890,0.02,5612,-169,9,Metals-steel,5
+2331120,FALSE,Consumer,Sunbeam-Oster,Mr. RogerSchipke,St. Louis,MO,57,Washington U,BS,58,21,NYU,MBA,1,1,61,24,1,1,1000000,209589,1121530,,,0.225,1066,88.8,29,Consumer durables-appliances,18
+2321800,FALSE,Insurance,Providian,Mr. Irving W Bailey II,Cambridge,MA,52,U of Colorado,BA,63,21,NYU,MBA,1,1,68,26,13,6,666154,457400,551490,646759,10178200,0.148,2884,322.7,15,Insurance-lifehealth,4
+2320630,FALSE,Construction,Pulte,Mr. Robert K Burgess,Canada,,50,Michigan State,BS,66,22,,none,0,0,,,11,1,350000,625000,1500,1344130,,0.018,1633,77.8,20,Construction-builders,0
+2318730,FALSE,Financial,Meridian Bancorp,Mr. Samuel A McCullough,Pittsburgh,PA,55,U of Pittsburgh,BBA,60,21,,none,0,0,,,19,16,600000,308500,36000,1374230,5707720,0.149,1247,150.5,14,Financial services-regional banks,1
+2295300,FALSE,ComputersComm,GTE,Mr. Charles R Lee,Pittsburgh,PA,54,Cornell,BA,62,22,Harvard,MBA,1,1,64,24,11,2,728846,1016800,214167,335488,6362590,0.006,19748,990,12,Computerscommunications-telecommun,16
+2271460,FALSE,Aerospacedefense,Textron,Mr. James F Hardymon,Maysville,KY,59,U of Kentucky,BS,56,21,U of Kentucky,MS,0,1,58,23,4,2,725000,950000,596461,,6408090,0.015,9078,379.1,19,Aerospacedefense,11
+2271190,FALSE,Financial,Northern Trust,Mr. David W Fox,Aurora,IL,62,U of Notre Dame,BS,53,21,U of Chicago,MBA,1,1,58,26,39,4,616250,414982,715163,524792,7935770,0.306,1259,167.9,23,Financial services-regional banks,1
+2258990,FALSE,Financial,Chemical Banking,Mr. Walter V Shipley,Newark,NJ,58,NYU,BS,61,25,,none,0,0,,,38,1,750000,1500000,8994,,,0.047,12427,1569,6,Financial services-multinational banks,1
+2258840,FALSE,ComputersComm,Harris Corp,Mr. John T Hartley,Jacksonville,FL,64,Auburn U,BS,55,25,,none,0,0,,,38,8,567500,560780,423795,706768,7321290,0.315,3179,119.6,15,Computerscommunications-major systems,16
+2251800,FALSE,Capital goods,Dover,Mr. Gary L Roubos,Denver,CO,57,U of Colorado,BS,59,22,Harvard,MBA,1,1,63,26,24,13,610000,300000,324979,1016820,7290870,0.159,2484,158.3,20,Capital goods-other industrial equipment,14
+2246120,FALSE,Food,Supervalu,Mr. Michael W Wright,Minneapolis,MN,55,U of Minnesota,BA,61,22,U of Minnesota,JD,0,1,63,24,17,13,675000,810000,14594,746528,6842950,0.22,16104,182.6,10,Food distributors-food wholesalers,2
+2239950,FALSE,Utility,Houston Industries,Mr. Don D Jordan,Corp Christi,TX,62,U of Texas Aust,BBA,54,22,S Texas Col of,JD,0,1,69,37,38,17,829500,,1410450,,6749680,0.047,4324,416,13,Electric utilities-south central,19
+2229870,FALSE,Business,Xerox,Mr. Paul A Allaire,Worcester,MA,55,Worcester Polyt,BSE,60,21,Carnegie-Mellon,MSIA,0,1,66,27,28,4,763330,500000,88551,877984,7556470,0.034,17334,-126,15,Business-supplies,13
+2224530,FALSE,Financial,Federal Home Loan Mo,Mr. Leland C Brendsel,Sioux Falls,SD,52,U of Colorado,BS,67,25,Northwestern U,PhD,0,1,73,31,12,7,770000,462000,992532,,6348920,0.043,5584,786,23,Financial services-leasefinance,1
+2196910,FALSE,ComputersComm,MCI Communications,Mr. Bert C Roberts Jr,Kansas City,MO,51,Johns Hopkins U,BS,65,22,,none,0,0,,,22,2,800000,900000,496906,,6587730,0.075,11921,627,11,Computerscommunications-telecommun,16
+2193570,FALSE,Retailing,Federated Department,Mr. Allen I Questrom,Boston,MA,54,Boston U,BA,64,24,,none,0,0,,,4,4,1200000,,993572,,8239230,0.004,7229,196.8,18,Retailing-department stores,6
+2190870,FALSE,Retailing,TJX Cos,Mr. BernardCammarata,Brooklyn,NY,54,,,,,,none,0,0,,,18,5,738942,462282,989642,,7977850,0.312,3627,127,14,Retailing-apparel,6
+2187170,FALSE,Capital goods,Illinois Tool Works,Mr. John D Nichols,China,,63,Harvard,BA,53,22,Harvard,MBA,1,1,55,24,14,12,600000,567600,1019570,,16253000,0.367,3159,206.6,21,Capital goods-other industrial equipment,14
+2185610,FALSE,Insurance,USLife,Mr. Gordon E Crosby Jr,Remsen,IA,73,U of Missouri,BS,46,25,,none,0,0,,,35,28,868846,580000,657407,79361,9619170,1.106,1600,97.2,11,Insurance-lifehealth,4
+2160710,FALSE,Insurance,Torchmark,Mr. Ronald K Richey,Erie,KS,67,Washburn U,BA,49,22,Washburn U,JD,0,1,51,24,30,9,1166680,833324,160710,,47971700,1.325,2177,279.6,16,Insurance-lifehealth,4
+2160230,FALSE,Consumer,VF,Mr. Lawrence R Pugh,White Plains,NY,61,Colby C,BBA,56,23,,none,0,0,,,14,12,735000,400000,131166,894062,10784200,0.038,4320,246.4,12,Consumer nondurables-textilesapparel,18
+2157360,FALSE,ComputersComm,Apple Computer,Mr. Michael H Spindler,Germany,,52,,,,,,none,0,0,,,14,1,696847,302240,,1158270,,0.00001,8446,-34.7,,Computerscommunications-major systems,16
+2150430,FALSE,ComputersComm,Oracle Systems,Mr. Lawrence J Ellison,New York,NY,49,,,,,,none,0,0,,,17,17,1000000,1150000,432,,7484560,22.518,1693,197.8,40,Computerscommunications-software,16
+2146980,FALSE,Food,Campbell Soup,Mr. David W Johnson,Australia,,61,U of Sydney,BE,54,21,U of Chicago,MBA,1,1,58,25,4,4,806700,912722,41180,386374,6438420,0.186,6759,595.3,22,Fooddrinktobacco-food processors,2
+2145180,FALSE,Metals,Freeport-McMoRan,Mr. James R Moffett,Houma,LA,55,U of Texas Aust,BS,61,22,Tulane U,MS,0,1,63,24,24,10,661500,,1483680,,33915700,1.105,1611,-96.9,10,Metals-nonferrous metals,5
+2144240,FALSE,Financial,First Interstate Ban,Mr. Edward M Carson,Tucson,AZ,64,Arizona State,BS,51,21,Rutgers-Stonier,MBA,1,1,63,33,43,4,784133,1062000,254604,43500,5941110,0.043,3898,561.4,15,Financial services-regional banks,1
+2117870,FALSE,Financial,First Fidelity Banco,Mr. Anthony P Terracciano,Bayonne,NJ,55,St Peter's C,BS,60,21,Fordham U,MA,0,1,62,23,4,4,738462,475000,629186,275226,7210310,0.08,2429,396.5,14,Financial services-regional banks,1
+2113750,FALSE,ComputersComm,Sun Microsystems,Mr. Scott G McNealy,Columbus,IN,39,Harvard,BA,76,21,Stanford U,MBA,1,1,80,25,12,10,400000,251304,1200,1461250,6905570,1.836,4493,188.2,11,Computerscommunications-major systems,16
+2113310,FALSE,Chemicals,Lyondell Petrochemic,Dr. Bob G Gower,West Frankfort,IL,56,Southern Illino,BA,58,20,U of Minnesota,PhD,0,1,63,25,31,6,555099,460000,1098210,,7135840,0.069,3850,4,5,Chemicals-specialized,15
+2105840,FALSE,Business,Interpublic Group of,Mr. Philip H Geier Jr,Pontiac,MI,59,Colgate U,BA,57,22,Columbia,MBA,1,1,58,23,19,14,965000,350000,790840,,29805100,0.713,1740,125.3,20,Business-services,13
+2100190,FALSE,Health,JohnsonJohnson,Mr. Ralph S Larsen,Brooklyn,NY,55,Hofstra U,BBA,62,23,,none,0,0,,,32,5,890000,448125,342353,419716,11036500,0.018,14138,1787,13,Health-medical supplies,3
+2092140,FALSE,Insurance,Transamerica,Mr. Frank C Herringer,New York,NY,51,Dartmouth,AB,64,21,Dartmouth,MBA,1,1,65,22,15,3,930000,850000,173851,138291,6589710,0.056,4833,400.5,14,Insurance-lifehealth,4
+2085600,FALSE,Health,Warner-Lambert,Mr. Melvin R Goodes,Canada,,59,Queens U,BA,57,22,U of Chicago,MBA,1,1,60,25,29,3,820000,586000,679601,,9995930,0.091,5794,285,11,Health-drugs,3
+2084010,FALSE,Retailing,Dillard Department S,Mr. William T Dillard Sr,Mineral Spr,AR,79,U of Arkansas,BBA,35,20,Columbia,MS,0,1,37,22,55,55,835000,1135000,114013,,11567400,1.04,5131,241.1,15,Retailing-department stores,6
+2079180,FALSE,Food,McDonald's,Mr. Michael R Quinlan,Chicago,IL,49,Loyola U,BS,67,22,Loyola U,MBA,1,1,70,25,28,7,980000,800000,299176,,9273410,0.084,7408,1082.5,18,Food distributors-restaurant chains,2
+2078930,FALSE,Entertainment,CBS,Mr. Laurence A Tisch,Brooklyn,NY,71,NYU,BS,42,19,U of Pennsylvan,MA,0,1,43,20,8,7,1025070,900000,153864,,8114440,3.014,3510,326.2,13,Entertainmentinformation-broadcasting,17
+2066290,FALSE,Energy,Sonat,Mr. Ronald L Kuehn Jr,Queens,NY,59,Fordham U,BA,57,22,Fordham U,LLB,0,1,64,29,24,10,590000,504600,535690,436000,6698810,0.158,1741,265.1,17,Energy-other gas,12
+2065800,FALSE,Health,Pfizer,Mr. William C Steere Jr,Ann Arbor,MI,57,Stanford U,BA,59,22,,none,0,0,,,35,3,1100000,800000,64000,101796,6811560,0.022,7478,657.5,17,Health-drugs,3
+2064270,FALSE,Utility,FPL Group,Mr. James L Broadhead,New Rochelle,NY,58,Cornell,BSM,58,22,Columbia,JD,0,1,63,27,5,5,765900,581318,717052,,7151980,0.069,5316,428.7,10,Electric utilities-southeast,19
+2062810,FALSE,Entertainment,McGraw-Hill,Mr. Joseph L Dionne,Montgomery,AL,60,Hofstra U,BA,55,21,Columbia,EdD,0,1,65,31,28,11,750000,669008,614551,29250,8869310,0.22,2195,11.4,3,Entertainmentinformation-publishing,17
+2059310,FALSE,Entertainment,DunBradstreet,Mr. Robert E Weissman,New Haven,CT,54,Babson C,BS,64,24,,none,0,0,,,21,1,674077,591334,793899,,,0.061,4710,428.7,8,Entertainmentinformation-publishing,17
+2051540,FALSE,Capital goods,York International,Mr. Robert N Pokelwaldt,North Tonawanda,NY,57,SUNY Buffalo,BS,60,23,,none,0,0,,,11,3,435000,202356,4698,1409490,8392090,0.499,2032,75.5,15,Capital goods-other industrial equipment,14
+2051290,FALSE,Energy,Tosco,Mr. Thomas D O'Malley,New York,NY,52,Manhattan C,BBA,63,21,,none,0,0,,,6,4,500000,1526000,25286,,6193940,3.549,3559,80.6,10,Energy-other energy,12
+2045500,FALSE,Food,Snapple Beverage,Mr. LeonardMarsh,Brooklyn,NY,61,,,,,,none,0,0,,,22,2,300000,1698300,47198,,,7.663,516,59.5,116,Fooddrinktobacco-beverages,2
+2039660,FALSE,ComputersComm,AST Research,Mr. Safi U Qureshey,Pakistan,,42,U of Texas Aust,BSE,75,23,,none,0,0,,,14,6,543700,514298,981665,,9899090,8.452,1971,-49.8,44,Computerscommunications-major systems,16
+2037490,FALSE,Retailing,Melville,Mr. Stanley P Goldstein,Woonsocket,RI,59,U of Pennsylvan,BS,55,20,,none,0,0,,,31,7,1050000,285000,702491,,8602980,0.157,10435,331.8,2,Retailing-apparel,6
+2035940,FALSE,Financial,Golden West Financia,Mrs. Marion O Sandler,Biddeford,ME,63,Wellesley C,BA,52,21,NYU,MBA,1,1,58,27,31,31,847333,,13391,1175210,12696100,7.751,1932,273.9,17,Financial services-thrift institutions,1
+2028450,FALSE,Energy,USX-Marathon,Mr. Charles A Corry,Cincinnati,OH,62,U of Cincinnati,BA,55,23,U of Cincinnati,JD,0,1,59,27,35,5,946667,750000,331785,,8516930,0.025,10035,-6,-15,Energy-other energy,12
+2010110,FALSE,Capital goods,DeereCo,Mr. Hans W Becherer,Detroit,MI,59,Trinity College,BA,57,22,Harvard,MBA,1,1,62,27,32,5,733805,183092,192713,900501,5804030,0.04,8057,308.3,14,Capital goods-heavy equipment,14
+2008450,FALSE,Energy,Nicor,Mr. Richard G Cline,Chicago,IL,59,U of Illinois,BS,57,22,,none,0,0,,,9,8,628846,409575,26412,943613,8800520,0.313,1674,111.7,16,Energy-other gas,12
+2000000,FALSE,Consumer,Fruit of the Loom,Mr. William Farley,Pawtucket,RI,51,Bowdoin C,AB,64,21,Boston C,JD,0,1,69,26,18,9,850000,1150000,,,13920700,9.247,1884,212.8,27,Consumer nondurables-textilesapparel,18
+1993460,FALSE,Insurance,American Premier Und,Mr. Carl H Lindner,Dayton,OH,75,,,,,,none,0,0,,,11,7,893750,1000000,99712,,5610840,40.47,1763,232,5,Insurance-propertycasualty,4
+1983740,FALSE,ComputersComm,Micron Technology,Mr. Joseph L Parkinson,San Antonio,TX,48,Columbia,BA,67,21,Tulane U,JD,0,1,71,25,14,8,331731,499178,5192,1147640,6387330,0.084,1231,246.6,34,Computerscommunications-peripherals,16
+1968150,FALSE,Energy,Atlantic Richfield,Mr. Lodwrick M Cook,Castor,LA,65,Louisiana State,BS,50,21,SMU,MBA,1,1,65,36,38,9,1147740,560000,260414,,14874300,0.005,17189,269,6,Energy-other energy,12
+1959620,FALSE,Financial,Fleet Financial Grou,Mr. TerrenceMurray,Woonsocket,RI,54,Harvard,BA,62,22,,none,0,0,,,32,12,902000,990000,67622,,9044090,0.152,4678,488,11,Financial services-regional banks,1
+1957940,FALSE,Retailing,Limited,Mr. Leslie H Wexner,Dayton,OH,56,Ohio State U,BS,59,21,,none,0,0,,,31,31,1150000,660100,147836,,9704730,19.225,7245,391,9,Retailing-apparel,6
+1954400,FALSE,ComputersComm,BellSouth,Mr. John L Clendenin,El Paso,TX,60,Northwestern U,BA,55,21,,none,0,0,,,39,10,785000,705500,463900,,10421200,0.009,15880,1034.1,12,Computerscommunications-telecommun,16
+1935170,FALSE,Business,Avery Dennison,Mr. Charles D Miller,Hartford,CT,66,Johns Hopkins U,BA,49,21,,none,0,0,,,30,16,683333,555000,195939,500901,10303300,0.29,2609,83.3,7,Business-supplies,13
+1924660,FALSE,Aerospacedefense,E-Systems,Mr. A LowellLawson,Macon,GA,56,U of Georgia,BS,60,22,,none,0,0,,,30,1,425017,345000,367150,787495,,0.118,2097,121.9,12,Aerospacedefense,11
+1923100,FALSE,ComputersComm,National Semiconduct,Dr. Gilbert F Amelio,New York,NY,51,Georgia Tech,BS,65,22,Georgia Tech,PhD,0,1,68,25,3,3,569039,792000,562064,,4006840,0.008,2244,222.9,23,Computerscommunications-peripherals,16
+1901450,FALSE,Business,Ogden,Mr. R RichardAblon,New York,NY,44,Boston U,BA,71,21,,none,0,0,,,23,4,700000,875000,272316,54138,9668500,0.502,2039,62.1,2,Business-services,13
+1898900,FALSE,ComputersComm,Nynex,Mr. William C Ferguson,Detroit,MI,63,Albion C,AB,52,21,,none,0,0,,,42,5,773000,562000,255722,308176,8049240,0.017,13408,-272.4,6,Computerscommunications-telecommun,16
+1894570,FALSE,Food,CPC International,Mr. Charles R Shoemate,La Harpe,IL,54,Western Illinoi,BS,62,22,U of Chicago,MBA,1,1,72,32,32,4,670833,455000,741240,27500,6195650,0.031,6738,454.5,15,Fooddrinktobacco-food processors,2
+1889680,FALSE,Energy,Texaco,Mr. Alfred C DeCrane Jr,Cleveland,OH,62,U of Notre Dame,BA,53,21,Georgetown U,JD,0,1,59,27,35,1,875000,807008,67444,140230,,0.044,33245,1068,12,Energy-international oils,12
+1884710,FALSE,Insurance,Statesman Group,Mr. David J Noble,Des Moines,IA,62,,,,,,none,0,0,,,22,12,550000,400000,27988,906722,3075100,2.609,379,37.2,35,Insurance-lifehealth,4
+1880830,FALSE,Consumer,Reebok International,Mr. Paul B Fireman,Cambridge,MA,50,,,,,,none,0,0,,,15,15,1000010,650000,230813,,35525100,14.833,2894,223.4,21,Consumer nondurables-textilesapparel,18
+1875920,FALSE,Food,Anheuser-Busch Cos,Mr. August A Busch III,St Louis,MO,56,,,,,,none,0,0,,,37,19,940000,896000,39919,,25935100,0.486,11505,594.5,11,Fooddrinktobacco-beverages,2
+1872100,FALSE,Insurance,Equitable of Iowa Co,Mr. Frederick S Hubbell,Des Moines,IA,43,U of North Caro,BA,73,22,U of Iowa,JD,0,1,76,25,11,5,395833,320000,41570,1114690,5185300,1.741,573,87.2,44,Insurance-lifehealth,4
+1849040,FALSE,ComputersComm,Unisys,Mr. James A Unruh,Goodrich,ND,53,Jamestown C,BSB,63,22,U of Denver,MBA,1,1,64,23,14,4,772500,800000,42160,234375,5693460,0.032,7743,361.6,-9,Computerscommunications-major systems,16
+1844640,FALSE,Health,PacifiCare Health Sy,Mr. AlanHoops,Long Beach,CA,46,UCLA,BS,69,21,U of Washington,MS,0,1,73,25,17,1,344380,300000,297378,902877,,0.878,2382,66.7,54,Health-health care services,3
+1826820,FALSE,Consumer,Echlin,Mr. Frederick J Mancheski,Stevens Point,WI,67,U of Wisc Madis,BS,48,21,,none,0,0,,,31,25,550000,435000,546819,294999,4859830,0.916,2037,104,18,Consumer durables-automotive parts,18
+1825810,FALSE,Health,American Medical Hol,Mr. Robert W O'Leary,New Bedford,MA,50,U of Massachuse,BS,65,21,Suffolk U,JD,0,1,73,29,3,3,750000,685146,390666,,3979110,0.052,2255,72.9,-1,Health-health care services,3
+1799560,FALSE,Chemicals,Hercules,Mr. Thomas L Gossage,Nashville,TN,60,Georgia Tech,BS,56,22,Georgia Tech,MS,0,1,57,23,6,3,725834,924000,149725,,4897470,0.596,2773,208.4,25,Chemicals-diversified,15
+1797910,FALSE,Financial,MarshMcLennan Cos,Mr. A J CSmith,Scotland,,60,,,,,,none,0,0,,,33,2,1000000,675000,122911,,,0.201,3163,332.4,9,Financial services-brokerage,1
+1796480,FALSE,Insurance,Kemper,Mr. David B Mathis,Atlanta,GA,56,Lake Forest C,BA,60,22,,none,0,0,,,38,2,531308,960000,305168,,3920030,0.157,1549,247.4,16,Insurance-lifehealth,4
+1791040,FALSE,ComputersComm,Alltel,Mr. Joe T Ford,Conway,AR,56,U of Arkansas,BS,59,21,,none,0,0,,,35,7,575000,429813,554935,231290,6587030,0.264,2342,262,17,Computerscommunications-telecommun,16
+1783980,FALSE,Metals,LTV,Mr. David H Hoag,Pittsburgh,PA,54,Allegheny C,BA,60,20,,none,0,0,,,34,3,550000,200000,1033980,,5614950,0.006,4163,386.9,,Metals-steel,5
+1772790,FALSE,Consumer,Rubbermaid,Mr. Wolfgang R Schmitt,Germany,,50,Otterbein C,BA,66,22,,none,0,0,,,28,2,363746,600211,808835,,,0.087,1960,211.4,15,Consumer durables-home furnishings,18
+1772250,FALSE,Consumer,Burlington Industrie,Mr. Frank S Greenberg,Chicago,IL,64,U of Chicago,BA,49,19,,none,0,0,,,44,8,650004,1110020,12226,,5279920,0.689,2071,88.7,4,Consumer nondurables-textiles,18
+1768620,FALSE,Insurance,Chubb,Mr. Dean R O'Hare,Jersey City,NJ,51,NYU,BS,63,20,Pace U NY,MBA,1,1,68,25,31,6,735270,661275,372071,,10994400,0.056,5500,344.2,19,Insurance-propertycasualty,4
+1762750,FALSE,Retailing,Rite Aid,Mr. AlexGrass,Scranton,PA,66,U of Florida,LLB,49,21,,none,0,0,,,41,32,1125000,,2000,635751,6077500,2.78,4289,126.5,5,Retailing-drugdiscount,6
+1753300,FALSE,Consumer,Varity,Mr. Victor A Rice,England,,53,,,,,,none,0,0,,,24,14,665000,903000,185295,,5129490,0.537,2726,76.3,9,Consumer durables-automotive parts,18
+1746990,FALSE,Health,United HealthCare,Dr. William W McGuire,Troy,NY,46,U of Texas Aust,BA,70,22,U of Texas Galv,MD,0,1,74,26,6,3,575000,1121250,50740,,22431200,0.266,2469,194.6,89,Health-health care services,3
+1746010,FALSE,Energy,Dresser Industries,Mr. John J Murphy,Olean,NY,62,Rochester Tech,AAS,52,20,SMU,MBA,1,1,81,49,42,11,928000,545750,272258,,8642450,0.076,4650,300.6,7,Energy-oilfield services,12
+1745060,FALSE,Retailing,Kmart,Mr. Joseph E Antonini,Morgantown,WV,52,West Virginia U,BS,64,22,,none,0,0,,,30,7,850000,604901,290162,,6285850,0.044,34557,-912,3,Retailing-drugdiscount,6
+1738860,FALSE,Forest,Crown CorkSeal,Mr. William J Avery,Chicago,IL,53,U of Chicago,BS,68,27,,none,0,0,,,35,5,650000,323423,4497,760939,6098200,0.142,4163,180.9,19,Forest products-packaging,9
+1738680,FALSE,Financial,UJB Financial,Mr. T JosephSemrod,Oklahoma City,OK,57,U of Oklahoma,BA,58,21,U of Oklahoma,JD,0,1,63,26,13,13,665000,284350,685408,103926,5444240,0.344,1062,74.2,10,Financial services-regional banks,1
+1735400,FALSE,Health,Eli Lilly,Mr. Randall L Tobias,Lafayette,IN,52,Indiana U,BS,64,22,,none,0,0,,,1,1,503182,418861,813359,,,0.009,6452,491.1,3,Health-drugs,3
+1732680,FALSE,Retailing,Spiegel,Mr. John J Shea,Newark,NJ,56,La Salle,BS,59,21,U of Pittsburgh,MS,0,1,60,22,14,9,550000,605500,143218,433960,5928980,0.079,2596,48.7,34,Retailing-home shopping,6
+1719760,FALSE,Health,Cardinal Health,Mr. Robert D Walter,Mansfield,OH,48,Ohio U,BS,67,21,Harvard,MBA,1,1,70,24,23,23,424046,190000,771377,334334,5311310,11.424,2304,38.5,36,Health-drugs,3
+1717700,FALSE,Financial,NBD Bancorp,Mr. Verne G Istock,Grosse Pointe,MI,53,U of Michigan,BA,62,21,U of Michigan,MBA,1,1,63,22,31,1,725000,300000,324629,368074,,0.105,3208,481.8,14,Financial services-regional banks,1
+1702120,FALSE,Chemicals,Dow Chemical,Mr. Frank P Popoff,Bulgaria,,58,Indiana U,BS,57,21,Indiana U,MBA,1,1,59,23,35,6,890004,593750,218365,,7727900,0.029,18060,644,4,Chemicals-diversified,15
+1697000,FALSE,Consumer,Shaw Industries,Mr. Robert E Shaw,Cartersville,GA,62,,,,,,none,0,0,,,34,32,892500,800000,4497,,7538070,6.705,2476,117.6,47,Consumer nondurables-textiles,18
+1693320,FALSE,Retailing,Walgreen,Mr. Charles R Walgreen II,Chicago,IL,58,U of Michigan,BS,58,22,,none,0,0,,,42,23,710000,373410,609912,,6851380,0.507,8498,249.9,19,Retailing-drugdiscount,6
+1683100,FALSE,Retailing,Office Depot,Mr. David I Fuente,Chicago,IL,48,Purdue U,BS,67,21,Purdue U,MS,0,1,69,23,6,6,550000,864981,4497,263625,32182100,0.261,2580,63.4,45,Retailing-specialty retailers,6
+1681920,FALSE,Financial,Glendale Federal Ban,Mr. Stephen J Trafton,Mt Vernon,WA,47,Washington Stat,BS,68,21,,none,0,0,,,4,2,680000,1000000,1920,,,0.003,1044,,-57,Financial services-thrift institutions,1
+1669870,FALSE,Consumer,Eaton,Mr. William E Butler,Waterloo,IL,63,U of Illinois,BS,56,25,,none,0,0,,,37,3,633925,634623,401317,,3768400,0.047,4401,180,19,Consumer durables-automotive parts,18
+1662400,FALSE,Chemicals,BF Goodrich,Mr. John D Ong,Uhrichsville,OH,60,Ohio State U,BA,54,20,Harvard,LLB,0,1,57,23,33,15,737000,643500,187464,94438,7510580,0.425,1818,128.3,1,Chemicals-specialized,15
+1660690,FALSE,Transport,Illinois Central,Mr. E HunterHarrison,Memphis,TN,49,Memphis State U,BA,68,23,,none,0,0,,,5,1,368442,350000,942248,,,0.312,565,91.7,43,Transport-railroad,7
+1654250,FALSE,Retailing,Eckerd,Mr. StewartTurley,Mt. Sterling,KY,59,,,,,,none,0,0,,,28,19,591351,135906,926993,,3515620,1.677,4191,41.4,71,Retailing-drugdiscount,6
+1653000,FALSE,Consumer,BlackDecker,Mr. Nolan D Archibald,Ogden,UT,50,Weber State,BS,68,24,Harvard,MBA,1,1,70,26,9,8,825000,650000,177996,,8449250,0.032,4882,95.2,4,Consumer durables-appliances,18
+1652560,FALSE,Aerospacedefense,Lockheed,Mr. Daniel M Tellep,Forest City,PA,62,U of Cal Berkel,BSM,54,22,U of Cal Berkel,MSEE,0,1,55,23,39,5,762500,650000,240064,,6614390,0.016,13071,422,11,Aerospacedefense,11
+1634570,FALSE,Capital goods,Caterpillar,Mr. Donald V Fites,Tippecanoe,IN,60,Valparaiso U,BS,56,22,MIT,MS,0,1,71,37,38,4,670000,339024,32160,593382,3415780,0.023,11615,681,16,Capital goods-heavy equipment,14
+1632340,FALSE,Energy,Halliburton,Mr. Thomas H Cruikshank,Lake Charles,LA,62,Rice U,BA,52,20,U of Houston,MA,0,1,55,23,25,11,800000,,832344,,7573060,0.083,6351,-161,2,Energy-oilfield services,12
+1631940,FALSE,Entertainment,Times Mirror,Mr. Robert F Erburu,Ventura,CA,63,USC,BA,52,21,Harvard,JD,0,1,55,24,33,13,875001,300000,456935,,6933120,0.215,3714,317.2,1,Entertainmentinformation-publishing,17
+1628410,FALSE,Business,Minnesota MiningMa,Mr. Livio D DeSimone,Canada,,57,McGill,BSC,57,20,,none,0,0,,,37,3,759600,248130,605395,15288,5257390,0.023,14020,1263,12,Business-supplies,13
+1621780,FALSE,Financial,Fifth Third Bancorp,Mr. George A Schaefer Jr,Cincinnati,OH,49,US Military Aca,BS,67,22,Xavier U,MBA,1,1,74,29,23,3,539092,260000,119864,702823,4158210,0.177,954,196.4,19,Financial services-regional banks,1
+1620820,FALSE,Food,Kellogg,Mr. Arnold G Langbo,Canada,,57,,,,,,none,0,0,,,38,2,720000,546000,136921,217902,6768800,0.049,6295,680.7,12,Fooddrinktobacco-food processors,2
+1619110,FALSE,Financial,Bank of Boston,Mr. Ira Stepanian,Cambridge,MA,58,Tufts U,BA,58,22,Boston C,MBA,1,1,71,35,31,7,768846,800000,50265,,7435450,0.179,7396,274.8,2,Financial services-multinational banks,1
+1609290,FALSE,Financial,Great Western Financ,Mr. James F Montgomery,Topeka,KS,59,UCLA,BS,57,22,,none,0,0,,,19,15,950000,142500,216166,300625,8963230,0.253,2883,62,6,Financial services-thrift institutions,1
+1608620,FALSE,Financial,Bancorp Hawaii,Mr. H HowardStephenson,Wichita,KS,64,U of Michigan,BA,50,20,U of Missouri,JD,0,1,58,28,35,5,591865,344324,509957,162473,10259900,0.431,938,132.6,16,Financial services-regional banks,1
+1606350,FALSE,Food,American Stores,Mr. Victor L Lund,Salt Lake City,UT,46,U of Utah,BS,69,21,U of Utah,MBA,1,1,72,24,17,2,750000,259145,295004,302196,5457160,0.362,18763,262.1,14,Food distributors-supermarketsconvenience,2
+1595600,FALSE,Utility,PECO Energy,Mr. Joseph F Paquette Jr,Norwood,MA,59,Yale,BS,56,21,,none,0,0,,,38,6,425534,403262,,766800,4852080,0.013,3988,590.6,14,Electric utilities-northeast,19
+1585470,FALSE,Financial,OnBancorp,Mr. Robert J Bennett,Fitchburg,MA,52,Babson C,BS,63,21,U of Massachuse,MBA,1,1,66,24,7,5,393378,300000,3466,888625,3825490,1.144,374,58,26,Financial services-regional banks,1
+1578690,FALSE,Health,Rhone-Poulenc Rorer,Mr. Robert E Cawthorn,England,,58,Cambridge,BS,59,23,,none,0,0,,,12,9,733430,448490,396766,,15149700,0.094,4019,421.1,11,Health-drugs,3
+1561980,FALSE,Entertainment,Dow Jones,Mr. Peter R Kann,Princeton,NJ,51,Harvard,BA,64,21,,none,0,0,,,31,3,605000,370000,564115,22868,4329430,0.115,1932,147.5,6,Entertainmentinformation-publishing,17
+1558640,FALSE,Forest,Owens-Illinois,Mr. Joseph H Lemieux,Providence,RI,63,Bryant C,BS,57,26,,none,0,0,,,37,4,515000,656000,387635,,5063050,0.156,3535,17.6,-3,Forest products-packaging,9
+1551860,FALSE,Consumer,Brunswick,Mr. Jack F Reichert,West Allis,WI,63,,,,,,none,0,0,,,37,12,717644,700000,134211,,7915400,0.611,2207,42.3,5,Consumer durables-recreation equipment,18
+1551770,FALSE,Metals,Nucor,Mr. F KennethIverson,Downers Grove,IL,68,Cornell,BS,46,20,Purdue U,MS,0,1,47,21,32,29,275000,372865,276183,627718,3709380,0.938,2254,123.5,39,Metals-steel,5
+1547770,FALSE,Insurance,NWNL Cos,Mr. John G Turner,Springfield,MA,54,Amherst C,BA,61,21,,none,0,0,,,27,3,513939,377263,341602,314962,3126330,0.237,1490,82.5,18,Insurance-lifehealth,4
+1543650,FALSE,Retailing,Lowe's Cos,Mr. Leonard G Herring,Snow Hill,NC,66,U of North Caro,BS,48,20,,none,0,0,,,38,16,535000,373750,193023,441875,4215090,1.251,4538,131.8,43,Retailing-home improvement,6
+1533530,FALSE,Consumer,Johnson Controls,Mr. James H Keyes,La Crosse,WI,53,Marquette U,BS,62,21,Northwestern U,MBA,1,1,63,22,28,6,606246,523438,208850,195000,5965710,0.155,6255,143.3,13,Consumer durables-automotive parts,18
+1518830,FALSE,Capital goods,Tenneco,Mr. Dana G Mead,Cresco,IA,58,US Military Aca,BS,57,21,MIT,PhD,0,1,67,31,2,1,664839,700000,153986,,,0.038,13255,451,6,Capital goods-heavy equipment,14
+1513290,FALSE,Energy,Unocal,Mr. Richard J Stegemeier,Alton,IL,66,U of Missouri,BS,50,22,Texas AM,MS,0,1,51,23,43,6,850000,255000,408288,,8538970,0.081,7261,343,6,Energy-other energy,12
+1510680,FALSE,Financial,Mercury Finance,Mr. John N Brincat,Brooklyn,NY,58,,,,,,none,0,0,,,10,9,251689,1250000,8994,,13857500,1.375,194,64.7,53,Financial services-leasefinance,1
+1508180,FALSE,Aerospacedefense,Northrop,Mr. KentKresa,New York,NY,56,MIT,BS,59,21,MIT,MS,0,1,61,23,19,4,675000,450000,383184,,7719720,0.576,5063,96,13,Aerospacedefense,11
+1505550,FALSE,Entertainment,Knight-Ridder,Mr. James K Batten,Suffolk,VA,58,Davidson C,BS,57,21,Princeton,MPA,0,1,62,26,37,6,622500,170000,13239,699811,6197580,0.06,2451,148.1,8,Entertainmentinformation-publishing,17
+1504560,FALSE,Food,Philip Morris Cos,Mr. Michael A Miles,Chicago,IL,54,Northwestern U,BS,61,21,,none,0,0,,,12,3,1000000,345000,159558,,8583770,0.014,50621,3568,15,Fooddrinktobacco-tobacco,0
+1501790,FALSE,Construction,Owens-Corning Fiberg,Mr. Glen H Hiner,Morgantown,WV,59,West Virginia U,BSE,57,22,,none,0,0,,,2,2,770000,700000,31794,,,0.486,2944,105,4,Construction-materials,0
+1497150,FALSE,Financial,SunTrust Banks,Mr. James B Williams,Sewanee,TN,61,Emory U,AB,55,22,,none,0,0,,,39,4,550000,189461,757693,,5341860,0.379,3089,473.7,19,Financial services-regional banks,1
+1487600,FALSE,Aerospacedefense,Boeing,Mr. Frank A Shrontz,Boise,ID,62,U of Idaho,LLB,54,22,Harvard,MBA,1,1,58,26,36,8,796935,624000,66669,,7857540,0.004,25438,1244,10,Aerospacedefense,11
+1486110,FALSE,Business,WMX Technologies,Mr. Dean L Buntrock,Columbia,SD,62,St Olaf C,BA,55,23,,none,0,0,,,38,26,1400000,,83919,2188,22445800,0.577,9136,452.8,2,Business-environmentalwaste,10
+1483510,FALSE,Financial,Republic New York,Mr. Walter H Weiner,Brooklyn,NY,63,U of Michigan,BA,52,21,U of Michigan,JD,0,1,53,22,14,14,220750,1255000,7763,,5050360,0.078,2328,301.2,13,Financial services-multinational banks,1
+1479280,FALSE,Transport,Norfolk Southern,Mr. David R Goode,Vinton,VA,53,Duke U,AB,62,21,Harvard,JD,0,1,65,24,29,2,535000,376480,567800,,,0.016,4460,548.8,18,Transport-railroad,7
+1479130,FALSE,Insurance,St Paul Cos,Mr. Douglas W Leatherdale,Canada,,57,U of Manitoba,BA,57,20,,none,0,0,,,22,4,611450,556420,311257,,6125860,0.097,4460,427.6,14,Insurance-propertycasualty,4
+1475470,FALSE,Food,Coca-Cola Enterprise,Mr. Summerfield K Johnsto,Chattanooga,TN,61,,,,,,none,0,0,,,38,2,800000,502400,173072,,2947470,7.77,5465,-15,1,Fooddrinktobacco-beverages,2
+1472900,FALSE,Entertainment,RR DonnelleySons,Mr. John R Walter,Pittsburgh,PA,47,Miami U Ohio,BS,69,22,,none,0,0,,,25,5,800000,499481,39766,133650,5169420,0.11,4388,178.9,11,Entertainmentinformation-publishing,17
+1470530,FALSE,Insurance,Alleghany,Mr. John J Burns Jr,Cambridge,MA,62,Boston C,BS,53,21,Harvard,MBA,1,1,55,23,26,2,500000,257930,712595,,,0.272,1908,97.6,13,Insurance-propertycasualty,4
+1456100,FALSE,Financial,US Trust,Mr. H MarshallSchwarz,New York,NY,57,Harvard,BA,58,21,Harvard,MBA,1,1,61,24,27,4,517308,304135,634656,,4088190,0.32,446,42.3,9,Financial services-regional banks,1
+1452890,FALSE,Financial,CoreStates Financial,Mr. Terrence A Larsen,Chicago,IL,47,U of Dallas,BA,68,21,Texas AM,PhD,0,1,71,24,17,6,647000,483068,322823,,6545340,0.083,2014,327.9,8,Financial services-regional banks,1
+1452590,FALSE,Chemicals,Great Lakes Chemical,Dr. EmersonKampen,Kalamazoo,MI,66,U of Michigan,BS,51,23,,none,0,0,,,43,17,865558,500000,2358,84675,13625300,0.951,1792,272.8,36,Chemicals-specialized,15
+1447620,FALSE,ComputersComm,3Com,Mr. EricBenhamou,France,,38,,,,,Stanford U,MS,0,1,77,21,7,4,375000,22966,526528,523125,2198710,0.343,753,-42.6,17,Computerscommunications-peripherals,16
+1442600,FALSE,Financial,BayBanks,Mr. William M Crozier Jr,Brooklyn,NY,61,Yale,BA,54,21,Harvard,MBA,1,1,63,30,30,20,461250,249844,669796,61710,3597080,0.25,789,67.7,8,Financial services-regional banks,1
+1440930,FALSE,Consumer,General Motors,Mr. John F Smith Jr,Worcester,MA,56,U of Massachuse,BBA,60,22,Boston U,MBA,1,1,65,27,33,2,1375000,,20624,45305,,0.007,138220,2465.8,10,Consumer durables-automobilestrucks,18
+1437240,FALSE,Financial,AG Edwards,Mr. Benjamin F Edwards II,St Louis,MO,62,Princeton,BA,53,21,,none,0,0,,,38,27,351840,898127,187274,,5066720,0.572,1262,151.2,21,Financial services-brokerage,1
+1435630,FALSE,Forest,Mead,Mr. Steven C Mason,Canada,,58,MIT,BS,57,21,,none,0,0,,,37,2,518751,433100,188899,294875,2676440,0.118,4790,124.1,5,Forest products-paperlumber,9
+1432450,FALSE,ComputersComm,General Instrument,Mr. Daniel F Akerson,Oakland,CA,45,US Naval Acad,BS,70,21,London Sch Econ,MS,0,1,78,29,1,1,800000,560000,72454,,,0.00001,1393,90.4,98,Computerscommunications-peripherals,16
+1425050,FALSE,Utility,San Diego GasElect,Mr. Thomas A Page,Niagara Falls,NY,61,Purdue U,BS,55,22,Purdue U,MBA,1,1,63,30,16,13,509203,337000,578848,,5789250,0.129,1980,218.7,10,Electric utilities-western,19
+1423520,FALSE,Travel,Marriott Internation,Mr. J WillardMarriott J,Washington,DC,62,U of Utah,BS,54,22,,none,0,0,,,38,22,734231,645389,43895,,,4.845,8062,161,17,Travel-hotelsrecreation,8
+1414660,FALSE,Financial,Union Planters,Mr. Benjamin W Rawlins Jr,Murfreesboro,TN,56,Vanderbilt U,BA,61,23,Georgia State U,MBA,1,1,69,31,20,10,410000,200000,533133,271522,4840000,0.912,484,61.3,17,Financial services-regional banks,1
+1408140,FALSE,Insurance,Argonaut Group,Mr. Charles E Rinsch,Vincennes,IN,61,Indiana U,BS,53,20,Stanford U,MBA,1,1,60,27,28,6,418750,140000,4017,845375,3756540,0.37,439,89.1,14,Insurance-propertycasualty,4
+1407600,FALSE,Energy,Transco Energy,Mr. John P DesBarres,Northbridge,MA,54,,,,,,none,0,0,,,3,3,513000,275000,619596,,4973080,0.376,2922,-3.9,-13,Energy-other gas,12
+1407080,FALSE,Capital goods,Westinghouse Electri,Mr. Michael H Jordan,Kansas City,MO,57,Yale,BSC,57,20,Princeton,MSCE,0,1,59,22,1,1,1000000,400000,7075,,,0.001,8875,-270,-11,Capital goods-electrical equipment,14
+1391630,FALSE,Forest,Champion Internation,Mr. Andrew C Sigler,Brooklyn,NY,62,Dartmouth,AB,53,21,Dartmouth,MBA,1,1,56,24,38,20,890000,220000,180871,100756,7603900,0.063,5069,-134.5,1,Forest products-paperlumber,9
+1387680,FALSE,Food,Ralston-Ralston Puri,Mr. William P Stiritz,Jasper,AR,59,Northwestern U,BS,59,24,St Louis U,MA,0,1,68,33,30,13,800000,350000,237679,,11403700,1.054,5949,332,4,Fooddrinktobacco-food processors,2
+1383070,FALSE,Financial,First Tennessee Nati,Mr. RalphHorn,Corinth,MS,53,Mississippi Sta,BS,63,22,,none,0,0,,,31,1,370192,185096,827777,,,0.345,857,120.7,23,Financial services-regional banks,1
+1382450,FALSE,Health,WellPoint Health Net,Mr. Leonard D Schaeffer,Chicago,IL,48,Princeton,BA,69,23,,none,0,0,,,8,8,572262,272895,537292,,,0.804,2449,186.6,-6,Health-health care services,3
+1382310,FALSE,Food,Dole Food,Mr. David H Murdock,Kansas City,MO,71,,,,,,none,0,0,,,12,9,932310,450000,,,5718850,22.34,3431,77.9,5,Fooddrinktobacco-food processors,2
+1381120,FALSE,Retailing,Tandy,Mr. John V Roach,Stamford,TX,55,Texas Christian,BA,61,22,Texas Christian,MBA,1,1,65,26,27,13,647500,647500,86115,,5175120,0.155,4103,83.8,-1,Retailing-consumer electronics,6
+1380850,FALSE,Utility,Pinnacle West Capita,Mr. RichardSnell,Phoenix,AZ,63,Stanford U,BA,52,21,Stanford U,JD,0,1,54,23,4,4,515000,202498,663354,,3277660,0.047,1719,170,9,Electric utilities-western,19
+1380420,FALSE,Financial,Boatmen's Bancshares,Mr. Andrew B Craig III,Buffalo,NY,63,Cornell,BA,55,24,,none,0,0,,,9,6,587523,373750,419144,,5438500,0.036,2107,317.4,18,Financial services-regional banks,1
+1380240,FALSE,Health,Medtronic,Mr. William W George,Muskegon,MI,51,Georgia Tech,BSI,64,21,Harvard,MBA,1,1,66,23,5,3,479991,338394,561850,,3659280,0.081,1356,223.6,31,Health-medical supplies,3
+1375580,FALSE,ComputersComm,Corning,Mr. James R Houghton,Corning,NY,58,Harvard,AB,58,22,Harvard,MBA,1,1,62,26,32,11,672500,481618,221458,,10103000,0.639,4005,-15.2,16,Computerscommunications-telecommun,16
+1374690,FALSE,Capital goods,Honeywell,Mr. Michael R Bonsignore,Plattsburg,NY,53,US Naval Acad,BSE,63,22,,none,0,0,,,25,1,552711,359657,462321,,,0.113,5963,322.2,19,Capital goods-electrical equipment,14
+1369120,FALSE,Insurance,Provident LifeAcci,Mr. J. HaroldChandler,Belton,SC,45,Wofford C,BA,71,22,U of S Carolina,MBA,1,1,72,23,1,1,650000,500000,219120,,,0.015,2938,-81.2,9,Insurance-lifehealth,4
+1368450,FALSE,Aerospacedefense,Sundstrand,Mr. Harry C Stonecipher,Scott County,TN,58,Tennessee Tech,BS,60,24,,none,0,0,,,7,5,650000,186875,531579,,5360480,0.609,1383,145.7,13,Aerospacedefense,11
+1367380,FALSE,Transport,Consolidated Freight,Mr. Donald E Moffitt,Terre Haute,IN,62,,,,,,none,0,0,,,39,3,600028,603028,138545,25777,2760190,0.003,4192,50.6,-1,Transport-shipping,7
+1367230,FALSE,Health,Becton Dickinson,Mr. Raymond V Gilmartin,Washington,DC,53,Union C,BSE,63,22,Harvard,MBA,1,1,68,27,18,5,629167,420000,29388,288671,5329840,0.088,2459,215.2,10,Health-medical supplies,3
+1365540,FALSE,Health,McKesson,Mr. AlanSeelenfreund,New York,NY,57,Cornell,BME,59,22,Stanford U,PhD,0,1,67,30,19,5,500000,550000,207410,108127,5019550,0.133,12203,150.5,20,Health-drugs,3
+1359730,FALSE,Chemicals,Sigma-Aldrich,Mr. Carl T Cori,St Louis,MO,57,U of Wisc Madis,BS,59,22,Washington U,PhD,0,1,69,32,24,11,600000,299721,460008,,6364670,0.259,739,107.2,18,Chemicals-specialized,15
+1356070,FALSE,Financial,Salomon,Mr. Robert E Denham,Dallas,TX,48,U of Texas Aust,BA,66,20,Harvard,JD,0,1,71,25,3,2,956800,368700,30567,,,0.024,8799,864,16,Financial services-brokerage,1
+1353710,FALSE,Energy,Williams Cos,Mr. Keith E Bailey,Kansas City,MO,52,U of Missouri,BS,64,22,,none,0,0,,,21,1,450000,283500,591336,28875,,0.077,2438,231.8,14,Energy-other gas,12
+1343440,FALSE,Consumer,Dana,Mr. Southwood J Morcott,Covington,GA,56,Davidson C,BA,60,22,U of Michigan,MBA,1,1,63,25,31,5,761898,412500,85668,83375,5408340,0.112,5588,128.5,13,Consumer durables-automotive parts,18
+1339200,FALSE,Health,Chiron,Mr. Edward E Penhoet,Oakland,CA,53,Stanford U,AB,63,22,U of Washington,PhD,0,1,68,27,13,13,323122,247754,7075,761250,3659400,0.389,318,18.4,29,Health-biotechnology,3
+1328000,FALSE,Utility,Entergy,Mr. EdwinLupberger,Atlanta,GA,57,Davidson C,AB,58,21,Emory U,MBA,1,1,63,26,15,8,542077,437610,301597,46717,4708380,0.013,4485,458.1,19,Electric utilities-south central,19
+1313890,FALSE,Financial,Old Kent Financial,Mr. John C Canepa,Newburyport,MA,63,Harvard,BA,53,22,NYU,MBA,1,1,60,29,24,12,570000,356250,387644,,6752430,0.79,807,127.9,18,Financial services-regional banks,1
+1307150,FALSE,Financial,Firstar,Mr. Roger L Fitzsimonds,Milwaukee,WI,56,U of Wisc Milwa,BA,60,22,U of Wisc Milwa,MBA,1,1,71,33,30,3,548000,378900,380250,,4217730,0.112,1209,204.3,22,Financial services-regional banks,1
+1301790,FALSE,Construction,Manville,Mr. W ThomasStephens,Crossett,AR,51,U of Arkansas,BS,65,22,U of Arkansas,MS,0,1,66,23,31,8,500000,300000,501788,,7252200,0.288,2276,60.8,6,Construction-materials,0
+1301160,FALSE,Financial,Mercantile Bancorpor,Mr. Thomas H Jacobsen,Chicago,IL,54,Lake Forest C,BS,63,23,U of Chicago,MBA,1,1,68,28,5,5,525300,392662,383197,,5446510,0.213,893,117,17,Financial services-regional banks,1
+1298830,FALSE,Financial,Crestar Financial,Mr. Richard G Tilghman,Norfolk,VA,53,U of Virginia,BA,63,22,,none,0,0,,,27,9,535000,280000,65067,418760,3827390,0.165,1081,140.5,16,Financial services-regional banks,1
+1298700,FALSE,Utility,Texas Utilities,Mr. Jerry S Farrington,Burkburnett,TX,59,U of North Texa,BBA,55,20,U of North Texa,MBA,1,1,58,23,37,7,743750,125000,429949,,4534830,0.007,5435,368.7,15,Electric utilities-south central,19
+1296130,FALSE,Retailing,Intelligent Electron,Mr. Richard D Sanford,New York,NY,50,Hofstra U,BA,71,27,,none,0,0,,,12,12,748056,450000,98072,,4044910,11.394,2646,42.9,44,Retailing-consumer electronics,6
+1294820,FALSE,Food,Giant Food,Mr. IsraelCohen,Israel,,81,,,,,,none,0,0,,,58,17,556600,690500,47723,,19577700,4.796,3567,95,-2,Food distributors-supermarketsconvenience,2
+1291100,FALSE,Forest,Weyerhaeuser,Mr. John W Creighton Jr,Pittsburgh,PA,61,Ohio State U,BS,54,21,Ohio State U,JD,0,1,57,24,24,3,682740,430000,6296,172064,2923030,0.021,9545,527.3,15,Forest products-paperlumber,9
+1287100,FALSE,Energy,Ashland Oil,Mr. John R Hall,Dallas,TX,61,Vanderbilt U,BS,55,22,,none,0,0,,,36,13,752416,458059,76629,,7224740,0.077,9528,175.9,3,Energy-other energy,12
+1286970,FALSE,Health,Genentech,Mr. G KirkRaab,New York,NY,58,Colgate U,BA,59,23,,none,0,0,,,9,4,745000,300000,241968,,12680000,0.014,608,58.9,20,Health-biotechnology,3
+1286140,FALSE,Food,Kroger,Mr. Joseph A Pichler,St Louis,MO,54,U of Notre Dame,BA,61,21,U of Chicago,PhD,0,1,66,26,14,4,416923,582343,286876,,3705520,0.197,22384,170.8,18,Food distributors-supermarketsconvenience,2
+1279980,FALSE,Utility,Southern Co,Mr. Edward L Addison,Cottageville,SC,64,U of S Carolina,BEE,50,20,,none,0,0,,,40,11,734714,148118,397150,,5230240,0.012,8489,1002,18,Electric utilities-southeast,19
+1271950,FALSE,Utility,LGE Energy,Mr. Roger W Hale,Baltimore,MD,50,U of Maryland,BA,65,21,MIT,MS,0,1,79,35,5,5,385000,261800,625145,,3946640,0.052,900,88.3,19,Electric utilities-southeast,19
+1268280,FALSE,Chemicals,Witco,Mr. William R Toller,Fort Smith,AR,63,U of Arkansas,BA,56,25,,none,0,0,,,10,4,545000,364100,14643,344538,3845020,0.085,2143,19.8,16,Chemicals-specialized,15
+1264220,FALSE,Business,Manpower,Mr. Mitchell S Fromstein,Milwaukee,WI,66,,,,,,none,0,0,,,18,18,860000,400463,3758,,5954810,0.324,3180,-48.9,10,Business-services,13
+1263390,FALSE,Energy,Consolidated Natural,Mr. George A Davidson Jr,Pittsburgh,PA,55,U of Pittsburgh,BS,60,21,,none,0,0,,,28,7,511100,280400,284819,187067,4469670,0.048,3184,188.5,4,Energy-integrated gas,12
+1255470,FALSE,Utility,Washington Water Pow,Mr. Paul A Redmond,Lakeview,OR,57,Gonzaga U,BS,65,28,,none,0,0,,,29,10,484167,286815,484486,,3081380,0.075,641,82.8,14,Electric utilities-western,19
+1254460,FALSE,Food,Great AtlanticPaci,Mr. JamesWood,England,,64,Loughborough C,CB,55,25,,none,0,0,,,14,14,1090150,28250,136060,,30193400,0.029,10384,4,-11,Food distributors-supermarketsconvenience,2
+1247690,FALSE,Financial,First Financial Corp,Mr. John C Seramur,Milwaukee,WI,51,Marquette U,BS,65,22,,none,0,0,,,28,28,600000,260000,217794,169894,4106010,2.752,378,45.2,36,Financial services-regional banks,1
+1246560,FALSE,Entertainment,New York Times,Mr. ArthurOchs Sulzberg,New York,NY,68,Columbia,BA,51,25,,none,0,0,,,43,21,515000,384560,21985,325015,5303620,6.723,2020,6.1,3,Entertainmentinformation-publishing,17
+1244110,FALSE,Entertainment,Turner Broadcasting,Mr. Robert E Turner,Cincinnati,OH,55,,,,,,none,0,0,,,31,31,765554,341921,136631,,4402470,45.551,1922,72.4,22,Entertainmentinformation-broadcasting,17
+1236750,FALSE,Utility,Pacific GasElectri,Mr. Richard A Clarke,San Francisco,CA,64,U of Cal Berkel,AB,52,22,U of Cal Berkel,JD,0,1,55,25,39,8,640000,143070,453676,,6387140,0.006,10582,1065.5,17,Electric utilities-western,19
+1232430,FALSE,Business,Deluxe,Mr. Harold V Haverty,Detroit,MI,64,,,,,,none,0,0,,,40,8,802500,16452,131683,281794,4966940,0.07,1582,141.9,6,Business-supplies,13
+1231690,FALSE,Travel,USAir Group,Mr. Seth E Schofield,Staffordville,CT,54,,,,,,none,0,0,,,37,3,475635,,756053,,3120790,0.147,7083,-349.4,-28,Travel-airlines,8
+1228170,FALSE,Insurance,Lincoln National,Mr. Ian M Rolland,Fort Wayne,IN,60,DePauw U,BA,55,21,U of Michigan,MA,0,1,56,22,38,17,896494,,331680,,7502400,0.11,8290,415.3,15,Insurance-diversified,4
+1222610,FALSE,Food,Smith's FoodDrug C,Mr. Jeffrey P Smith,Brigham City,UT,44,,,,,,none,0,0,,,24,6,683606,539000,,,5550490,9.819,2807,45.8,1,Food distributors-supermarketsconvenience,2
+1222480,FALSE,Entertainment,Tribune,Mr. Charles T Brumback,Toledo,OH,65,Princeton,BA,50,21,,none,0,0,,,37,4,690327,485000,47152,,6852920,0.188,1953,188.6,8,Entertainmentinformation-publishing,17
+1221300,FALSE,Financial,First Virginia Banks,Mr. Robert H Zalokar,West Mineral,KS,66,U of Kansas,BS,50,22,,none,0,0,,,39,9,500000,306388,117410,297501,5142040,0.367,587,116,20,Financial services-regional banks,1
+1221140,FALSE,Food,Hershey Foods,Mr. Kenneth L Wolfe,Lebanon,PA,55,Yale,BA,61,22,U of Penn-Whart,MBA,1,1,67,28,27,1,456500,308709,455934,,,0.08,3488,297.2,15,Fooddrinktobacco-food processors,2
+1217960,FALSE,Insurance,Aon,Mr. Patrick G Ryan,Milwaukee,WI,57,Northwestern U,BS,59,22,,none,0,0,,,30,12,813462,310000,94496,,5102240,13.33,3845,323.8,14,Insurance-lifehealth,4
+1213210,FALSE,Metals,Aluminum Co of Ameri,Mr. Paul H O'Neill,St Louis,MO,58,Cal St Fresno,BA,60,24,Indiana U,MPA,0,1,66,30,7,7,700200,343000,170012,,7308380,0.027,9056,4.8,7,Metals-nonferrous metals,5
+1211630,FALSE,Forest,Sonoco Products,Mr. Charles W Coker,Hartsville,SC,61,Princeton,BA,55,22,Harvard,MBA,1,1,57,24,36,24,575834,451567,184233,,6309000,1.186,1947,118.8,8,Forest products-packaging,9
+1210250,FALSE,Energy,Pacific Enterprises,Mr. Willis B Wood Jr,Kansas City,MO,59,U of Tulsa,BS,57,22,,none,0,0,,,33,2,641000,511438,57808,,2570880,0.032,2899,181,-8,Energy-integrated gas,12
+1208960,FALSE,Food,Whitman,Mr. Bruce S Chelberg,Chicago,IL,59,U of Illinois,BS,56,21,U of Illinois,LLB,0,1,58,23,12,2,548333,575000,85622,,5557020,0.212,2530,106.4,4,Fooddrinktobacco-beverages,2
+1205060,FALSE,Chemicals,Air ProductsChemic,Mr. Harold A Wagner,Oakland,CA,58,Stanford U,BSM,58,22,Harvard,MBA,1,1,63,27,31,2,569231,256000,91992,287838,2563680,0.041,3342,207,19,Chemicals-specialized,15
+1204060,FALSE,Consumer,Liz Claiborne,Mr. Jerome A Chazen,New York,NY,67,U of Wisc Madis,BA,48,21,Columbia,MBA,1,1,50,23,17,5,574100,,629961,,5661610,2.978,2204,125.3,7,Consumer nondurables-textilesapparel,18
+1203490,FALSE,Forest,Union Camp,Mr. Raymond E Cartledge,Pensacola,FL,64,U of Alabama,BS,52,22,,none,0,0,,,38,8,610000,128400,189525,275560,5462120,0.087,3120,50,8,Forest products-paperlumber,9
+1201830,FALSE,Energy,Diamond Shamrock,Mr. Roger R Hemminghaus,St Louis,MO,57,Auburn U,BS,58,21,,none,0,0,,,10,7,486838,275000,216675,223317,4641660,0.324,2555,32.6,8,Energy-other energy,12
+1200490,FALSE,Financial,Deposit Guaranty,Mr. Emerson B Robinson Jr,Centreville,MS,52,Davidson C,BS,63,21,Harvard,MBA,1,1,67,25,27,10,364064,413820,22205,400400,3114590,0.498,374,66.6,16,Financial services-regional banks,1
+1192780,FALSE,Financial,Wilmington Trust,Mr. Leonard W Quill,Wilmington,DE,62,U of Delaware,BS,59,27,U of Delaware,MBA,1,1,65,33,36,2,393333,333650,4497,461300,,0.38,405,82.8,12,Financial services-regional banks,1
+1189440,FALSE,Business,PHH,Mr. Robert D Kunisch,Norwalk,CT,52,NYU,BBA,63,21,,none,0,0,,,28,6,620000,490003,6690,72750,4409480,0.289,2116,63,5,Business-services,13
+1186920,FALSE,Insurance,Protective Life,Mr. DraytonNabers Jr,Birmingham,AL,53,Princeton,AB,62,21,Yale,LLB,0,1,65,24,15,2,398583,365700,422638,,,0.234,760,56.6,32,Insurance-lifehealth,4
+1184540,FALSE,Financial,Commercial Federal,Mr. William A Fitzgerald,Omaha,NE,56,Creighton U,BS,59,21,,none,0,0,,,39,19,319332,127728,137700,599779,2738860,1.089,393,35,21,Financial services-thrift institutions,1
+1177820,FALSE,Financial,Sallie Mae,Mr. Lawrence A Hough,Janesville,WI,50,Stanford U,BS,66,22,MIT,MS,0,1,72,28,21,4,496903,290000,390914,,5782620,0.142,2617,430.1,4,Financial services-leasefinance,1
+1174550,FALSE,Consumer,Paccar,Mr. Charles M Pigott,Seattle,WA,65,Stanford U,BS,51,22,,none,0,0,,,38,26,750000,,424551,,7317460,4.3,3542,142.2,7,Consumer durables-automobilestrucks,18
+1173000,FALSE,Financial,MBIA,Mr. David H Elliott,Canaan,CT,52,Yale,BA,64,22,Boston U,JD,0,1,67,25,18,2,485000,485000,202995,,4445900,0.026,429,246.1,19,Financial services-leasefinance,1
+1159420,FALSE,Chemicals,RohmHaas,Mr. J LawrenceWilson,Rosedale,MS,58,Vanderbilt U,BE,58,22,Harvard,MBA,1,1,63,27,29,6,552500,86071,520851,,5201180,0.089,3269,126,14,Chemicals-diversified,15
+1159100,FALSE,Food,Gerber Products,Mr. Alfred A Piergallini,Martin's Creek,PA,47,Lafayette C,BA,68,21,U of Chicago,MBA,1,1,70,23,5,4,506000,,599879,53224,5181290,0.159,1177,131,15,Fooddrinktobacco-food processors,2
+1145140,FALSE,Business,WW Grainger,Mr. David W Grainger,Chicago,IL,66,U of Wisc Madis,BSE,50,22,,none,0,0,,,42,20,607000,389000,149136,,5537630,10.233,2628,149.3,20,Business-services,13
+1144850,FALSE,Retailing,Dayton Hudson,Mr. Robert J Ulrich,Minneapolis,MN,50,U of Minnesota,BA,67,23,,none,0,0,,,27,1,842796,,302050,,,0.011,19233,375,12,Retailing-drugdiscount,6
+1140670,FALSE,Forest,Temple-Inland,Mr. Clifford J Grum,Davenport,IA,59,Austin C,BA,56,21,U of Pennsylvan,MBA,1,1,58,23,26,10,495250,100000,2500,542921,9785850,0.577,2736,67.4,15,Forest products-packaging,9
+1131800,FALSE,Business,Browning-Ferris Indu,Mr. William D Ruckelshaus,Indianapolis,IN,61,Princeton,BA,57,24,Harvard,LLB,0,1,60,27,7,6,828000,297500,6304,,4988490,0.015,3581,204.1,-1,Business-environmentalwaste,10
+1130950,FALSE,Consumer,Clorox,Mr. G CraigSullivan,Huntington,NY,54,Boston C,BS,64,24,,none,0,0,,,23,2,457500,351000,104816,217631,,0.014,1644,204.2,14,Consumer nondurables-personal products,18
+1128420,FALSE,ComputersComm,Ameritech,Mr. Richard C Notebaert,Canada,,46,U of Wisc Madis,BA,69,21,U of Wisc Milwa,MBA,1,1,83,35,25,1,447204,351000,330212,,,0.007,11710,1512.8,14,Computerscommunications-telecommun,16
+1124520,FALSE,Financial,Roosevelt Financial,Mr. Stanley J Bradshaw,Terre Haute,IN,36,Indiana State U,BS,79,21,Butler U,MBA,1,1,84,26,8,3,290000,174000,167008,493515,2213660,1.267,244,38.1,35,Financial services-regional banks,1
+1121950,FALSE,Financial,Central Fidelity Ban,Mr. Carroll L Saine,Lincolnton,NC,59,Lenoir-Rhyne C,BA,54,19,U of Richmond,MS,0,1,65,30,37,13,795540,,60253,266152,4092920,0.246,740,102.9,24,Financial services-regional banks,1
+1121290,FALSE,Financial,First Hawaiian,Mr. Walter A Dods Jr,Honolulu,HI,52,U of Hawaii,BBA,67,25,,none,0,0,,,25,5,711190,334021,76077,,4890590,0.825,512,78.2,13,Financial services-regional banks,1
+1120070,FALSE,Energy,Sun Co,Mr. Robert H Campbell,Pittsburgh,PA,56,Princeton,BS,59,21,MIT,MBA,1,1,78,40,34,3,498680,474600,146785,,2234390,0.022,7297,283,4,Energy-other energy,12
+1118650,FALSE,Insurance,John Alden Financial,Mr. Glendon E Johnson,Cleveland,UT,70,U of Utah,BS,48,24,Harvard,LLD,0,1,52,28,9,9,425325,579847,113474,,,0.376,1407,80,79,Insurance-lifehealth,4
+1117850,FALSE,Business,Equifax,Mr. C B Rogers Jr,New York,NY,64,Gettysburg C,BA,51,21,George Washingt,MBA,1,1,62,32,7,5,496184,,621670,,5342210,0.451,1217,63.5,15,Business-services,13
+1117250,FALSE,Financial,State Street Boston,Mr. Marshall N Carter,Newport News,VA,54,US Military Aca,BSC,62,22,George Washingt,MA,0,1,76,36,3,2,643753,450000,23497,,3380830,0.001,1532,179.8,23,Financial services-regional banks,1
+1116990,FALSE,Energy,Amoco,Mr. H LauranceFuller,Moline,IL,55,Cornell,BSC,61,22,DePaul U,JD,0,1,65,26,33,3,810655,,306330,,6648030,0.016,25336,1820,10,Energy-international oils,12
+1114580,FALSE,Entertainment,EW Scripps,Mr. Lawrence A Leser,Cincinnati,OH,59,Xavier U,BS,57,22,,none,0,0,,,26,9,630000,250000,234578,,5517900,0.059,1206,128.7,8,Entertainmentinformation-publishing,17
+1113340,FALSE,Insurance,Safeco,Mr. Roger H Eigsti,Vancouver,WA,52,Linfield C,BS,64,22,,none,0,0,,,22,2,516667,51667,295013,249992,2476230,0.054,3517,425.9,17,Insurance-diversified,4
+1112450,FALSE,Food,Brown-Forman,Mr. OwsleyBrown II,Louisville,KY,51,Yale,BA,64,21,Stanford U,MBA,1,1,66,23,26,1,398874,303525,388623,21432,,15.275,1409,163.3,10,Fooddrinktobacco-beverages,2
+1110120,FALSE,Utility,SCEcorp,Mr. John E Bryson,New York,NY,50,Stanford U,BA,65,21,Yale,JD,0,1,69,25,10,4,600000,325000,185118,,3800110,0.001,7821,639,8,Electric utilities-western,19
+1108750,FALSE,Financial,First of America Ban,Mr. Daniel R Smith,Kalamazoo,MI,60,Western Michiga,BBA,55,21,,none,0,0,,,38,9,625000,285000,198748,,4633330,0.069,1803,247.4,19,Financial services-regional banks,1
+1107840,FALSE,ComputersComm,Avnet,Mr. LeonMachiz,Brooklyn,NY,69,,,,,,none,0,0,,,42,5,1000000,,107839,,5719580,0.153,2906,70.4,13,Computerscommunications-peripherals,16
+1104830,FALSE,Health,Beverly Enterprises,Mr. David R Banks,Arcadia,WI,57,U of Arkansas,BA,59,22,,none,0,0,,,22,5,519231,235000,350595,,4300810,0.154,2871,60.3,8,Health-health care services,3
+1104470,FALSE,Consumer,Cooper TireRubber,Mr. Ivan W Gorr,Toledo,OH,64,U of Toledo,BS,51,21,,none,0,0,,,22,5,389780,427086,49024,238578,3781580,0.642,1194,102.2,33,Consumer durables-automotive parts,18
+1101620,FALSE,Food,StopShop Companies,Mr. Lewis G Schaeneman Jr,Springfield,MA,63,Cornell,BS,52,21,Harvard,MBA,1,1,56,25,28,5,520000,572972,8650,,3485360,0.189,3568,63.7,32,Food distributors-supermarketsconvenience,2
+1101570,FALSE,Chemicals,Ethyl,Mr. Bruce C Gottwald,Richmond,VA,60,VMI,BS,54,20,,none,0,0,,,38,2,770000,265000,38500,28066,3116090,7.313,1938,90,8,Chemicals-specialized,15
+1099010,FALSE,Aerospacedefense,GenCorp,Mr. A WilliamReynolds,Columbus,OH,60,Harvard,AB,55,21,Stanford U,MBA,1,1,57,23,10,9,650833,330000,118175,,4803290,0.098,1905,43,1,Aerospacedefense,11
+1095890,FALSE,Consumer,NIKE,Mr. Philip H Knight,Portland,OR,56,U of Oregon,BA,59,21,Stanford U,MBA,1,1,62,24,30,30,750000,300000,45889,,4058830,33.099,3769,306.5,27,Consumer nondurables-textilesapparel,18
+1095000,FALSE,Food,Safeway,Mr. Steven A Burd,Valley City,ND,44,Carroll C,BS,71,21,U of Wisc Milwa,MA,0,1,73,23,2,1,550000,545000,,,,0.056,15215,123.3,19,Food distributors-supermarketsconvenience,2
+1093150,FALSE,Food,Dr Pepper/Seven-Up,Mr. John R Albers,Minneapolis,MN,62,U of Minnesota,BA,57,25,,none,0,0,,,23,8,668320,424829,,,3455130,3.69,707,94.1,36,Fooddrinktobacco-beverages,2
+1090460,FALSE,Capital goods,Ingersoll-Rand,Mr. James E Perrella,Gloversville,NY,58,Purdue U,MSI,61,25,,none,0,0,,,32,1,433333,420000,237129,,,0.076,4021,163.5,18,Capital goods-heavy equipment,14
+1088150,FALSE,Aerospacedefense,McDonnell Douglas,Mr. John F McDonnell,Baltimore,MD,56,Princeton,BS,60,22,Princeton,MS,0,1,62,24,32,6,559477,495100,33569,,4452230,3.326,14487,396,7,Aerospacedefense,11
+1086720,FALSE,Financial,National City,Mr. Edward B Brandon,Davenport,IA,62,Northwestern U,BS,53,21,U of Pennsylvan,MBA,1,1,56,24,38,7,630000,418560,38161,,5994850,0.092,2702,404,15,Financial services-regional banks,1
+1086620,FALSE,Insurance,Continental Corp,Mr. John P Mascotte,Fort Wayne,IN,55,St Joseph's IND,BA,61,22,U of Virginia,LLB,0,1,64,25,13,11,696538,332500,57583,,4566140,0.031,5174,208.4,,Insurance-propertycasualty,4
+1084900,FALSE,Utility,Florida Progress,Dr. Jack B Critchfield,Rockwood,PA,61,Slippery Rock U,BS,55,22,U of Pittsburgh,MA,0,1,60,27,11,4,585186,396500,103210,,3074460,0.01,2449,195.8,13,Electric utilities-southeast,19
+1084160,FALSE,Health,Amgen,Mr. Gordon M Binder,St Louis,MO,58,Purdue U,BSE,57,21,Harvard,MBA,1,1,62,26,12,6,466676,487057,130428,,4318970,0.142,1374,374.6,41,Health-biotechnology,3
+1075910,FALSE,Health,American Cyanamid,Mr. Albert J Costello,New York,NY,58,Fordham U,BS,57,21,NYU,MS,0,1,64,28,37,1,525000,329649,221265,,,0.011,4277,-163.7,2,Health-drugs,3
+1075140,FALSE,Financial,Dime Bancorp,Mr. Richard D Parsons,Brooklyn,NY,46,U of Hawaii,BA,68,20,Union C,JD,0,1,71,23,6,4,525000,225000,325139,,2651220,0.382,576,44.6,-8,Financial services-thrift institutions,1
+1074640,FALSE,Construction,Vulcan Materials,Mr. Herbert A Sklenar,Omaha,NE,62,U of Nebraska O,BS,52,20,Harvard,MBA,1,1,54,22,22,8,535004,225000,314634,,5174880,0.301,1133,88.2,5,Construction-materials,0
+1073930,FALSE,Consumer,Springs Industries,Mr. Walter Y Elisha,Gary,IN,61,Wabash C,BA,54,21,Harvard,MBA,1,1,65,32,14,13,575004,400000,98921,,4568350,0.512,2023,47.3,1,Consumer durables-home furnishings,18
+1066960,FALSE,Transport,American President C,Mr. John M Lillie,Chicago,IL,57,Stanford U,BS,59,22,Stanford U,MBA,1,1,64,27,4,2,553800,403997,109161,,3316540,0.059,2594,80.1,8,Transport-shipping,7
+1064740,FALSE,Consumer,Kimberly-Clark,Mr. Wayne R Sanders,Chicago,IL,46,Illinois Tech,BSC,69,21,Marquette U,MBA,1,1,72,24,19,2,677500,380160,7075,,3970150,0.024,6973,510.9,15,Consumer nondurables-personal products,18
+1047910,FALSE,Financial,SouthTrust,Mr. Wallace D Malone Jr,Dothan,AL,57,U of Alabama,BS,57,20,U of Pennsylvan,MBA,1,1,60,23,35,13,605016,363000,79891,,6933140,1.689,1102,150.5,19,Financial services-regional banks,1
+1047200,FALSE,Energy,Pennzoil,Mr. James L Pate,Mt Sterling,IL,58,Monmouth C,AB,63,27,Indiana U,MBA,1,1,64,28,18,4,592500,385000,69700,,4225590,0.039,2477,160.2,-5,Energy-other energy,12
+1044280,FALSE,Business,Alco Standard,Mr. John E Stuart,Berkeley,CA,50,Pace U NY,BS,80,36,Pace U NY,MBA,1,1,80,36,9,1,393750,350000,100533,200000,,0.046,6916,6,17,Business-supplies,13
+1036170,FALSE,Food,Sysco,Mr. John F Woodhouse,Wilmington,DE,63,Wesleyan C,BA,53,22,Harvard,MBA,1,1,55,24,25,11,562500,403664,70008,,5674830,0.354,10589,212.2,20,Food distributors-food wholesalers,2
+1034240,FALSE,Retailing,Wal-Mart Stores,Mr. David D Glass,Mountainview,MO,58,SW Missouri St,BS,59,23,,none,0,0,,,18,6,850000,,184235,,11777400,0.118,67345,2333.3,27,Retailing-drugdiscount,6
+1034190,FALSE,Energy,Coastal Corp,Mr. Oscar S Wyatt Jr,Beaumont,TX,69,Texas AM,BSM,49,24,,none,0,0,,,39,1,896120,,138065,,,3.191,10136,118.3,8,Energy-other gas,12
+1030600,FALSE,Financial,GATX,Mr. James J Glasser,Chicago,IL,59,Yale,AB,55,20,Harvard,JD,0,1,58,23,33,16,610008,313697,106897,,8406780,0.732,1087,72.7,12,Financial services-leasefinance,1
+1029020,FALSE,Financial,HF Ahmanson,Mr. Charles R Rinehart,San Francisco,CA,47,U of San Franci,BS,68,21,,none,0,0,,,5,1,643758,312817,72448,,,0.115,3100,-138,5,Financial services-thrift institutions,1
+1025430,FALSE,Consumer,Harley-Davidson,Mr. Richard F Teerlink,Chicago,IL,57,Bradley U,BS,61,24,U of Chicago,MBA,1,1,76,39,13,5,425672,546000,53756,,5445770,0.654,1217,18.4,45,Consumer durables-recreation equipment,18
+1023520,FALSE,Utility,TECO Energy,Mr. Timothy L Guzzle,Ottumwa,IA,57,U of Oklahoma,BS,58,21,Texas Christian,PhD,0,1,65,28,6,5,443750,194000,28267,357500,4261430,0.02,1284,150.3,17,Electric utilities-southeast,19
+1020460,FALSE,Financial,Provident Bancorp,Mr. Allen L Davis,Dayton,OH,52,U of Cincinnati,BA,64,22,,none,0,0,,,10,8,515031,400000,105431,,4374090,0.794,325,51.3,15,Financial services-regional banks,1
+1013560,FALSE,Energy,Murphy Oil,Mr. Jack W McNutt,Norphlet,AR,59,Harding U,BS,56,21,Columbia,MS,0,1,57,22,37,6,507500,240000,33595,232466,3514990,0.138,1637,86.8,6,Energy-other energy,12
+1013330,FALSE,Insurance,American Re,Mr. Edward B Jobe,Keokuk,IA,64,,,,,,none,0,0,,,31,7,457385,525000,30947,,2674740,0.011,1444,110.7,-24,Insurance-propertycasualty,4
+1012540,FALSE,Business,Thermo Electron,Dr. George N Hatsopoulos,Greece,,67,MIT,BS,49,22,MIT,PhD,0,1,56,29,38,38,417000,450000,10118,135420,9870720,2.007,1250,76.6,23,Business-environmentalwaste,10
+1012000,FALSE,Utility,DQE,Mr. Wesley W von Schack,New York,NY,50,Fordham U,AB,65,21,Pace U NY,PhD,0,1,90,46,10,8,440000,,,572000,2948380,0.043,1196,141.4,18,Electric utilities-north central,19
+1010150,FALSE,Energy,UtiliCorp United,Mr. Richard C Green Jr,Kansas City,MO,40,SMU,BSB,76,22,,none,0,0,,,18,9,445000,,565152,,3346210,0.657,1572,86.4,17,Energy-other gas,12
+1009850,FALSE,Travel,Hilton Hotels,Mr. BarronHilton,Dallas,TX,66,,,,,,none,0,0,,,40,28,665128,340000,4717,,5140160,24.483,1358,102.7,2,Travel-hotelsrecreation,8
+1008510,FALSE,Business,HR Block,Mr. Thomas M Bloch,Kansas City,MO,40,Claremont McKen,BA,76,22,,none,0,0,,,18,2,366667,254287,27797,359754,,0.332,1278,189.4,29,Business-services,13
+1003970,FALSE,Travel,AMR,Mr. Robert L Crandall,Westerly,RI,58,U of Rhode Isla,BS,57,21,U of Pennsylvan,MBA,1,1,60,24,21,9,600000,,403974,,18463000,0.009,15816,-96,-1,Travel-airlines,8
+998575,FALSE,Energy,Ultramar,Mr. JeanGaulin,Canada,,51,U of Montreal,BS,67,24,,none,0,0,,,20,5,600000,391500,7075,,2104500,0.112,2438,86.5,44,Energy-other energy,12
+996975,FALSE,Travel,Southwest Airlines,Mr. Herbert D Kelleher,Camden,NJ,63,Wesleyan C,BA,53,22,NYU,LLB,0,1,56,25,27,13,395000,150000,64913,387062,3923760,0.812,2297,154.3,42,Travel-airlines,8
+992927,FALSE,Chemicals,Praxair,Mr. H WilliamLichtenber,Yugoslavia,,59,U of Iowa,BA,57,22,SUNY Buffalo,MBA,1,1,62,27,35,2,546700,350000,96227,,,0.13,2438,143,6,Chemicals-specialized,15
+987400,FALSE,Financial,Mercantile Bankshare,Mr. H FurlongBaldwin,Baltimore,MD,62,Princeton,AB,54,22,,none,0,0,,,38,18,648900,253100,85400,,4778700,0.38,455,82.4,10,Financial services-regional banks,1
+985500,FALSE,Insurance,Jefferson-Pilot,Mr. David A Stonecipher,Cleveland,TN,53,Vanderbilt U,BBA,62,21,Georgia State U,MS,0,1,67,26,2,1,750000,235500,,,,0.041,1247,219.3,20,Insurance-lifehealth,4
+984577,FALSE,Food,Albertson's,Mr. Gary G Michael,Laurel,MT,53,U of Idaho,BS,62,21,,none,0,0,,,28,3,637577,325000,22000,,6632890,0.096,11284,339.7,24,Food distributors-supermarketsconvenience,2
+983484,FALSE,Utility,Potomac Electric Pow,Mr. Edward F Mitchell,Harrisonburg,VA,62,U of Virginia,BSE,56,24,George Washingt,MEA,0,1,60,28,38,5,540000,218700,224784,,3356800,0.041,1702,241.6,9,Electric utilities-northeast,19
+983210,FALSE,Consumer,Newell Co,Mr. William P Sovey,Helen,GA,60,Georgia Tech,BS,55,21,,none,0,0,,,8,2,550000,415800,17410,,,0.218,1645,165.3,20,Consumer durables-home furnishings,18
+979092,FALSE,Financial,MarshallIlsley,Mr. James B Wigdale,Milwaukee,WI,57,Stanford U,BA,59,22,,none,0,0,,,32,2,450000,325000,204092,,,0.49,787,125.5,19,Financial services-regional banks,1
+978033,FALSE,Forest,Potlatch,Mr. John M Richards,Spokane,WA,57,Stanford U,BA,59,22,Harvard,MBA,1,1,61,24,30,1,385600,135300,16195,440938,,0.034,1369,38.3,9,Forest products-paperlumber,9
+976510,FALSE,Utility,Northern States Powe,Mr. James J Howard,Pittsburgh,PA,58,U of Pittsburgh,BBA,57,21,MIT,MS,0,1,70,34,7,7,511300,231931,233279,,3788150,0.03,2404,211.7,12,Electric utilities-north central,19
+973695,FALSE,Retailing,Toys `R' Us,Mr. MichaelGoldstein,Brooklyn,NY,53,CUNY Queens,BA,63,22,,none,0,0,,,11,1,175000,772753,25942,,,0.012,7946,483,16,Retailing-specialty retailers,6
+964239,FALSE,Utility,Commonwealth Edison,Mr. James J O'Connor,Chicago,IL,57,Col of the Holy,BS,58,21,Georgetown U,LLB,0,1,63,26,31,14,668126,215137,80976,,3665630,0.008,5260,102.7,2,Electric utilities-north central,19
+962075,FALSE,Financial,Midlantic,Mr. Garry J Scheuring,Fairmont,MN,54,U of Notre Dame,BS,61,21,U of Chicago,MBA,1,1,64,24,3,3,650000,305000,7075,,2712040,0.044,1012,131.4,-4,Financial services-regional banks,1
+960565,FALSE,Financial,Integra Financial,Mr. William F Roemer,Youngstown,OH,60,Princeton,BA,55,21,,none,0,0,,,24,15,536667,322000,101898,,3168540,0.063,1114,152.8,19,Financial services-regional banks,1
+959000,FALSE,ComputersComm,Nextel Communication,Mr. Brian D McAuley,,,53,,,,,,none,0,0,,,7,7,320000,200000,439000,,2241000,1.042,62,-36.1,57,Computerscommunications-telecommun,16
+958356,FALSE,Consumer,Avon Products,Mr. James E Preston,Cleveland,OH,61,Northwestern U,BS,55,22,,none,0,0,,,30,5,610000,311478,36878,,14117700,0.21,4008,239.6,25,Consumer nondurables-personal products,18
+953206,FALSE,Financial,Southern National,Mr. L GlennOrr Jr,Charlotte,NC,54,Wofford C,BA,62,22,U of S Carolina,MBA,1,1,63,23,22,4,444184,217700,291322,,2671120,0.198,438,75.6,10,Financial services-regional banks,1
+951545,FALSE,Financial,AmSouth Bancorporati,Mr. John W Woods,Evanston,IL,62,U of the South,BA,54,22,,none,0,0,,,25,22,595000,327250,29295,,5090350,0.197,971,146.2,18,Financial services-regional banks,1
+947628,FALSE,Consumer,James River Corp of,Mr. Robert C Williams,Cincinnati,OH,64,U of Cincinnati,BSM,53,23,Xavier U,MBA,1,1,57,27,35,4,824615,,123013,,4994040,0.671,4650,-0.3,-6,Consumer nondurables-personal products,18
+946817,FALSE,Insurance,Cigna,Mr. Wilson H Taylor,Hartford,CT,50,Trinity College,BS,64,20,,none,0,0,,,30,6,790000,,53567,103250,8219730,0.105,18402,234,8,Insurance-diversified,4
+945695,FALSE,Business,Comdisco,Mr. Kenneth N Pontikes,Chicago,IL,54,Southern Illino,BA,63,23,,none,0,0,,,25,25,500000,440605,5090,,6589710,24.231,2118,70,-1,Business-supplies,13
+943015,FALSE,Health,Pall,Mr. Maurice G Hardy,England,,64,Merchant Ventur,BSM,49,19,,none,0,0,,,32,5,441012,382225,119778,,6574260,0.173,683,97.2,14,Health-medical supplies,3
+941335,FALSE,Food,Tyson Foods,Mr. Leland E Tollett,Nashville,AR,57,U of Arkansas,BSA,58,21,U of Arkansas,MSA,0,1,59,22,35,3,485000,115000,44335,297000,5522550,1.4,4777,185.3,22,Fooddrinktobacco-food processors,2
+936668,FALSE,ComputersComm,Quantum,Mr. William J Miller,Fargo,ND,48,U of Minnesota,BS,67,21,U of Minnesota,JD,0,1,70,24,2,2,400058,536610,,,,0.33,2003,-9.6,35,Computerscommunications-peripherals,16
+935450,FALSE,Consumer,Genuine Parts,Mr. Larry L Prince,Dyersburg,TN,55,,,,,,none,0,0,,,36,4,405000,461700,1799,66951,3771220,0.05,4384,258.9,11,Consumer durables-automotive parts,18
+935235,FALSE,Financial,Comerica,Mr. Eugene A Miller,Detroit,MI,56,Detroit Tech,BBA,64,26,,none,0,0,,,39,5,600000,261100,74135,,5327350,0.095,2245,340.6,15,Financial services-regional banks,1
+934142,FALSE,Forest,Willamette Industrie,Mr. WilliamSwindells,Oakland,CA,63,Stanford U,BS,53,22,,none,0,0,,,41,12,588000,,76142,270000,4057660,5.745,2622,110.7,20,Forest products-paperlumber,9
+925492,FALSE,Capital goods,EGG,Mr. John M Kucharski,Milwaukee,WI,58,Marquette U,BS,58,22,George Washingt,JD,0,1,65,29,22,7,540020,,36250,349222,3899810,0.102,2698,79.6,4,Capital goods-other industrial equipment,14
+921921,FALSE,Financial,Wachovia,Mr. Leslie M Baker Jr,Lovettsville,VA,52,U of Richmond,BA,64,22,U of Virginia,MBA,1,1,69,27,25,1,450000,247500,48395,176026,,0.05,2742,492.1,16,Financial services-regional banks,1
+919318,FALSE,Utility,PSI Resources,Mr. James E Rogers,Birmingham,AL,46,U of Kentucky,BBA,70,22,U of Kentucky,JD,0,1,74,26,6,6,402408,239324,277586,,3511440,0.04,1088,96.4,18,Electric utilities-north central,19
+918782,FALSE,Health,Allergan,Mr. William C Shepherd,San Francisco,CA,55,U of Cal Berkel,BS,63,24,Pepperdine U,MBA,1,1,76,37,28,2,494348,320000,23235,81199,2480920,0.15,859,108.9,-1,Health-medical supplies,3
+916567,FALSE,Utility,Scana,Mr. Lawrence M Gressette,St Matthews,SC,62,Clemson U,BS,54,22,U of S Carolina,LLB,0,1,59,27,11,4,383557,186615,346395,,2802330,0.032,1264,168,16,Electric utilities-southeast,19
+915185,FALSE,Capital goods,Stanley Works,Mr. Richard H Ayers,Newton,MA,51,MIT,BS,65,22,MIT,MS,0,1,65,22,22,7,460000,229690,225495,,4850340,0.114,2273,92.6,8,Capital goods-other industrial equipment,14
+914611,FALSE,Travel,Northwest Airlines,Mr. John H Dasburg,New York,NY,50,U of Florida,BS,66,22,U of Florida,JD,0,1,73,29,5,4,463906,450705,,,,0.042,8649,-115.3,,Travel-airlines,8
+912994,FALSE,Financial,Star Banc,Mr. Jerry A Grundhofer,Los Angeles,CA,50,Loyola Marymoun,BA,67,23,,none,0,0,,,1,1,550000,190743,172251,,,0.027,631,100.3,17,Financial services-regional banks,1
+911699,FALSE,Chemicals,PPG Industries,Mr. Jerry E Dempsey,Landrum,SC,61,Clemson U,BSM,54,21,Georgia State U,MBA,1,1,68,35,1,1,250000,312000,349699,,,0.005,5754,295,15,Chemicals-diversified,15
+911034,FALSE,Food,McCormickCo,Mr. Bailey A Thomas,Crisfield,MD,63,Baltimore Comme,ABA,52,21,,none,0,0,,,33,2,492387,377875,6173,34599,4451270,0.239,1584,100.7,26,Fooddrinktobacco-food processors,2
+903494,FALSE,Chemicals,Morton International,Mr. S. JayStewart,Pineville,WV,55,U of Cincinnati,BS,61,22,West Virginia U,MBA,1,1,66,27,21,1,455000,434844,13650,,,0.033,2537,154.4,23,Chemicals-specialized,15
+903337,FALSE,Metals,Armco,Mr. James F Will,Pittsburgh,PA,55,Penn State U,BSE,61,22,Duquesne U,MBA,1,1,72,33,2,1,495833,53000,30781,323723,,0.19,1664,-327,-13,Metals-steel,5
+903045,FALSE,Retailing,Kohl's,Mr. William S Kellogg,Milwaukee,WI,50,,,,,,none,0,0,,,28,15,686250,194737,22058,,,13.117,1306,55.7,86,Retailing-specialty retailers,6
+902783,FALSE,Utility,Consolidated Edison,Mr. Eugene R McGrath,New York,NY,52,Manhattan C,BSM,63,21,Iona C,MBA,1,1,80,38,31,4,551667,253500,97616,,3144590,0.005,6265,658.5,12,Electric utilities-northeast,19
+893535,FALSE,Entertainment,Gaylord Entertainmen,Mr. Earl W Wendell,Akron,OH,66,Wooster,BBA,50,22,,none,0,0,,,44,3,599023,248811,45701,,3475490,0.024,623,36.1,36,Entertainmentinformation-broadcasting,17
+888556,FALSE,Energy,El Paso Natural Gas,Mr. William A Wise,Davenport,IA,48,Vanderbilt U,BA,67,21,U of Colorado,JD,0,1,70,24,24,4,400000,400000,88556,,5290110,0.211,909,91.7,31,Energy-other gas,12
+884486,FALSE,Consumer,Maytag,Mr. Leonard A Hadley,Earlham,IA,59,U of Iowa,BS,58,23,,none,0,0,,,35,2,527675,350000,6811,,2060730,0.099,2987,51.3,3,Consumer durables-appliances,18
+884470,FALSE,Financial,Standard Federal Ban,Mr. Thomas R Ricketts,Detroit,MI,63,U of Michigan,BBA,53,22,U of Michigan,JD,0,1,56,25,38,20,753000,125500,5970,,3876430,0.115,769,115.6,29,Financial services-thrift institutions,1
+883430,FALSE,Financial,West One Bancorp,Mr. Daniel R Nelson,Spokane,WA,56,Washington Stat,BBA,62,24,,none,0,0,,,10,8,429996,180598,14163,258673,2965950,0.046,600,83.2,22,Financial services-regional banks,1
+878750,FALSE,Health,National Intergroup,Mr. Abbey J Butler,New York,NY,56,American U,BS,58,20,,none,0,0,,,4,3,702000,175000,1750,,,9.59,5388,8.6,-1,Health-drugs,3
+877840,FALSE,Utility,Boston Edison,Mr. Bernard W Reznicek,Dodge,NE,57,Creighton U,BS,58,21,U of Nebraska L,MBA,1,1,79,42,7,3,435000,283500,159340,,3045650,0.027,1482,118.2,19,Electric utilities-northeast,19
+875180,FALSE,Financial,Bank South,Mr. Patrick L Flinn,Washington,DC,52,U of Illinois,BA,64,22,Georgia State U,MBA,1,1,72,30,3,3,358631,496084,20465,,1708370,0.059,435,70.9,10,Financial services-regional banks,1
+874935,FALSE,Health,Mallinckrodt Group,Mr. C RayHolman,Little Rock,AR,51,U of Missouri,BS,64,21,,none,0,0,,,18,1,433013,220000,15543,206379,,0.128,1850,-102.9,21,Health-drugs,3
+869452,FALSE,Financial,TCF Financial,Mr. William A Cooper,Detroit,MI,50,Wayne State U,BS,67,23,,none,0,0,,,9,9,500006,,161871,207575,5679500,2.752,477,38,26,Financial services-thrift institutions,1
+867002,FALSE,Health,Marion Merrell Dow,Mr. Fred W Lyons Jr,Youngstown,OH,58,U of Michigan,BS,57,21,Harvard,MBA,1,1,59,23,24,10,675000,,192002,,15149200,0.083,2818,362,,Health-drugs,3
+865984,FALSE,Chemicals,Eastman Chemical,Mr. Earnest W Deavenport,Macon,MS,56,Mississippi Sta,BS,60,22,MIT,MS,0,1,85,47,34,1,500000,276028,50118,39838,,0.001,3903,247,,Chemicals-specialized,15
+863009,FALSE,Transport,Roadway Services,Mr. Joseph M Clapp,Greensboro,NC,57,U of North Caro,BS,58,21,,none,0,0,,,27,7,325000,271104,266905,,4219780,0.205,4156,119.3,20,Transport-shipping,7
+862818,FALSE,Food,Hannaford Bros,Mr. Hugh G Farrington,North Conway,NH,49,Dartmouth,BA,67,22,U of New Hampsh,MA,0,1,68,23,26,2,338000,253500,181574,89744,,0.498,2055,54.6,14,Food distributors-supermarketsconvenience,2
+860270,FALSE,ComputersComm,AMP,Mr. William J Hudson Jr,Chicago,IL,60,Cornell,BS,57,23,,none,0,0,,,32,1,533333,196747,113546,16644,,0.012,3451,296.7,10,Computerscommunications-peripherals,16
+858189,FALSE,Consumer,Snap-on,Mr. Robert A Cornog,Philadelphia,PA,54,Illinois Tech,BS,61,21,U of Chicago,MBA,1,1,66,26,3,3,416583,386880,2335,52391,1808220,0.04,1132,85.8,5,Consumer durables-automotive parts,18
+856694,FALSE,Metals,Asarco,Mr. Richardde J Osborne,Bronxville,NY,60,Princeton,AB,56,22,,none,0,0,,,19,8,725000,,8994,122700,4963070,0.151,1736,-70.7,,Metals-nonferrous metals,5
+856166,FALSE,Energy,Kerr-McGee,Mr. Frank A McPherson,Stillwell,OK,61,Oklahoma State,BS,57,24,,none,0,0,,,37,11,584077,,272089,,5253090,0.114,3281,77.1,2,Energy-other energy,12
+850000,FALSE,Health,National Medical Ent,Mr. JeffreyBarbakow,Los Angeles,CA,50,San Jose State,BS,66,22,USC,MBA,1,1,68,24,1,1,850000,,,,,0.011,3435,-270.1,6,Health-health care services,3
+846764,FALSE,Food,Hormel Foods,Mr. Joel W Johnson,,,51,,,,,,none,0,0,,,3,1,273300,558000,15464,,,0.013,2888,103,14,Fooddrinktobacco-food processors,2
+842121,FALSE,Financial,Compass Bancshares,Mr. D PaulJones Jr,Birmingham,AL,51,U of Alabama,BS,64,21,NYU,JD,0,1,67,24,16,3,408098,408098,25925,,5975560,1.372,625,89.3,25,Financial services-regional banks,1
+838007,FALSE,Food,Flagstar Cos,Mr. Jerome J Richardson,Spring Hope,NC,57,Wofford C,BA,59,22,,none,0,0,,,33,5,824355,,13652,,9291410,1.931,3970,-1681.5,,Food distributors-restaurant chains,2
+836211,FALSE,Food,Food Lion,Mr. Tom E Smith,Salisbury,NC,53,Catawba C,BA,64,23,,none,0,0,,,24,8,642314,,193897,,4760260,0.726,7610,3.9,-3,Food distributors-supermarketsconvenience,2
+833152,FALSE,Chemicals,Nalco Chemical,Mr. Edward J Mooney,Omar,WV,53,U of Texas Aust,BS,64,23,U of Texas Aust,JD,0,1,67,26,25,1,390000,176982,266170,,,0.057,1389,152.7,16,Chemicals-specialized,15
+831873,FALSE,Retailing,Caldor,Mr. Don R Clarke,Rexburg,ID,48,Brigham Young U,BS,70,24,Washington Stat,MBA,1,1,71,25,8,8,531250,297675,2948,,6057400,1.024,2414,41.4,14,Retailing-drugdiscount,6
+831340,FALSE,Capital goods,Hubbell,Mr. G J Ratcliffe,Charleston,WV,58,Duke U,AB,58,22,U of Virginia,JD,0,1,61,25,20,6,442900,340000,48440,,6464150,0.361,832,66.3,19,Capital goods-electrical equipment,14
+828219,FALSE,Business,Kelly Services,Mr. Terence E Adderley,Detroit,MI,60,U of Michigan,BBA,55,21,U of Michigan,MBA,1,1,56,22,36,27,540000,190000,98219,,3341770,5.418,1955,44.6,4,Business-services,13
+827873,FALSE,Food,International Multif,Mr. AnthonyLuiso,Italy,,50,Iona C,BA,67,23,U of Chicago,MBA,1,1,82,38,7,5,413333,355800,58740,,2648820,0.288,2200,2.2,2,Fooddrinktobacco-food processors,2
+827731,FALSE,Food,Dean Foods,Mr. Howard M Dean,Hinsdale,IL,56,SMU,BBA,60,22,Northwestern U,MBA,1,1,61,23,39,7,448095,300222,12072,67342,5407070,0.949,2352,66.3,9,Fooddrinktobacco-food processors,2
+824245,FALSE,Food,Pioneer Hi-Bred Inte,Mr. Thomas N Urban,DesMoines,IA,59,Harvard,BA,56,21,Harvard,MBA,1,1,60,25,34,13,483514,189859,150872,,4328710,0.414,1342,132.4,24,Fooddrinktobacco-food processors,2
+820226,FALSE,Entertainment,Tele-Communications,Dr. John C Malone,Milford,CT,53,Yale,BS,63,22,Johns Hopkins U,PhD,0,1,67,26,21,21,800000,,20226,,21168500,0.238,4047,12,8,Entertainmentinformation-broadcasting,17
+817947,FALSE,Financial,First National of Ne,Mr. John R Lauritzen,,,77,,,,,,none,0,0,,,51,26,397303,304233,116411,,1975410,46.11,546,70.1,,Financial services-regional banks,1
+816667,FALSE,Financial,MBNA,Mr. AlfredLerner,New York,NY,61,Columbia,BA,55,22,,none,0,0,,,11,3,816667,,,,3197050,12.152,1393,207.8,41,Financial services-leasefinance,1
+816573,FALSE,Chemicals,Olin,Mr. John W Johnstone Jr,Brooklyn,NY,61,Hartwick C,BA,54,21,,none,0,0,,,15,7,600000,140000,76573,,4717150,0.23,2423,-92,3,Chemicals-diversified,15
+814754,FALSE,ComputersComm,Merisel,Mr. Michael D Pickett,Long Beach,CA,46,USC,BBA,69,21,,none,0,0,,,11,6,487629,282125,45000,,4921880,0.101,3086,30.4,24,Computerscommunications-peripherals,16
+813524,FALSE,Travel,Host Marriott,Mr. Stephen F Bollenbach,Los Angeles,CA,51,USC,BS,65,22,Cal St Los Ange,MBA,1,1,68,25,2,1,473077,327370,13077,,,0.006,1354,-60,10,Travel-hotelsrecreation,8
+812478,FALSE,ComputersComm,LDDS Communications,Mr. BernardEbbers,Canada,,52,Mississippi C,BA,67,25,,none,0,0,,,9,9,300000,500000,12478,,2324150,7.292,1145,104.2,100,Computerscommunications-telecommun,16
+808333,FALSE,Food,Universal,Mr. Henry H Harrell,Richmond,VA,54,WashingtonLee,BA,61,21,,none,0,0,,,20,6,361655,355000,80193,11485,3042430,0.213,2887,59.9,5,Fooddrinktobacco-tobacco,0
+807792,FALSE,ComputersComm,Tandem Computers,Mr. James G Treybig,Clarendon,TX,53,Rice U,BS,63,22,Stanford U,MBA,1,1,68,27,19,19,661810,136785,9197,,3788060,0.628,2023,-510.3,-4,Computerscommunications-major systems,16
+800265,FALSE,Financial,FirstFed Michigan,Mr. C GeneHarling,Gainesville,FL,48,U of Florida,BBA,68,22,Wayne State U,MBA,1,1,69,23,15,4,410000,258546,,131719,2980170,0.268,735,41.4,20,Financial services-thrift institutions,1
+800144,FALSE,ComputersComm,American Power Conve,Mr. Rodger B Dowdell Jr.,Providence,RI,45,Brown,BSE,71,22,U of Rhode Isla,MSEE,0,1,75,26,9,9,370000,400000,30144,,2810550,10.841,250,48.6,120,Computerscommunications-peripherals,16
+800000,FALSE,Health,Upjohn,Mr. John L Zabriskie,Auburn,NY,54,Dartmouth,BS,61,21,U of Rochester,PhD,0,1,65,25,1,1,800000,,,,,0.021,3653,411.3,3,Health-drugs,3
+800000,FALSE,Insurance,20th Century Industr,Mr. Neil H Ashley,Spokane,WA,71,,,,,U of Montana,JD,0,1,50,27,11,1,600000,200000,,,,0.00001,1104,108.6,19,Insurance-propertycasualty,4
+800000,FALSE,Travel,Circus Circus Enterp,Mr. Clyde T Turner,Las Vegas,NV,56,U of Nevada Las,BS,60,22,,none,0,0,,,1,1,800000,,,,,0.003,955,116.2,22,Travel-hotelsrecreation,8
+798255,FALSE,Financial,FirstFed Financial,Mr. William S Mortensen,Philadelphia,PA,61,USC,BS,54,21,,none,0,0,,,39,11,332800,,2629,462826,5962880,1.946,241,-2,2,Financial services-thrift institutions,1
+796635,FALSE,Aerospacedefense,Grumman,Dr. Renso L Caporali,Batavia,NY,61,ClarksonU,BCE,54,21,Princeton,PhD,0,1,64,31,35,4,450000,310000,36635,,1880140,0.122,3225,58.8,30,Aerospacedefense,11
+795000,FALSE,Utility,DPL,Mr. Peter H Forster,Germany,,51,U of Wisc Madis,BS,64,21,Brooklyn Law Sc,JD,0,1,72,29,21,9,496000,298000,1000,,4084400,0.02,1151,139,21,Electric utilities-north central,19
+793214,FALSE,Financial,Hibernia,Mr. Stephen A Hansel,Long Branch,NJ,46,Wesleyan C,BA,69,21,U of Virginia,MBA,1,1,71,23,2,2,450000,303750,39464,,,0.108,367,48,-15,Financial services-regional banks,1
+790262,FALSE,Retailing,Payless Cashways,Mr. DavidStanley,Kansas City,MO,58,Columbia,LLB,57,21,,none,0,0,,,14,12,600000,180000,10262,,3107920,0.091,2650,30.2,15,Retailing-home improvement,6
+787841,FALSE,Travel,Delta Air Lines,Mr. Ronald W Allen,Atlanta,GA,52,Georgia Tech,BSI,64,22,,none,0,0,,,31,7,487500,,24716,275625,4998510,0.036,12295,-225.9,-4,Travel-airlines,8
+785693,FALSE,Retailing,Hook-SupeRx,Mr. Philip E Beekman,Verona,NJ,63,Dartmouth,AB,53,22,,none,0,0,,,8,8,550000,,235693,,5987830,5.153,2304,-3.3,-11,Retailing-drugdiscount,6
+785563,FALSE,Insurance,Horace Mann Educator,Mr. Paul J Kardos,Vandergrift,PA,57,Grove City C,BS,62,25,,none,0,0,,,17,12,363750,400000,21813,,3030040,1.751,708,77.2,15,Insurance-diversified,4
+782500,FALSE,Health,Manor Care,Mr. StewartBainum Jr,Takoma Park,MD,48,Pacific Union C,BA,68,22,UCLA,MBA,1,1,70,24,22,7,499200,269568,13732,,3484180,2.933,1119,73,24,Health-health care services,3
+780932,FALSE,Financial,Charter One Financia,Mr. Charles JohnKoch,Baltimore,MD,48,Lehigh U,BS,68,22,Loyola U,MBA,1,1,71,25,18,6,301629,278853,48947,151503,2584410,0.722,385,61.4,34,Financial services-regional banks,1
+780250,FALSE,Financial,Ambac,Mr. Phillip B Lassiter,Kansas City,MO,50,NC State U,BS,64,20,,none,0,0,,,3,3,475000,262500,42750,,,0.051,328,179.4,13,Financial services-leasefinance,1
+779955,FALSE,Retailing,Waban,Mr. Herbert J Zarkin,Haverhill,MA,55,,,,,,none,0,0,,,5,1,441135,237479,3491,97850,,0.145,3589,-18.7,1,Retailing-home improvement,6
+779590,FALSE,Retailing,Service Merchandise,Mr. RaymondZimmerman,Memphis,TN,61,,,,,,none,0,0,,,34,21,750000,,29590,,5401440,5.138,3815,82.3,13,Retailing-home shopping,6
+777372,FALSE,Utility,Carolina PowerLigh,Mr. Sherwood H Smith Jr,Jacksonville,FL,59,U of North Caro,AB,56,21,U of North Caro,JD,0,1,60,25,29,15,567000,150000,60372,,3117900,0.037,2895,346.5,14,Electric utilities-southeast,19
+775403,FALSE,Utility,Northeast Utilities,Mr. Bernard M Fox,New York,NY,51,Manhattan C,BSE,63,20,Rensselaer,MSEE,0,1,64,21,30,1,478775,180780,115848,,,0.013,3629,198.3,14,Electric utilities-northeast,19
+774120,FALSE,Entertainment,Multimedia,Mr. Walter E Bartlett,Marion,OH,66,Bowling Green S,BBA,49,21,,none,0,0,,,18,9,533676,236000,4444,,17363700,0.577,635,85.5,,Entertainmentinformation-broadcasting,17
+773752,FALSE,Energy,Enserch,Mr. David W Biegler,San Antonio,TX,47,St Mary's U,BS,68,21,,none,0,0,,,26,1,525000,210000,38752,,,0.027,1902,59.2,-4,Energy-integrated gas,12
+772155,FALSE,Financial,Washington Federal S,Mr. Guy C Pinkerton,Seattle,WA,59,U of Washington,BA,59,24,,none,0,0,,,29,2,228800,43800,28080,471475,,1.092,295,95.2,22,Financial services-thrift institutions,1
+770956,FALSE,Utility,Ipalco Enterprises,Mr. John R Hodowal,Dayton,OH,49,Purdue U,BSI,66,21,Indiana U,JD,0,1,70,25,26,5,424459,209672,136825,,3661230,0.042,664,75.4,15,Electric utilities-north central,19
+770721,FALSE,Food,Vons Cos,Mr. Roger E Stangeland,Chicago,IL,64,U of Illinois,BS,51,21,,none,0,0,,,34,10,700660,,70061,,4754890,2.157,5075,33,2,Food distributors-supermarketsconvenience,2
+770244,FALSE,Utility,General Public Utili,Mr. James R Leva,Boonton,NJ,62,Fairleigh Dicki,BSE,60,28,Seton Hall C,JD,0,1,80,48,42,2,523750,189000,57494,,1769460,0.003,3596,295.7,15,Electric utilities-northeast,19
+770034,FALSE,Financial,Dauphin Deposit,Mr. William J King,Philadelphia,PA,65,U of Pennsylvan,BBA,74,45,La Salle Univer,MBA,1,1,80,51,15,8,425000,193996,5695,145343,2851380,0.111,360,64.5,14,Financial services-regional banks,1
+768648,FALSE,Financial,First Security,Mr. Spencer F Eccles,Ogden,UT,59,U of Utah,BS,56,21,Columbia,MA,0,1,59,24,35,12,467450,280404,20794,,3161600,2.718,812,114.1,24,Financial services-regional banks,1
+766037,FALSE,Insurance,TIG Holdings,Mr. Jon W Rotenstreich,Birmingham,AL,50,U of Alabama,BS,64,20,,none,0,0,,,1,1,600000,150000,16037,,,0.366,1881,-128,,Insurance-propertycasualty,4
+761066,FALSE,Financial,Collective Bancorp,Mr. Thomas H Hamilton,Egg Harbor City,NJ,63,Rutgers,BS,53,22,,none,0,0,,,39,32,292981,117649,25195,325241,3218140,3.756,250,57.1,34,Financial services-regional banks,1
+760835,FALSE,Food,Winn-Dixie Stores,Mr. A DanoDavis,New Rochelle,NY,48,,,,,,none,0,0,,,26,12,353600,395200,12035,,3624450,2.453,11040,239.7,22,Food distributors-supermarketsconvenience,2
+759057,FALSE,Health,St Jude Medical,Mr. Ronald A Matricaria,,,51,Mass C of Pharm,BS,66,23,,none,0,0,,,1,1,400000,358250,807,,,0.086,253,109.6,14,Health-medical supplies,3
+756199,FALSE,Utility,PacifiCorp,Dr. Frederick W Buckman,Kalamazoo,MI,48,U of Michigan,BS,66,20,MIT,PhD,0,1,70,24,1,1,504116,252083,,,,0.014,3412,475.1,7,Electric utilities-western,19
+755219,FALSE,Utility,CentralSouth West,Mr. E RBrooks,Slaton,TX,56,Texas Tech U,BSE,61,23,,none,0,0,,,33,3,549167,57265,148787,,2727180,0.027,3687,262,17,Electric utilities-south central,19
+748443,FALSE,Construction,Foster Wheeler,Mr. Richard J Swift,Indianapolis,IN,49,US Military Aca,BS,66,21,Fairleigh Dicki,MBA,1,1,76,31,20,1,375000,151950,221493,,,0.011,2583,57.7,22,Construction-builders,0
+747469,FALSE,ComputersComm,Digital Equipment,Mr. Robert B Palmer,Gorman,TX,53,Texas Tech U,BS,62,21,Texas Tech U,MS,0,1,65,24,9,2,738469,,9000,,,0.009,13637,-92.3,-21,Computerscommunications-major systems,16
+741192,FALSE,Financial,Fourth Financial,Mr. Darrell G Knudson,Centerville,SD,56,,,,,,none,0,0,,,3,3,363838,300000,7770,69584,1810000,0.128,523,65.2,11,Financial services-regional banks,1
+740335,FALSE,Health,Bindley Western Indu,Mr. William E Bindley,Terre Haute,IN,53,Purdue U,BS,61,20,,none,0,0,,,27,27,514400,165000,60935,,2955830,28.336,3426,9.6,9,Health-drugs,3
+737980,FALSE,Capital goods,BriggsStratton,Mr. Frederick P Stratton,Milwaukee,WI,55,Yale,BS,61,22,Stanford U,MBA,1,1,63,24,21,17,476736,254577,6667,,2592670,2.683,1190,84,31,Capital goods-other industrial equipment,14
+737574,FALSE,Utility,Dominion Resources,Mr. Thos E Capps,Wilmington,NC,58,U of North Caro,BA,58,22,U of North Caro,JD,0,1,65,29,10,4,534100,187066,16408,,2819640,0.035,4434,516.6,15,Electric utilities-southeast,19
+737191,FALSE,Financial,Commerce Bancshares,Mr. David W Kemper,Kansas City,MO,43,Harvard,BA,72,21,Stanford U,MBA,1,1,76,25,16,8,467500,150000,7816,111875,4181430,1.291,582,86.9,18,Financial services-regional banks,1
+731500,FALSE,Forest,Westvaco,Mr. John A Luke Jr,New York,NY,45,Lawrence U Wisc,BA,71,22,U of Penn-Whart,MBA,1,1,79,30,15,2,700000,,31500,,,0.076,2361,51.4,5,Forest products-paperlumber,9
+730000,FALSE,Forest,Stone Container,Mr. Roger W Stone,Chicago,IL,59,U of Pennsylvan,BS,57,22,,none,0,0,,,37,15,730000,,,,6483360,1.897,5060,-319.2,-13,Forest products-packaging,9
+728984,FALSE,Energy,Phillips Petroleum,Mr. Wayne W Allen,Fort Smith,AR,57,Oklahoma State,BSM,59,22,Oklahoma State,MSIE,0,1,69,32,33,1,448250,275235,5499,,,0.011,12309,245,7,Energy-other energy,12
+728010,FALSE,Financial,Coast Savings Financ,Mr. RayMartin,Nogales,AZ,58,,,,,,none,0,0,,,35,10,500004,200000,28006,,3453880,0.114,576,17.2,-1,Financial services-thrift institutions,1
+726396,FALSE,Health,Columbia/HCA Healthc,Mr. Richard L Scott,Kansas City,MO,41,U of Missouri,BBA,75,22,SMU,JD,0,1,78,25,7,7,371000,350000,5396,,1545760,1.891,10252,591,,Health-health care services,3
+722653,FALSE,Financial,People's Bank,Mr. David E A Carson,England,,59,U of Michigan,BBA,55,20,,none,0,0,,,11,9,390000,263250,31153,38250,2437440,0.15,497,41.3,9,Financial services-thrift institutions,1
+716365,FALSE,Financial,United Missouri Banc,Mr. R CrosbyKemper,Kansas City,MO,67,,,,,,none,0,0,,,44,24,578974,,80590,56801,3106150,15.114,415,41.1,12,Financial services-regional banks,1
+715623,FALSE,Business,Harsco,Mr. Derek C Hathaway,England,NC,50,,,,,,none,0,0,,,28,1,270834,148282,160469,136038,,0.088,1422,80.8,17,Business-industrial services,10
+714148,FALSE,Metals,Bethlehem Steel,Mr. Curtis H Barnette,St Albans,WV,59,West Virginia U,BA,56,21,Yale,JD,0,1,62,27,27,2,500000,,214148,,,0.069,4323,-266.3,-3,Metals-steel,5
+713490,FALSE,Utility,New England Electric,Mr. John W Rowe,Dodgeville,WI,49,U of Wisc Madis,BS,67,22,U of Wisc Madis,JD,0,1,70,25,5,5,433908,268323,11259,,3309190,0.031,2234,190.2,17,Electric utilities-northeast,19
+713398,FALSE,Utility,Cincinnati GasElec,Mr. Jackson H Randolph,Cincinnati,OH,63,U of Cincinnati,BBA,58,27,U of Cincinnati,MBA,1,1,68,37,35,8,425000,200000,88398,,2693200,0.025,1752,-8.7,16,Electric utilities-north central,19
+710308,FALSE,Forest,Ball Corp,Mr. Delmont A Davis,Hillside,CO,58,U of Colorado,BS,59,23,,none,0,0,,,25,3,480000,96720,41088,92500,3159660,0.078,2441,-32.5,4,Forest products-packaging,9
+705255,FALSE,Utility,American Electric Po,Dr. E LinnDraper Jr,Houston,TX,52,Rice U,BA,64,22,Cornell,PhD,0,1,70,28,2,1,538333,148742,18180,,,0.001,5269,353.8,11,Electric utilities-north central,19
+703000,FALSE,Metals,Homestake Mining,Mr. Harry M Conger,Seattle,WA,63,Colo Sch Mines,EM,55,24,,none,0,0,,,19,15,465000,210000,28000,,3917890,0.126,704,52.5,11,Metals-nonferrous metals,5
+698414,FALSE,ComputersComm,TelephoneData Syst,Mr. LeRoy T Carlson Jr,Chicago,IL,47,Harvard,BA,68,21,Harvard,MBA,1,1,71,24,20,8,316000,56250,15461,310703,1941930,2.032,591,33.9,2,Computerscommunications-telecommun,16
+697279,FALSE,Financial,MGIC Investment,Mr. William H Lacy,Chicago,IL,49,U of Wisc Milwa,BBA,68,23,,none,0,0,,,23,7,450000,225000,22279,,4819860,0.566,404,127.3,25,Financial services-leasefinance,1
+697228,FALSE,Energy,Oryx Energy,Mr. Robert P Hauptfuhrer,Philadelphia,PA,62,Princeton,BA,53,21,Harvard,MBA,1,1,57,25,37,6,633360,,63868,,7987980,0.071,1080,-93,-10,Energy-other energy,12
+691994,FALSE,Financial,Summit Bancorp,Mr. Robert G Cox,Watertown,NY,53,,,,,,none,0,0,,,21,1,332833,135000,224161,,,0.448,304,42.4,4,Financial services-regional banks,1
+691432,FALSE,Energy,Columbia Gas System,Mr. John H Croom,Fayetteville,NC,61,NC State U,BS,54,21,,none,0,0,,,40,10,652000,,39432,,3724260,0.069,3391,152.2,-3,Energy-integrated gas,12
+687147,FALSE,Financial,US Bancorp,Mr. Gerry B Cameron,Grandview,WA,55,Portland State,BS,62,23,,none,0,0,,,38,1,248750,225000,213397,,,0.087,1966,257.9,19,Financial services-regional banks,1
+686093,FALSE,Forest,Boise Cascade,Mr. John B Fery,Bellingham,WA,64,U of Washington,BA,53,23,Stanford U,MBA,1,1,55,25,37,22,619500,,66593,,3887900,0.268,3958,-77.1,-8,Forest products-paperlumber,9
+678569,FALSE,Energy,NorAm Energy,Mr. T MiltonHonea Jr,Fulton,AR,61,U of Cal Berkel,BS,55,22,Harvard,MBA,1,1,58,25,10,1,346593,300000,31976,,,0.057,2950,39.9,-16,Energy-integrated gas,12
+677260,FALSE,Financial,Washington Mutual Sa,Mr. Kerry K Killinger,Des Moines,IA,44,U of Iowa,BBA,70,20,U of Iowa,MBA,1,1,71,21,18,4,430000,230000,17260,,5286420,0.866,1180,175.3,22,Financial services-thrift institutions,1
+675000,FALSE,Retailing,Ames Department Stor,Mr. PeterThorner,Brooklyn,NY,50,CUNY Brooklyn,BS,65,21,,none,0,0,,,4,1,450000,225000,,,,0.00001,2309,,141,Retailing-drugdiscount,6
+674514,FALSE,Financial,Anchor Bancorp,Mr. James M Large Jr,Philadelphia,PA,62,Princeton,BSE,54,22,,none,0,0,,,5,5,452539,203875,18100,,2584550,0.222,531,53.1,23,Financial services-thrift institutions,1
+672750,FALSE,ComputersComm,MFS Communications,Mr. James Q Crowe,Camp Pendleton,CA,44,Rensselaer,BSM,72,22,Pepperdine U,MBA,1,1,82,32,8,3,270250,175000,,227500,,0.00001,141,-15.8,8,Computerscommunications-telecommun,16
+669135,FALSE,Utility,Public Service Enter,Mr. E JamesFerland,Boston,MA,52,U of Maine,BS,64,22,U of New Haven,MBA,1,1,76,34,8,8,622606,,36079,10450,4049470,0.014,5706,595.5,10,Electric utilities-northeast,19
+668831,FALSE,Financial,First American Corp,Mr. Dennis C Bottorff,Clarksville,IN,49,Vanderbilt U,BE,66,21,Northwestern U,MBA,1,1,68,23,3,3,436000,218000,14831,,1265700,0.296,517,101.9,9,Financial services-regional banks,1
+668397,FALSE,Retailing,Mercantile Stores,Mr. David L Nichols,Toledo,OH,51,U of Toledo,BS,90,47,,none,0,0,,,30,2,480000,160000,28397,,,0.014,2730,86.6,-1,Retailing-department stores,6
+663111,FALSE,Financial,Franklin Resources,Mr. Charles B Johnson,Montclair,NJ,61,Yale,BA,54,21,,none,0,0,,,37,23,425570,216535,21006,,2747770,19.537,712,199.8,33,Financial services-leasefinance,1
+659789,FALSE,Utility,CMS Energy,Mr. William T McCormick J,Washington,DC,49,Cornell,BS,66,21,MIT,PhD,0,1,69,24,9,9,625000,,34789,,4962850,0.131,3482,155,,Electric utilities-north central,19
+659725,FALSE,Consumer,Arvin Industries,Mr. Byron O Pond,Royal Oak,MI,58,Wayne State U,BSB,61,25,,none,0,0,,,26,1,438269,112347,13301,95808,,0.036,1939,40.3,9,Consumer durables-automotive parts,18
+655381,FALSE,Utility,Puget Sound PowerL,Mr. Richard R Sonstelie,Canada,,49,US Military Aca,BS,66,21,Harvard,MBA,1,1,74,29,20,2,320419,66000,204960,64002,1581200,0.011,1113,138.3,13,Electric utilities-western,19
+652115,FALSE,Financial,St Paul Bancorp,Mr. Joseph C Scully,Detroit,MI,53,Loyola U,BS,62,21,Loyola U,MBA,1,1,72,31,31,12,323699,182375,146041,,3215080,0.442,289,41.4,18,Financial services-thrift institutions,1
+650443,FALSE,Financial,First Bancorporation,Mr. Howard L Flood,Staten Island,NY,59,,,,,,none,0,0,,,31,9,365700,121095,127032,36616,2165770,0.162,332,55.2,16,Financial services-regional banks,1
+649482,FALSE,Utility,Portland General,Mr. Ken L Harrison,Bakersfield,CA,51,Oregon State U,BS,64,21,Oregon State U,MS,0,1,66,23,19,5,415000,178472,56010,,2673650,0.034,947,89.1,3,Electric utilities-western,19
+645880,FALSE,Utility,Detroit Edison,Mr. John E Lobbia,Chicago,IL,52,U of Detroit,BSE,64,22,,none,0,0,,,30,4,501250,124060,20570,,2432180,0.007,3555,521.9,15,Electric utilities-north central,19
+639278,FALSE,Food,Ralston-Continental,Mr. Jay W Brown,,,48,Ohio State U,BS,66,20,Ohio State U,MA,0,1,68,22,13,10,250000,150000,40065,199213,4665490,0.068,1984,27.7,,Fooddrinktobacco-food processors,2
+627048,FALSE,Financial,Premier Bancorp,Mr. G LeeGriffin,Leavenworth,KS,55,U of Texas Aust,BS,60,21,Louisiana State,MS,0,1,62,23,32,6,383750,234000,9298,,2221510,0.299,336,67.6,31,Financial services-regional banks,1
+626433,FALSE,Financial,Zions Bancorporation,Mr. Harris H Simmons,Salt Lake City,UT,39,U of Utah,BA,77,22,Harvard,MBA,1,1,80,25,13,3,289531,170000,8152,158750,1749440,3.584,346,51.4,31,Financial services-regional banks,1
+626377,FALSE,Utility,Baltimore GasElect,Mr. Christian H Poindexte,Evansville,IN,55,US Naval Acad,BS,60,21,Loyola U,MBA,1,1,75,36,27,1,465533,124000,36844,,,0.05,2669,309.9,11,Electric utilities-northeast,19
+623683,FALSE,Utility,Niagara Mohawk Power,Mr. William E Davis,Schenevus,NY,52,US Naval Acad,BS,64,22,George Washingt,MSA,0,1,70,28,4,1,394045,40632,189006,,,0.001,3933,271.8,11,Electric utilities-northeast,19
+620458,FALSE,ComputersComm,Conner Peripherals,Mr. Finis F Conner,Gadsden,AL,50,San Jose State,BS,69,25,,none,0,0,,,9,9,615632,,4826,,5422750,2.662,2152,-445.3,17,Computerscommunications-peripherals,16
+619372,FALSE,Capital goods,National Service Ind,Mr. D RaymondRiddle,Oglethorpe,GA,60,Georgia Tech,BS,55,21,,none,0,0,,,1,1,500000,100000,19372,,,0.01,1843,77.3,5,Capital goods-electrical equipment,14
+618926,FALSE,Transport,Federal Express,Mr. Frederick W Smith,Marks,MS,49,Yale,BA,66,21,,none,0,0,,,23,19,550368,,68558,,3354580,8.721,8253,179.5,8,Transport-shipping,7
+617954,FALSE,Utility,Nipsco Industries,Mr. Gary L Neale,Lead,SD,54,U of Washington,BA,62,22,U of Washington,MBA,1,1,65,25,5,1,400000,206000,11954,,,0.05,1678,156.1,24,Electric utilities-north central,19
+617101,FALSE,Utility,Duke Power,Mr. William H Grigg,Shelby,NC,61,Duke U,AB,54,21,Duke U,LLB,0,1,58,25,31,1,411500,,205601,,,0.017,4282,626.4,16,Electric utilities-southeast,19
+617054,FALSE,Financial,California Federal B,Mr. Edward G Harshfield,New York,NY,57,Southeastern U,BBA,62,25,,none,0,0,,,1,1,475000,100000,42054,,,0.00001,1084,-145.5,-37,Financial services-thrift institutions,1
+615841,FALSE,Financial,BBT Financial,Mr. John A Allison IV,Charlotte,NC,45,U of North Caro,BBA,71,22,Duke U,MBA,1,1,74,25,23,5,370388,142599,102854,,2700240,0.124,671,98.2,15,Financial services-regional banks,1
+615715,FALSE,Retailing,Bradlees,Mr. Barry A Berman,Boston,MA,52,Northeastern U,BS,64,22,,none,0,0,,,27,2,500032,,115683,,,0.328,1881,13.5,24,Retailing-drugdiscount,6
+613354,FALSE,Food,Loews,Mr. Laurence A Tisch,Brooklyn,NY,71,NYU,BS,42,19,U of Pennsylvan,MA,0,1,43,20,35,34,570296,,43058,,1873060,15.361,12582,594.1,1,Fooddrinktobacco-tobacco,0
+611963,FALSE,Financial,First Empire State,Mr. Robert G Wilmers,New York,NY,60,Harvard,BA,56,22,,none,0,0,,,12,11,400000,200000,11963,,11969800,8.539,851,102,21,Financial services-regional banks,1
+608262,FALSE,Financial,Magna Group,Mr. William S Badgley,Belleville,IL,64,Washington U,BS,60,30,,none,0,0,,,41,2,411600,148125,48537,,1628320,0.458,290,37.5,12,Financial services-regional banks,1
+607289,FALSE,ComputersComm,Raychem,Mr. Robert J Saldich,New York,NY,60,Rice U,BS,56,22,Harvard,MBA,1,1,61,27,30,4,497289,110000,,,2858160,0.045,1394,9,4,Computerscommunications-major systems,16
+605250,FALSE,Health,Perrigo,Mr. Michael J Jandernoa,Detroit,MI,44,U of Michigan,BA,73,23,,none,0,0,,,15,8,291100,300629,13521,,1757280,13.39,634,52.4,20,Health-drugs,3
+604774,FALSE,ComputersComm,Southern New England,Mr. Daniel J Miglio,Philadelphia,PA,53,U of Penn-Whart,BS,62,21,,none,0,0,,,32,1,400934,180000,23840,,,0.008,1654,-53.9,3,Computerscommunications-telecommun,16
+602369,FALSE,Food,Borden,Mr. Ervin R Shames,Des Moines,IA,53,U of Florida,BSB,62,21,Harvard,MBA,1,1,66,25,1,1,306818,200000,95551,,,0.021,5506,-575.6,-11,Fooddrinktobacco-food processors,2
+600516,FALSE,Metals,Reynolds Metals,Mr. Richard G Holder,Paris,TN,62,Vanderbilt U,BA,53,21,,none,0,0,,,41,2,575000,,25516,,1913290,0.117,5269,-322.1,,Metals-nonferrous metals,5
+600300,FALSE,Aerospacedefense,Teledyne,Mr. William P Rutledge,Pittston,PA,52,Lafayette C,BS,63,21,George Washingt,MS,0,1,67,25,8,3,600000,,300,,2560750,0.004,2492,72.8,-9,Aerospacedefense,11
+600000,FALSE,Transport,Southern Pacific Rai,Mr. Edward L Moyers,Vicksburg,MS,65,Louisiana Tech,BS,55,26,,none,0,0,,,1,1,600000,,,,,0.00001,2919,-44.9,,Transport-railroad,7
+599127,FALSE,Insurance,Geico,Mr. Louis A Simpson,Chicago,IL,57,Ohio Wesleyan U,BA,58,21,Princeton,AM,0,1,60,23,15,1,500000,,99127,,,0.505,2638,286.4,18,Insurance-propertycasualty,4
+597437,FALSE,Forest,Bowater,Mr. Anthony P Gammie,England,,59,,,,,,none,0,0,,,39,11,575000,,22437,,3183910,0.129,1354,-64.5,-1,Forest products-paperlumber,9
+595033,FALSE,Consumer,Polaroid,Mr. I MacAllisterBooth,Atlanta,GA,62,Cornell,BME,55,23,Cornell,MBA,1,1,58,26,36,8,525507,,69526,,3428480,0.023,2245,67.9,-1,Consumer nondurables-photographytoys,18
+588929,FALSE,Utility,KU Energy,Mr. John T Newton,Shelbyville,KY,63,Western Kentuck,BS,52,21,,none,0,0,,,36,7,424237,144362,20330,,2322110,0.069,607,80,14,Electric utilities-southeast,19
+587796,FALSE,Financial,Liberty National Ban,Mr. Malcolm B Chancey Jr,Louisville,KY,62,U of Louisville,BA,54,22,,none,0,0,,,26,1,414000,66240,107556,,,0.272,382,51.5,21,Financial services-regional banks,1
+587170,FALSE,Utility,Wisconsin Energy,Mr. Richard A Abdoo,Port Huron,MI,50,U of Dayton,BSE,65,21,U of Detroit,MA,0,1,69,25,19,3,450000,122000,15170,,1899320,0.011,1644,188.5,14,Electric utilities-north central,19
+586889,FALSE,Utility,Allegheny Power Syst,Mr. KlausBergman,Germany,,63,Columbia,AB,53,22,Columbia,LLB,0,1,55,24,22,9,460000,80000,46889,,2556480,0.008,2332,215.8,13,Electric utilities-northeast,19
+583737,FALSE,Retailing,Revco DS,Mr. D DwayneHoven,Jackson,AL,52,Auburn U,BS,64,22,,none,0,0,,,7,1,394339,189398,,,,0.052,2420,30.5,42,Retailing-drugdiscount,6
+583492,FALSE,Retailing,US Shoe,Mr. Bannus B Hudson,Fort Scott,KS,48,U of Kansas,BS,68,22,,none,0,0,,,9,4,580000,,3492,,2464730,0.107,2626,-15.8,2,Retailing-apparel,6
+582856,FALSE,Energy,Fina,Mr. Ron W Haddock,St Elmo,IL,53,Purdue U,BS,63,22,,none,0,0,,,8,5,470188,80000,32668,,3386380,0.045,3416,70.4,3,Energy-other energy,12
+580470,FALSE,Utility,Western Resources,Mr. John E Hayes Jr,Kansas City,MO,56,Rockhurst C,BS,59,21,,none,0,0,,,5,5,416666,85000,78804,,1871840,0.024,1909,177.4,13,Electric utilities-north central,19
+579784,FALSE,Utility,Oklahoma GasElectr,Mr. James G Harlow Jr,Oklahoma City,OK,59,U of Oklahoma,BS,57,22,,none,0,0,,,33,18,500000,,79784,,2744340,0.107,1447,114.3,8,Electric utilities-south central,19
+579034,FALSE,Capital goods,Parker Hannifin,Mr. Duane E Collins,Holcombe,WI,58,U of Wisc Madis,BSM,61,25,,none,0,0,,,33,1,430000,134349,14685,,,0.066,2492,64.5,8,Capital goods-other industrial equipment,14
+575953,FALSE,Metals,Inland Steel Industr,Mr. Robert J Darnall,Bloomington,IL,56,DePauw U,BA,60,22,U of Chicago,MBA,1,1,73,35,32,2,548522,,27431,,,0.104,3888,-37.6,-5,Metals-steel,5
+575472,FALSE,Food,Penn Traffic,Mr. Claude J Incaudo,Detroit,MI,60,,,,,,none,0,0,,,17,4,360500,214972,,,2218640,0.7,3172,8.2,18,Food distributors-supermarketsconvenience,2
+575320,FALSE,Utility,Hawaiian Electric In,Mr. Robert F Clarke,Oakland,CA,52,U of Cal Berkel,BA,65,23,U of Cal Berkel,MBA,1,1,66,24,7,3,403800,160578,10942,,1989900,0.04,1142,48.7,8,Electric utilities-western,19
+575211,FALSE,Financial,CSF Holdings,Mr. Charles B Stuzin,Miami,FL,52,U of Florida,BS,64,22,U of Miami,JD,0,1,67,25,20,12,375000,155000,45211,,3953330,28.936,342,58.2,34,Financial services-thrift institutions,1
+574745,FALSE,Financial,Cullen/Frost Bankers,Mr. Thomas C Frost,San Antonio,TX,66,WashingtonLee,BS,50,22,,none,0,0,,,44,23,400000,,174745,,3302850,2.982,266,38.8,21,Financial services-regional banks,1
+573803,FALSE,Entertainment,Washington Post,Mr. Donald E Graham,Baltimore,MD,49,Harvard,BA,66,21,,none,0,0,,,23,3,399996,,173807,,2297680,13.071,1498,153.8,4,Entertainmentinformation-publishing,17
+572741,FALSE,ComputersComm,Molex,Mr. Frederick A Krehbiel,Hinsdale,IL,52,Lake Forest C,BA,63,21,,none,0,0,,,29,6,350444,50000,94537,77760,2686170,11.875,900,82.6,22,Computerscommunications-peripherals,16
+570542,FALSE,Insurance,First Colony,Mr. Bruce C Gottwald Jr,Richmond,VA,36,VMI,BA,80,22,Col of William,MBA,1,1,84,26,2,2,346000,215600,8942,,,0.452,1560,203.9,-23,Insurance-lifehealth,4
+566357,FALSE,Utility,Ohio Edison,Mr. Willard R Holland,Springfield,TN,58,Rose-Hulman Tec,BS,65,29,Rose-Hulman Tec,MS,0,1,66,30,3,1,381416,158794,26147,,,0.002,2370,24.5,7,Electric utilities-north central,19
+555746,FALSE,Consumer,Armstrong World Indu,Mr. George A Lorch,Glenridge,NJ,53,Virginia Polyte,BS,63,22,,none,0,0,,,31,1,373700,133648,13573,34825,,0.035,2525,63.5,13,Consumer durables-home furnishings,18
+551823,FALSE,Utility,Long Island Lighting,Dr. William J Catacosinos,New York,NY,64,NYU,BS,51,21,NYU,PhD,0,1,62,32,15,10,534370,,17453,,2630490,0.008,2881,296.6,15,Electric utilities-northeast,19
+551589,FALSE,Financial,Sovereign Bancorp,Mr. Jay S Sidhu,India,,42,,,,,Wilkes C,MBA,1,1,73,21,8,5,195670,351422,4497,,1611150,1.295,271,30.6,41,Financial services-thrift institutions,1
+550983,FALSE,ComputersComm,Dell Computer,Mr. Michael S Dell,Houston,TX,29,,,,,,none,0,0,,,10,10,337019,202364,11600,,2424350,32.568,2873,-35.8,40,Computerscommunications-major systems,16
+548341,FALSE,Financial,Synovus Financial,Mr. James H Blanchard,Augusta,GA,52,U of Georgia,BBA,63,21,U of Georgia,LLB,0,1,65,23,24,24,288750,144375,115216,,3483420,0.783,615,74.1,16,Financial services-regional banks,1
+545103,FALSE,ComputersComm,Gateway 2000,Mr. TheodoreWaitt,Sioux City,IA,31,,,,,,none,0,0,,,9,9,537601,,7502,,1711200,46.096,1732,100.1,16,Computerscommunications-major systems,16
+540899,FALSE,Financial,City National,Mr. BramGoldsmith,Chicago,IL,71,,,,,,none,0,0,,,19,19,540000,,899,,10354400,14.923,214,-6.9,-14,Financial services-regional banks,1
+536930,FALSE,Financial,United Carolina Banc,Mr. E RhoneSasser,Columbus,NC,57,NC State U,BS,59,22,,none,0,0,,,27,11,360000,149546,27384,,2236690,0.485,242,31.7,16,Financial services-regional banks,1
+536794,FALSE,Chemicals,IMC Fertilizer Group,Mr. Wendell F Bueche,Flushing,MI,63,U of Notre Dame,BSM,52,21,,none,0,0,,,1,1,500040,,36754,,,0.082,1074,-167.6,-1,Chemicals-specialized,15
+535817,FALSE,Financial,Michigan National,Mr. Robert J Mylod,Brooklyn,NY,54,St John's U NY,BA,61,21,,none,0,0,,,9,9,529259,,6558,,10973800,0.651,935,27.8,13,Financial services-regional banks,1
+535170,FALSE,Food,Southland,Mr. Clark J Matthews II,Arkansas City,KS,57,SMU,BA,59,22,SMU,JD,0,1,61,24,29,3,390000,131040,14130,,1764730,0.037,5781,-11.3,,Food distributors-supermarketsconvenience,2
+530000,FALSE,Capital goods,Premier Industrial,Mr. Morton L Mandel,Cleveland,OH,72,,,,,,none,0,0,,,54,24,520000,,10000,,2408000,19.384,713,91.3,15,Capital goods-electrical equipment,14
+526881,FALSE,Travel,Continental Airlines,Mr. Robert R Ferguson III,Orange,NJ,45,Lehigh U,BS,72,23,,none,0,0,,,9,3,526881,,,,,0.00001,5775,,,Travel-airlines,8
+525688,FALSE,Utility,Public Service Co of,Mr. Delwin D Hock,Colorado Spring,CO,59,U of Colorado,BS,56,21,,none,0,0,,,32,6,425012,79300,21376,,2097560,0.033,1999,157.4,16,Electric utilities-western,19
+525000,FALSE,Metals,Newmont Mining,Mr. Ronald C Cambre,New Orleans,LA,55,Louisiana State,BS,60,21,,none,0,0,,,1,1,450000,75000,,,,0.006,634,94.7,9,Metals-nonferrous metals,5
+523560,FALSE,Financial,SFFed Corp,Mr. Roger L Gordon,Neosho,MO,52,,,,,,none,0,0,,,32,4,352194,148500,22866,,1822100,0.294,234,9.9,5,Financial services-thrift institutions,1
+523040,FALSE,Financial,First Citizens BancS,Mr. Lewis R Holding,Smithfield,NC,66,U of North Caro,BS,50,22,Harvard,MBA,1,1,52,24,41,37,471274,41593,10173,,2175340,9.575,451,55.6,,Financial services-regional banks,1
+518686,FALSE,Food,Wm Wrigley Jr,Mr. WilliamWrigley,Chicago,IL,61,Yale,BA,54,21,,none,0,0,,,38,33,463750,,54936,,5804590,17.95,1429,174.9,35,Fooddrinktobacco-food processors,2
+518000,FALSE,Insurance,Mercury General,Mr. GeorgeJoseph,Beckley,WV,72,Harvard,BS,49,27,,none,0,0,,,33,33,497930,20070,,,2556060,34.688,534,96.2,35,Insurance-propertycasualty,4
+516665,FALSE,Financial,American Savings of,Mr. Stephen D Taylor,Provo,UT,48,Brigham Young U,BA,69,23,Harvard,MBA,1,1,71,25,3,3,315000,157500,44165,,,0.351,191,30.5,,Financial services-thrift institutions,1
+514901,FALSE,Utility,Kansas City PowerL,Mr. Drue A Jennings,Topeka,KS,47,U of Kansas,BS,68,21,U of Kansas,JD,0,1,72,25,20,6,375000,113750,26151,,2073780,0.026,857,105.8,15,Electric utilities-north central,19
+506190,FALSE,Financial,First Commercial,Mr. BarnettGrace,Batesville,AK,49,SMU,BBA,66,21,SMU,JD,0,1,68,23,22,7,314350,162000,5406,24434,2186050,1.525,237,37.5,22,Financial services-regional banks,1
+500016,FALSE,Insurance,Southwestern Life,Mr. Robert L Beisenherz,Houston,TX,48,U of Texas Aust,BBA,68,22,,none,0,0,,,4,2,500016,,,,,0.00001,968,287,6,Insurance-lifehealth,4
+500000,FALSE,Financial,GP Financial,Mr. Thomas S Johnson,Racine,WI,53,Trinity College,AB,62,21,Harvard,MBA,1,1,64,23,1,1,500000,,,,,0.145,561,95.9,-35,Financial services-thrift institutions,1
+498500,FALSE,Financial,Trustmark,Mr. Frank R Day,Aberdeen,MS,56,U of Mississipp,BA,53,15,,none,0,0,,,36,13,325000,162500,11000,,1886400,4.353,336,48.6,25,Financial services-regional banks,1
+494965,FALSE,Food,Nash Finch,Mr. Harold B Finch Jr,Grand Forks,ND,66,U of Minnesota,BCH,52,24,,none,0,0,,,28,12,294191,150000,50774,,2214890,1.472,2724,15.9,-2,Food distributors-food wholesalers,2
+490001,FALSE,Financial,Rochester Community,Mr. Leonard S Simon,Passaic,NJ,57,MIT,BS,58,21,Columbia,PhD,0,1,63,26,25,10,360961,,129040,,2215280,0.267,240,-59.4,1,Financial services-thrift institutions,1
+480303,FALSE,Insurance,Allmerica Property,Mr. John F O'Brien,Brockton,MA,51,Harvard,AB,65,22,Harvard,MBA,1,1,68,25,2,2,177625,113173,189505,,,0.005,1953,252.4,16,Insurance-propertycasualty,4
+477373,FALSE,Retailing,Longs Drug Stores,Mr. Robert M Long,Oakland,CA,56,Claremont McKen,BA,60,22,,none,0,0,,,33,17,103000,282610,91763,,2432240,10.01,2499,49.8,2,Retailing-drugdiscount,6
+476785,FALSE,Utility,Illinois Power,Mr. Larry D Haab,Fairbury,IL,56,Millikin U,BS,59,21,,none,0,0,,,29,3,437500,22531,16754,,1604830,0.012,1581,-55.8,10,Electric utilities-north central,19
+474091,FALSE,Business,First Data,Mr. Henry C Duques,Washington,DC,50,George Washingt,BS,65,21,George Washingt,MBA,1,1,69,25,7,5,413061,,61030,,3435230,0.00001,1490,173,35,Business-services,13
+468992,FALSE,Financial,Associated Banc-Corp,Mr. Harry B Conlon,Green Bay,WI,59,U of Notre Dame,BS,57,22,U of Wisc Madis,LLB,0,1,64,29,29,19,307000,115125,46867,,2969750,0.825,249,36.2,21,Financial services-regional banks,1
+465414,FALSE,Financial,Old National Bancorp,Mr. Dan W Mitchell,Phoenix,AZ,66,Indiana U,BS,50,22,,none,0,0,,,44,14,373500,,91914,,2188210,0.422,284,42.5,16,Financial services-regional banks,1
+465000,FALSE,Financial,Metropolitan Financi,Mr. Norman M Jones,Fargo,ND,63,,,,,,none,0,0,,,42,2,400000,65000,,,,1.549,563,65.2,30,Financial services-thrift institutions,1
+462445,FALSE,Metals,Worthington Industri,Mr. John P McConnell,Youngstown,OH,40,,,,,,none,0,0,,,17,1,191250,268600,2595,,,1.026,1236,81.8,18,Metals-steel,5
+461213,FALSE,Financial,Centura Banks,Mr. Robert R Mauldin,China Grove,NC,59,U of North Caro,BS,59,24,,none,0,0,,,25,1,270000,120000,71213,,,0.308,304,41.1,15,Financial services-regional banks,1
+457096,FALSE,Utility,Pennsylvania Power,Mr. William F Hecht,New York,NY,51,Lehigh U,BS,64,21,Lehigh U,MS,0,1,70,27,30,1,375000,45000,37096,,,0.008,2727,348.1,13,Electric utilities-northeast,19
+456102,FALSE,Consumer,Navistar Internation,Mr. James C Cotting,Winchester,MA,60,Ohio State U,BA,55,21,,none,0,0,,,15,7,450000,,6102,,2405690,0.074,4797,-258.9,-18,Consumer durables-automobilestrucks,18
+454497,FALSE,Construction,Turner Corp,Mr. Alfred T McNeill,Elizabeth,NJ,57,Lehigh U,BS,58,21,,none,0,0,,,36,5,400000,,54497,,2158510,0.509,2768,-6.2,-11,Construction-builders,0
+447308,FALSE,Financial,Union Bank,Mr. KanetakaYoshida,Japan,,56,Tokyo U,LLB,62,24,,none,0,0,,,32,1,447308,,,,,0.009,1266,83.1,8,Financial services-regional banks,1
+444847,FALSE,Utility,Cipsco,Mr. Clifford L Greenwalt,Solano,NM,61,U of Missouri,BSC,60,27,U of Illinois,MBA,1,1,77,44,31,5,339093,99902,5852,,1338020,0.029,845,85.5,14,Electric utilities-north central,19
+434984,FALSE,Utility,Delmarva PowerLigh,Mr. Howard E Cosgrove,Philadelphia,PA,51,U of Virginia,BS,66,23,U of Delaware,MBA,1,1,70,27,28,2,320000,86400,28584,,,0.017,971,111.1,11,Electric utilities-northeast,19
+428299,FALSE,Forest,Consolidated Papers,Mr. Patrick F Brennan,New York,NY,62,Fordham U,BA,57,25,,none,0,0,,,31,1,422173,,6126,,,0.036,947,64.2,6,Forest products-paperlumber,9
+423278,FALSE,Retailing,Hechinger,Mr. John W Hechinger Jr,Washington,DC,44,Boston C,BS,72,22,,none,0,0,,,22,4,422500,,778,,1780070,1.173,2095,24.8,-3,Retailing-home improvement,6
+421197,FALSE,Utility,Southwestern Public,Mr. Bill D Helton,Wheeler,TX,55,Texas Tech U,BSE,64,25,,none,0,0,,,30,4,263333,75674,82190,,1401880,0.027,826,104.5,10,Electric utilities-south central,19
+420079,FALSE,Transport,Yellow Corp,Mr. George E Powell III,Kansas City,MO,45,Indiana U,BS,70,21,,none,0,0,,,23,4,360000,,60079,,2204750,1.142,2857,18.8,1,Transport-shipping,7
+418240,FALSE,ComputersComm,Microsoft,Mr. William H Gates,Seattle,WA,38,,,,,,none,0,0,,,19,13,266660,151580,,,1447190,27.616,4109,1036,50,Computerscommunications-software,16
+418102,FALSE,Food,Chiquita Brands Inte,Mr. Carl H Lindner,Dayton,OH,75,,,,,,none,0,0,,,10,10,410000,,8102,,2037070,19.249,2533,-51.1,5,Fooddrinktobacco-food processors,2
+416667,FALSE,Metals,National Steel,Mr. Ronald H Doerr,St. Louis,MO,53,Washington U,BS,62,21,,none,0,0,,,28,1,351000,25448,40219,,,0.00001,2419,-242.4,-15,Metals-steel,5
+416382,FALSE,Financial,Riggs National,Mr. Joe L Allbritton,D'Lo,MS,69,Baylor U,LLB,49,24,,none,0,0,,,13,13,380000,,36382,,4746770,28.961,369,-94.2,-15,Financial services-regional banks,1
+415552,FALSE,Utility,New York State Elect,Mr. James A Carrigg,Johnson City,NY,61,Broome Comm,AAS,58,25,,none,0,0,,,36,6,413123,,2429,,1941690,0.014,1800,166,11,Electric utilities-northeast,19
+409391,FALSE,Food,Bruno's,Mr. Ronald G Bruno,Birmingham,AL,42,U of Alabama,BS,74,22,,none,0,0,,,21,4,305769,45000,58622,,1649920,7.479,2893,36.2,-5,Food distributors-supermarketsconvenience,2
+401917,FALSE,Financial,FarmHome Financial,Mr. JohnMorton III,Orange,NJ,50,US Naval Acad,BS,67,23,Harvard,MBA,1,1,73,29,2,2,300000,25000,76917,,,0.015,252,15.1,25,Financial services-thrift institutions,1
+401161,FALSE,Entertainment,Liberty Media,Mr. Peter R Barton,Washington,DC,43,Columbia,BS,71,20,Harvard,MBA,1,1,82,31,4,3,303864,,87286,10011,967188,0.094,841,-0.3,114,Entertainmentinformation-broadcasting,17
+401124,FALSE,Consumer,Bandag,Mr. Martin G Carver,Davenport,IA,46,U of Iowa,BA,70,22,Indiana U,MBA,1,1,72,24,15,12,299036,,102088,,1750570,3.784,591,78.1,9,Consumer durables-automotive parts,18
+400300,FALSE,Insurance,Unitrin,Mr. Richard C Vie,St Louis,MO,56,,,,,,none,0,0,,,11,2,315000,85000,300,,1084050,0.00001,1363,95,9,Insurance-diversified,4
+397721,FALSE,Utility,Atlantic Energy,Mr. Jerrold L Jacobs,Brooklyn,NY,55,NJ Tech,BSE,61,22,,none,0,0,,,33,1,284670,70400,42651,,,0.022,866,95.3,12,Electric utilities-northeast,19
+397240,FALSE,Financial,Worthen Banking,Mr. Curtis F Bradbury Jr,Little Rock,AR,44,U of Arkansas,BSB,70,20,U of Arkansas,MA,0,1,71,21,9,7,295934,95000,6306,,3151990,0.429,279,31.4,20,Financial services-regional banks,1
+397219,FALSE,Financial,Keystone Financial,Mr. Carl L Campbell,Sunbury,PA,51,Susquehanna U,BS,65,22,,none,0,0,,,22,12,330000,55940,11279,,1678180,0.12,256,39.4,16,Financial services-regional banks,1
+391101,FALSE,Utility,Centerior Energy,Mr. Robert J Farling,Warren,OH,58,Case Western,BSE,58,22,Case Western,MBA,1,1,65,29,35,2,361306,,13250,16545,1075860,0.012,2474,-942.6,1,Electric utilities-north central,19
+385000,FALSE,Financial,Citadel Holding,Mr. Richard M Greenwood,Fargo,ND,46,U of Idaho,BS,72,24,American Grad S,MBA,1,1,74,26,2,2,385000,,,,,0.00001,304,-67.2,-32,Financial services-thrift institutions,1
+378676,FALSE,Insurance,Ohio Casualty,Mr. Lauren N Patch,Lexington,KY,43,U of Kentucky,BS,73,22,,none,0,0,,,22,1,324808,,9043,44825,,0.544,1670,87,15,Insurance-propertycasualty,4
+374421,FALSE,Insurance,Transatlantic Holdin,Mr. Joseph V Taranto,Brooklyn,NY,45,CUNY Brooklyn,BS,71,22,,none,0,0,,,8,8,261923,109500,2998,,1251160,0.004,726,86.7,15,Insurance-propertycasualty,4
+361000,FALSE,Financial,Sumitomo Bank of Cal,Mr. TadaichiIkagawa,Japan,,55,U of Kyoto,BA,61,22,,none,0,0,,,33,3,360000,,1000,,962009,0.056,377,2.3,6,Financial services-regional banks,1
+360304,FALSE,ComputersComm,Cisco Systems,Mr. John P Morgridge,Elmhurst,IL,60,U of Wisc Madis,BBA,55,21,Stanford U,MBA,1,1,57,23,6,6,187212,172092,1000,,1168990,2.367,928,241,117,Computerscommunications-peripherals,16
+360274,FALSE,Financial,Great Lakes Bancorp,Mr. Robert J Delonis,Detroit,MI,42,U of Michigan,BBA,73,21,,none,0,0,,,12,2,233462,46366,31568,48878,796732,0.267,218,12.9,7,Financial services-thrift institutions,1
+350000,FALSE,Financial,Northeast Federal,Mr. Kirk W Walters,American Falls,ID,38,USC,BBA,78,22,,none,0,0,,,5,1,350000,,,,,0.081,238,-14.1,6,Financial services-thrift institutions,1
+343400,FALSE,Health,IVAX,Dr. PhillipFrost,Philadelphia,PA,57,U of Pennsylvan,BA,57,20,Yeshiva U Einst,MD,0,1,61,24,7,7,340000,,3400,,1851320,17.469,645,84.7,33,Health-drugs,3
+341057,FALSE,Business,FlightSafety Interna,Mr. Albert L Ueltschi,Frankfort,KY,77,,,,,,none,0,0,,,43,43,220000,118800,2257,,1662740,35.904,297,66.4,4,Business-services,13
+325360,FALSE,Food,Fleming Cos,Mr. Robert E Stauth,Dodge City,KS,49,Kansas State U,BS,66,21,,none,0,0,,,17,1,325186,,174,,,0.097,13092,37.5,-2,Food distributors-food wholesalers,2
+324434,FALSE,Utility,Idaho Power,Mr. Joseph W Marshall,Twin Falls,ID,55,US Naval Acad,BS,61,22,,none,0,0,,,25,5,315000,,9434,,1314130,0.04,540,84.5,11,Electric utilities-western,19
+316001,FALSE,Financial,CCB Financial,Mr. Ernest C Roessler,Pittsburgh,PA,53,Dartmouth,BA,62,21,Dartmouth,MBA,1,1,63,22,6,1,241323,62986,11692,,,0.116,230,29.2,13,Financial services-regional banks,1
+314382,FALSE,Utility,Union Electric,Mr. Charles W Mueller,Belleville,IL,55,St Louis U,BSE,61,22,St Louis U,MBA,1,1,66,27,33,1,237000,55000,22382,,,0.004,2066,297.2,15,Electric utilities-north central,19
+311792,FALSE,Energy,Amerada Hess,Mr. LeonHess,Asbury Park,NJ,80,,,,,,none,0,0,,,48,29,300000,,11792,,1554810,10.636,5852,-297.7,5,Energy-other energy,12
+302344,FALSE,Insurance,Uslico,Mr. Daniel J Callahan III,Washington,DC,62,Williams C,BA,54,22,,none,0,0,,,2,2,300000,,2344,,,0.019,418,23.6,-1,Insurance-lifehealth,4
+293157,FALSE,Financial,BanPonce,Mr. Richard L Carrion,San Juan,PR,41,U of Penn-Whart,BS,75,22,MIT,MS,0,1,76,23,18,1,230000,36814,26343,,,0.696,897,103.2,15,Financial services-regional banks,1
+290903,FALSE,ComputersComm,Wellfleet Communicat,Mr. Paul J Severino,Paterson,NJ,47,Rensselaer,BSE,69,22,,none,0,0,,,8,8,134808,156095,,,698584,3.691,267,42.2,99,Computerscommunications-peripherals,16
+281063,FALSE,Health,ALZA,Dr. ErnestMario,Clifton,NJ,55,Rutgers,BS,61,22,U of Rhode Isla,PhD,0,1,65,26,1,1,250000,25000,6063,,,0.006,214,42.9,13,Health-biotechnology,3
+280396,FALSE,Utility,Montana Power,Mr. Daniel T Berube,Boston,MA,60,U of Washington,BS,64,30,Montana C,MS,0,1,71,37,30,2,274100,,6296,,841619,0.023,1076,107.2,14,Electric utilities-western,19
+250000,FALSE,Entertainment,Marvel Entertainment,Mr. William C Bevins Jr,,,47,,,,,,none,0,0,,,3,3,250000,,,,625000,0.164,415,56,120,Entertainmentinformation-publishing,17
+221641,FALSE,Financial,Downey SavingsLoan,Mr. Thomas E Prince,Pasadena,CA,47,USC,BS,68,21,USC,MBA,1,1,74,27,2,1,165000,50292,6349,,,0.00001,238,28.6,11,Financial services-thrift institutions,1
+102308,FALSE,ComputersComm,McCaw Cellular Commu,Mr. Craig O McCaw,Centralia,WA,44,Stanford U,BA,73,23,,none,0,0,,,28,21,100000,,2308,,52833100,6.705,2195,-227.3,5,Computerscommunications-telecommun,16
+100000,FALSE,Insurance,Berkshire Hathaway,Mr. Warren E Buffett,Omaha,NE,63,U of Nebraska L,BS,50,19,Columbia,MBA,1,1,51,20,29,24,100000,,,,500000,43.463,3653,759.1,26,Insurance-propertycasualty,4
+52000,FALSE,ComputersComm,Cabletron Systems,Mr. S RobertLevine,Worcester,MA,36,U of Miami,BS,80,22,,none,0,0,,,11,11,52000,,,,208000,20.238,553,110.1,48,Computerscommunications-peripherals,16
+28816,FALSE,Financial,Citizens Bancorp,Mr. Alfred H Smith Jr,Washington,DC,60,,,,,,none,0,0,,,31,7,18600,,10216,,113181,8.881,242,26.8,11,Financial services-regional banks,1
+,FALSE,ComputersComm,Novell,Mr. Robert J Frankenberg,Chippewa Falls,WI,47,San Jose State,BS,74,27,,none,0,0,,,1,1,,,,,,0.00001,1174,-33.2,37,Computerscommunications-software,16
+,FALSE,Consumer,Scott Paper,Mr. Albert J Dunlap,Hoboken,NJ,56,US Military Aca,BS,60,22,,none,0,0,,,1,1,,,,,,0.00001,4749,-289.1,3,Consumer nondurables-personal products,18
+,FALSE,Energy,Western Atlas,Mr. Alton J Brann,Portland,ME,52,U of Massachuse,BA,69,27,,none,0,0,,,21,1,,,,,,0.042,1959,78.2,,Energy-oilfield services,12
+,FALSE,Entertainment,Capital Cities/ABC,Mr. Thomas S Murphy,Brooklyn,NY,68,Cornell,BS,45,19,Harvard,MBA,1,1,49,23,40,1,,,,,,0.665,5674,467.4,13,Entertainmentinformation-broadcasting,17
+,FALSE,Health,FHP International,Mr. Mark B Hacken,New York,NY,58,U of Florida,BSP,56,20,,none,0,0,,,1,1,,,,,,0.00001,2265,53.1,19,Health-health care services,3
+,FALSE,Health,National Health Labo,Mr. James R Maher,Worcester,MA,44,Boston C,BA,71,21,Columbia,MBA,1,1,76,26,1,1,,,,,,0.00001,761,112.7,16,Health-health care services,3
+,FALSE,Insurance,CCP Insurance,Mr. Stephen C Hilbert,Terre Haute,IN,48,,,,,,none,0,0,,,15,2,,,,,,0.054,633,107.6,26,Insurance-lifehealth,4
+,FALSE,Retailing,Nordstrom,Mr. Bruce A Nordstrom,Seattle,WA,61,U of Washington,BA,56,23,,none,0,0,,,39,23,,,,,,6.675,3590,140.4,5,Retailing-apparel,6
+,FALSE,Retailing,Woolworth,Mr. John W Adams,Canada,,69,,,,,,none,0,0,,,1,1,,,,,,0.008,9626,-495,-6,Retailing-drugdiscount,6
