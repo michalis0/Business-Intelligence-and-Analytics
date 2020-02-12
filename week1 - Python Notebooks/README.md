@@ -7,6 +7,8 @@
 - [Autocomplete in Google Colab for code] [optional]
 - Introduction to markdown
 - Headings, bullets, hyperlinks, bold, italic, underline, strikethrough, etc
+- Latex equations in markdown
 - Images, videos, interactive features
-- How to load something from Github
+- How to load in Colab an ipynb from Github
+
 - 2 exercises
