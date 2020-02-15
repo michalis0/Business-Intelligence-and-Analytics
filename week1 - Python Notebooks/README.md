@@ -9,7 +9,7 @@
 - Shortcuts for entering code and markdown mode in Colab.
     - Convert to code cell:	`Ctrl/Cmd M Y`
     - Convert to code cell	`Ctrl/Cmd M M`
-- [Autocomplete in Google Colab for code] [optional]
+- [Autocomplete](https://colab.research.google.com/notebooks/basic_features_overview.ipynb#scrollTo=d4L9TOP9QSHn) in Google Colab for code] [optional]
 - Introduction to [markdown](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
     - Headings, bullets, hyperlinks, bold, italic, underline, strikethrough, etc
     - Tables
