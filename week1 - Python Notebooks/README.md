@@ -5,11 +5,13 @@
 - What is [Google Colab](https://colab.research.google.com/)
 - Difference between Code and Markdown
 - Shortcuts for entering code and markdown mode in Colab.
+    - Convert to code cell:	`Ctrl/Cmd M Y`
+    - Convert to code cell	`Ctrl/Cmd M M`
 - [Autocomplete in Google Colab for code] [optional]
 - Introduction to [markdown](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
-  -- Headings, bullets, hyperlinks, bold, italic, underline, strikethrough, etc
-- Tables
-- Latex equations in markdown
+    - Headings, bullets, hyperlinks, bold, italic, underline, strikethrough, etc
+    - Tables
+    - Latex equations in markdown
 - Images, videos, interactive features
 - How to load in Colab an ipynb from Github
 
