@@ -7,7 +7,7 @@
 - Shortcuts for entering code and markdown mode in Colab.
 - [Autocomplete in Google Colab for code] [optional]
 - Introduction to [markdown](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
--- Headings, bullets, hyperlinks, bold, italic, underline, strikethrough, etc
+  -- Headings, bullets, hyperlinks, bold, italic, underline, strikethrough, etc
 - Tables
 - Latex equations in markdown
 - Images, videos, interactive features
