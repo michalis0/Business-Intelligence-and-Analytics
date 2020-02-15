@@ -14,7 +14,7 @@
     - Headings, bullets, hyperlinks, bold, italic, underline, strikethrough, etc
     - Tables
     - Latex equations in markdown
-- Images, videos, interactive features
+- Images, videos
 - How to [load](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) in Colab an ipynb from Github
 
 - 2 exercises
