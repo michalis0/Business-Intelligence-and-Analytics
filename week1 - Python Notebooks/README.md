@@ -4,7 +4,8 @@
 - What are Python notebooks? 
     - They are a complete narrative of code and comments that can render many HTML components, such as images, hyperlinks, videos, etc. Therefore, the goal of a notebook is to demonstrate some code or explain some idea in the most engaging way possible.
 - What is [Google Colab](https://colab.research.google.com/notebooks/basic_features_overview.ipynb)
-    - Difference between Code and Markdown
+    - It is a Python notebook that runs on the cloud so you don't need to install anything on your PC. It runs on the browser.
+    - Difference between Code and Text/Markdown: A Python notebook contains two types of cells. Today we will deal with the text/markdown part.
 - Shortcuts for entering code and markdown mode in Colab.
     - Convert to code cell:	`Ctrl/Cmd M Y`
     - Convert to code cell	`Ctrl/Cmd M M`
