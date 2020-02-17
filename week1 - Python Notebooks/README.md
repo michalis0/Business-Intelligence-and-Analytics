@@ -14,9 +14,15 @@
     - Tables
     - Latex equations in markdown
 - Images, videos
+    - Go [here](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Notebooks_Introduction.ipynb) and review this notebook to see various features and also how to embed images and videos.
 - How to [load](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) in Colab an ipynb from Github
 - Autocomplete in Google Colab for code] [optional]
     - When you write Python code in Colab it helps you "autocomplete" the review. Review this [here](https://colab.research.google.com/notebooks/basic_features_overview.ipynb#scrollTo=d4L9TOP9QSHn)
 
 
-## 2 exercises
+## Exercises
+
+After you have become familiar with Colab you can do the following exercises:
+
+1. Recreate this in Colab. This may require some knowledge of Latex for recreating the equations, so if you are not very familiar with this just ask your TAs.
+2. Recreate this in Colab
