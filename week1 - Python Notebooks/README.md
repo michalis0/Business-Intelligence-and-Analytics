@@ -25,8 +25,11 @@
 
 After you have become familiar with Colab you can do the following exercises:
 
+<br>
 1. **Exercise 1:** Recreate [this](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercise1.png) in Colab. This may require some knowledge of Latex for recreating the equations, so if you are not very familiar with this just ask your TAs.
 
 ![Exercise 1](/week1%20-%20Python%20Notebooks/Exercise1.png)
 
 2. **Exercise 2:** Recreate this in Colab.
+
+<br>
