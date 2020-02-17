@@ -13,6 +13,7 @@
     - Headings, bullets, hyperlinks, bold, italic, underline, strikethrough, etc
     - Tables
     - Latex equations in markdown
+    - Review [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) as well.
 - Images, videos
     - Go [here](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Notebooks_Introduction.ipynb) and review this notebook to see various features and also how to embed images and videos.
 - How to [load](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) in Colab an ipynb from Github
@@ -24,5 +25,8 @@
 
 After you have become familiar with Colab you can do the following exercises:
 
-1. Recreate this in Colab. This may require some knowledge of Latex for recreating the equations, so if you are not very familiar with this just ask your TAs.
-2. Recreate this in Colab
+1. **Exercise 1:** Recreate [this](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercise1.png) in Colab. This may require some knowledge of Latex for recreating the equations, so if you are not very familiar with this just ask your TAs.
+
+![Exercise 1](/week1%20-%20Python%20Notebooks/Exercise1.png)
+
+2. **Exercise 2:** Recreate this in Colab.
