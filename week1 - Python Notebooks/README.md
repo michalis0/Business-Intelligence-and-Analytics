@@ -27,6 +27,6 @@ After you have become familiar with Colab you can do the following exercises:
 
 1. Recreate this in Colab. This may require some knowledge of Latex for recreating the equations, so if you are not very familiar with this just ask your TAs.
 
-![](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercise1.png =600x)
+![](Exercise1.png =600x)
 
 2. Recreate this in Colab
