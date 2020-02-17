@@ -1,5 +1,6 @@
 # Colab and Python Notebooks
 
+## What we will cover in the lab
 
 - What are Python notebooks? 
     - They are a complete narrative of code and comments that can render many HTML components, such as images, hyperlinks, videos, etc. Therefore, the goal of a notebook is to demonstrate some code or explain some idea in the most engaging way possible.
@@ -13,7 +14,7 @@
     - Headings, bullets, hyperlinks, bold, italic, underline, strikethrough, etc
     - Tables
     - Latex equations in markdown
-    - Review [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) as well.
+    - Review [this](https://www.markdownguide.org/basic-syntax/) for markdown features or the shorter [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - Images, videos
     - Go [here](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Notebooks_Introduction.ipynb) and review this notebook to see various features and also how to embed images and videos.
 - How to [load](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) in Colab an ipynb from Github
