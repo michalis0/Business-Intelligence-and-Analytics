@@ -1,9 +1,12 @@
 # Colab and Python Notebooks
 
 
-- Autocomplete code in Google Colab
-- revision of Python: [https://www.learnpython.org](https://www.learnpython.org)
+- Autocomplete code in [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#)
 
+## Hour 1
+- revision of Python: [https://www.kaggle.com/learn/python](https://www.kaggle.com/learn/python)
+
+## Hour 2
 - Pandas
 - load a csv to a dataframe
 - convert columns to proper datatype
