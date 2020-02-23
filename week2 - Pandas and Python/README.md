@@ -1,7 +1,7 @@
 # Colab and Python Notebooks
 
 
-- Autocomplete code in [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#)
+- How to autocomplete Python code in [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#)
 
 ## Hour 1
 - revision of Python: [https://www.kaggle.com/learn/python](https://www.kaggle.com/learn/python)
