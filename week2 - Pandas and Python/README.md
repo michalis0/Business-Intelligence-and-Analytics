@@ -5,6 +5,7 @@
 
 ## Hour 1
 - revision of Python: [https://www.kaggle.com/learn/python](https://www.kaggle.com/learn/python)
+- continue the rest at home
 
 ## Hour 2
 - Pandas
@@ -12,3 +13,5 @@
 - convert columns to proper datatype
 - remove rows with nulls
 - do some basic selection/filtering operations with pandas (columns and rows)
+    - filtering by rows
+    - filtering by columns
