@@ -1,5 +1,8 @@
 # Colab and Python Notebooks
 
+- Revisit where all code is saved in github.
+- Revisit how do load in Colab a file from github.
+
 
 - How to autocomplete Python code in [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#)
 
