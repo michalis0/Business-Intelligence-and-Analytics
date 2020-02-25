@@ -7,11 +7,11 @@
 - How to autocomplete Python code in [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#)
 
 ## Hour 1
-- revision of Python: [https://www.kaggle.com/learn/python](https://www.kaggle.com/learn/python)
-- Go over walk-though of 2,3 with TAs (exercises do at home)
-- Walk-through of 4 and exercise 4 (students do on their own)
-- Walk-through of 5 and exercise 5 (students do on their own)
-- continue the rest at home
+- revision of Python: [https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Python_Tutorial.ipynb](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Python_Tutorial.ipynb)
+
+Continue and do these are home:
+[https://www.kaggle.com/learn/python](https://www.kaggle.com/learn/python)
+
 
 ## Hour 2
 - Pandas
