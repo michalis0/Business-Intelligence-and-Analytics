@@ -8,6 +8,9 @@
 
 ## Hour 1
 - revision of Python: [https://www.kaggle.com/learn/python](https://www.kaggle.com/learn/python)
+- Go over walk-though of 2,3 with TAs (exercises do at home)
+- Walk-through of 4 and exercise 4 (students do on their own)
+- Walk-through of 5 and exercise 5 (students do on their own)
 - continue the rest at home
 
 ## Hour 2
