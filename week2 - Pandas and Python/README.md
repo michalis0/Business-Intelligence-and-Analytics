@@ -9,8 +9,8 @@ Your teaching assistants will show you the following:
 1. revision of Python: 
     - [https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Python_Tutorial.ipynb](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Python_Tutorial.ipynb)
 
-2. (At home) complete the tasks from here:
-[https://www.kaggle.com/learn/python](https://www.kaggle.com/learn/python)
+2. **(At home)** complete the tasks from here:
+    - [https://www.kaggle.com/learn/python](https://www.kaggle.com/learn/python)
 
 
 ## Hour 2
@@ -27,5 +27,6 @@ We will cover:
 - remove rows with nulls    
 
 **(At home)** (Really! do all of them otherwise you will not be able to follow!)
-- Complete all the walkthroughs and exercises in this folder by opening them in colab: https://github.com/michalis0/Business-Intelligence-and-Analytics/tree/master/week2%20-%20Pandas%20and%20Python/Pandas
+- Complete all the walkthroughs and exercises in this folder by opening them in colab: 
+    - https://github.com/michalis0/Business-Intelligence-and-Analytics/tree/master/week2%20-%20Pandas%20and%20Python/Pandas
 
