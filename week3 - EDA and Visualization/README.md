@@ -3,7 +3,7 @@
 Your teaching assistants will show you the following:
 - Walkthrough on data analysis.
 - Walkthrough on data visualization.
-- How plot chart.
+
 
 
 ## Hour 1 - "Walkthroughs"
