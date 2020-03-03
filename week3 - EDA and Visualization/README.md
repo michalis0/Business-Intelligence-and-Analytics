@@ -19,9 +19,9 @@ Your teaching assistants will show you the following:
 
 
 ## Hour 2 - "Exercises"
-1. Complete the different EDA tasks in this exercise: [Exercise1](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week3%20-%20EDA%20and%20Visualization/Exercises/Exercise_week_3_BIA.ipynb)
+1. Answer on your own to the questions you're going to find in the [Exercise1](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week3%20-%20EDA%20and%20Visualization/Exercises/Exercise1_week3.ipynb)
 
-2. Answer on your own to the questions you're going to find in the [Exercise2](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week3%20-%20EDA%20and%20Visualization/Exercises/Exercise_week_3_BIA.ipynb)
+2. Complete the different EDA tasks in this exercise [Exercise2](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week3%20-%20EDA%20and%20Visualization/Exercises/Exercise2_week3.ipynb)
 
 
 3. **(At home)** complete the tasks from here:
