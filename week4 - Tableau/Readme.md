@@ -5,7 +5,7 @@ Your teaching assistants will show you the following:
 - How to start the exercises.
 
 ## Hour 1 - "Walkthroughs"
-
+(activation of Tableau desktop for students)
 1. Build simple visualizations based on data. 
 2. Build an interactive dashboard.
 
