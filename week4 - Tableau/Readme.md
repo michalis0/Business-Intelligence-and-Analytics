@@ -12,7 +12,7 @@ Your teaching assistants will show you the following:
 you can find your walkthroughs [here](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week4%20-%20Tableau/Walkthrough%20Tableau%20desktop.pdf)
 ## Hour 2 - "Exercises"
 
-1. Copy the following data-set on the [COVID](https://raw.githubusercontent.com/michalis0/Business-Intelligence-and-Analytics/master/data/covid_19_data.csv) in a new text file (you can use "notepad" for exemple).
+1. Download this csv file on the [COVID](https://raw.githubusercontent.com/michalis0/Business-Intelligence-and-Analytics/master/data/covid_19_data.csv) (control+click on Mac -> Download As).
 
 2. Answer the following questions:<br>
   2.1 Plot the evolution of CoV worldwide.<br>
