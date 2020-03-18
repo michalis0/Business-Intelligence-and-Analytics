@@ -1,13 +1,13 @@
-SQL
-We will use SQL Explorer for this session
+##SQL
+We will use SQL Explorer for this session.
 
 You can access it here: https://hec.unil.ch/info1ere/sqlexplorer/
 
-HOUR 1
+**HOUR 1**
 
 We will first have a walkthrough on the different queries possible in SQL.
 
-HOUR 2
+**HOUR 2**
 
 We will exercise on two data sets:
 
