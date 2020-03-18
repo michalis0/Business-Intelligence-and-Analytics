@@ -1,4 +1,4 @@
-##SQL
+## SQL
 We will use SQL Explorer for this session.
 
 You can access it here: https://hec.unil.ch/info1ere/sqlexplorer/
