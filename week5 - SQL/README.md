@@ -12,5 +12,5 @@ We will first have a walkthrough on the different queries possible in SQL.
 
 We will exercise on two data sets:
 
-Coronavirus:https://hec.unil.ch/info1ere/sqlexplorer/Coronavirus
-Temperatures: https://hec.unil.ch/info1ere/sqlexplorer/Temperatures
+- Coronavirus:https://hec.unil.ch/info1ere/sqlexplorer/Coronavirus
+- Temperatures: https://hec.unil.ch/info1ere/sqlexplorer/Temperatures
