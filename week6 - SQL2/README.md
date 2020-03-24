@@ -1,6 +1,6 @@
 ## Explain assignment 1
 
-- How to save a Python notebook from Colab
+- How to save a Python notebook from Colab to your computer so that you upload it to Moodle.
 - What you have to submit for assignment 1
     - Notebook
     - Answer questions in Moodle quiz.
