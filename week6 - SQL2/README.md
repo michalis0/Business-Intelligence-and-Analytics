@@ -1,3 +1,10 @@
+## Explain assignment 1
+
+- How to save a Python notebook from Colab
+- What you have to submit for assignment 1
+    - Notebook
+    - Answer questions in Moodle quiz.
+
 ## SQL and Python
 We will use **Colab** for this session.
 
