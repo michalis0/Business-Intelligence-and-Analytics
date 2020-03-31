@@ -10,3 +10,4 @@ Topics that we will cover include:
 
 **Hour2:**
 Questions about Assignment 1
+- Raise your hand in chat. Wait to be called by the TA. Then write your question in the chat (have it written beforehand so that you just paste it in).
