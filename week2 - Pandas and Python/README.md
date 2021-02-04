@@ -20,6 +20,7 @@ Open the following file to learn about: https://colab.research.google.com/github
 We will cover:
 - Pandas
 - load a csv and JSON file to a Pandas dataframe
+- How to load data from an API on the web (**new**)
 - do some basic selection/filtering operations with pandas (columns and rows)
     - filtering by rows
     - filtering by columns
