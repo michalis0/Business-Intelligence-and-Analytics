@@ -25,7 +25,7 @@
 
 ## Exercises
 
-After you have become familiar with Colab you can do the following exercises in groups of 3.
+ After you have become familiar with Colab you can do the following exercises in groups of 3 (10-15mins each exercise). One team will be randomly picked to share their solution (if they feel confident it is correct!).
 
 
 
