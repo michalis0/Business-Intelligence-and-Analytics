@@ -18,13 +18,14 @@
 - Images, videos
     - Go [here](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Notebooks_Introduction.ipynb) and review this notebook to see various features and also how to embed images and videos.
 - How to [load](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) in Colab an ipynb from Github
+- How to execute some Python code in Colab. How to save your notebook in your Google Drive space.
 - Autocomplete in Google Colab for code] [optional]
     - When you write Python code in Colab it helps you "autocomplete" the code. Review this [here](https://colab.research.google.com/notebooks/basic_features_overview.ipynb#scrollTo=d4L9TOP9QSHn)
 
 
 ## Exercises
 
-After you have become familiar with Colab you can do the following exercises:
+After you have become familiar with Colab you can do the following exercises in groups of 3.
 
 
 
