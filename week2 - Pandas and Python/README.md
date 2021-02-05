@@ -5,6 +5,13 @@ Your teaching assistants will show you the following:
 - Revisit how do load in Colab a file from github.
 - How to autocomplete Python code in [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#)
 
+## Goals:
+
+- Learn how to load different types of dataset
+- Load some csv files from the /data in our github. What is the dataset about? What is the numerosity, what is the dimensionality of the dataset? 
+- Learn how to convert columns in the appropriate datatype.
+- Learn how to do basic operations using the dataframe in Python.
+
 ## Hour 1
 1. revision of Python: 
     - [https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Python_Tutorial.ipynb](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Python_Tutorial.ipynb)
