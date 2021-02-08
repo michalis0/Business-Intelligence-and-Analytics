@@ -37,7 +37,7 @@
 
 ---
 
-2. **Exercise 2:** Recreate this in Colab.
+2. **Exercise 2:** Recreate [this](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercise2.png) in Colab.
 
 ---
 
