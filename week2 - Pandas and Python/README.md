@@ -20,7 +20,7 @@ Your teaching assistants will show you the following:
 
 ## Hour 2
 
-Open the following file to learn about: https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Basic_Pandas_Load_File.ipynb
+Open the following file to learn about: [Basic_Pandas_Load_File.ipynb](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Basic_Pandas_Load_File.ipynb)
 
 We will cover:
 - Pandas
