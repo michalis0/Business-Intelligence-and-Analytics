@@ -32,7 +32,7 @@
 
 
 2. **Exercise 2:** Recreate [this](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercise2.png) in Colab. Links used:
-- https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Motors.svg
+>- https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Motors.svg
 - https://en.wikipedia.org/wiki/SolarCity
 - https://hbr.org/2020/02/lessons-from-teslas-approach-to-innovation
 - https://www.tesla.com/en_gb/cybertruck
