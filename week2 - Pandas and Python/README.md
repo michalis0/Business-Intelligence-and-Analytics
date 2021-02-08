@@ -34,7 +34,6 @@ We will cover:
 - convert columns to proper datatype
 - remove rows with nulls    
 
-**(At home)** (Really! do all of them otherwise you will not be able to follow!)
-- Complete all the walkthroughs and exercises in this folder by opening them in colab (**for TAs, put Open In Colab button, make sure all links work fine**): 
-    - https://github.com/michalis0/Business-Intelligence-and-Analytics/tree/master/week2%20-%20Pandas%20and%20Python/Pandas
+**At home:** (Really! do all of them otherwise you will not be able to follow!)
+Complete all the walkthroughs (01-04) and the exercise in the [Pandas](https://github.com/michalis0/Business-Intelligence-and-Analytics/tree/master/week2%20-%20Pandas%20and%20Python/Pandas) folder by opening them in colab (**for TAs, put Open In Colab button, make sure all links work fine**):
 
