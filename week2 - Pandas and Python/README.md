@@ -13,11 +13,9 @@ Your teaching assistants will show you the following:
 - Learn how to do basic operations using the dataframe in Python.
 
 ## Hour 1
-1. revision of Python: 
-    - [https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Python_Tutorial.ipynb](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Python_Tutorial.ipynb)
+1. revision of Python: [Python_Tutorial.ipynb](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Python_Tutorial.ipynb)
 
-2. **(At home)** complete the tasks from here:
-    - [https://www.kaggle.com/learn/python](https://www.kaggle.com/learn/python)
+2. **(At home)** complete the tasks from here: [Kaggle](https://www.kaggle.com/learn/python)
 
 
 ## Hour 2
