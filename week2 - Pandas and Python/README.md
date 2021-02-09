@@ -13,8 +13,8 @@ Your teaching assistants will show you the following:
 - Learn how to do basic operations using the dataframe in Python.
 
 ## Lab Structure
-1. We will first refresh your Python knowledge by going over the  [Python_Tutorial.ipynb](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Python_Tutorial.ipynb) walkthrough.
-2. Then you will learn how to load csv and JSON files into a Pandas DataFrame, which is covered in the [Basic_Pandas_Load_File.ipynb](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Basic_Pandas_Load_File.ipynb) walkthrough.
+1. We will first refresh your Python knowledge by going over the  [Python_Tutorial.ipynb](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Python_Tutorial.ipynb) walkthrough.
+2. Then you will learn how to load csv and JSON files into a Pandas DataFrame, which is covered in the [Basic_Pandas_Load_File.ipynb](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Basic_Pandas_Load_File.ipynb) walkthrough.
 3. (If time allows it, otherwise do it at home) You will then be able to showcase your skills in the [exercise](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Pandas/Exercise_1.ipynb). You will have 20-25 mins to do it and we will then correct it.
 
 **AT HOME:** (Please do them all since this is the very base of what we will do all semester. This will be the most you will have to do at home all semester.)
