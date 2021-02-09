@@ -32,9 +32,10 @@
 
 
 - **Exercise 2:** Recreate [this](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercice2-Amazon.png) in Colab. Links used:
-   >- https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Motors.svg
-   >- https://en.wikipedia.org/wiki/SolarCity
-   >- https://hbr.org/2020/02/lessons-from-teslas-approach-to-innovation
-   >- https://www.tesla.com/en_gb/cybertruck
-   >- https://www.youtube.com/embed/m7atGkba-Z8
+   >- https://en.wikipedia.org/wiki/Prime_Video
+   >- https://en.wikipedia.org/wiki/Twitch_(service)
+   >- https://en.wikipedia.org/wiki/Amazon_Web_Services
+   >- https://www.bbc.com/news/business-55927979
+   >- https://www.independent.co.uk/news/world/americas/jeff-bezos-letter-amazon-b1796716.html
+   >- https://www.youtube.com/embed/a9__D53WsUs
 
