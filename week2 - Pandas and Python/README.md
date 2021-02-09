@@ -12,29 +12,14 @@ Your teaching assistants will show you the following:
 - Learn how to convert columns in the appropriate datatype.
 - Learn how to do basic operations using the dataframe in Python.
 
-## Hour 1
-1. revision of Python: [Python_Tutorial.ipynb](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Python_Tutorial.ipynb)
-
-2. **(At home)** complete the tasks from here: [Kaggle](https://www.kaggle.com/learn/python)
-
-
-## Hour 2
-
-Open the following file to learn about: [Basic_Pandas_Load_File.ipynb](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Basic_Pandas_Load_File.ipynb)
-
-We will cover:
-- Pandas
-- load a csv and JSON file to a Pandas dataframe
-- How to load data from an API on the web (**new**)
-- do some basic selection/filtering operations with pandas (columns and rows)
-    - filtering by rows
-    - filtering by columns
-- convert columns to proper datatype
-- remove rows with nulls    
-
-**At home:** (Really! do all of them otherwise you will not be able to follow!)
-Complete all the walkthroughs (01-04) and the exercise in the [Pandas](https://github.com/michalis0/Business-Intelligence-and-Analytics/tree/master/week2%20-%20Pandas%20and%20Python/Pandas) folder by opening them in colab.
-
-
-(**for TAs, put Open In Colab button, make sure all links work fine**):
-
+## Lab Structure
+1. We will first refresh your Python knowledge by going over the  [Python_Tutorial.ipynb](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Python_Tutorial.ipynb) walkthrough.
+2. Then you will learn how to load csv and JSON files into a Pandas DataFrame, which is covered in the [Basic_Pandas_Load_File.ipynb](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Basic_Pandas_Load_File.ipynb) walkthrough.
+3. (If time allows it, otherwise do it at home) You will then be able to showcase your skills in the [exercise](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Pandas/Exercise_1.ipynb). You will have 20-25 mins to do it and we will then correct it.
+**AT HOME:** (Please do them all since this is the very base of what we will do all semester. This will be the most you will have to do at home all semester.)
+- [Python Tutorial at Kaggle](https://www.kaggle.com/learn/python)
+- Walkthroughs + Exercises for Pandas
+    - [01: Selecting Subsets](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Pandas/01_Selecting_Subsets_with_%5B_%5D%2C_loc_and_iloc.ipynb)
+    - [02: Boolean Indexing](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Pandas/02%20Boolean%20Indexing.ipynb)
+    - [03: Assigning Subsets of Data](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Pandas/03%20Assigning%20subsets%20of%20data.ipynb)
+    - [04: How NOT to Select Subsets of Data](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Pandas/04%20How%20NOT%20to%20select%20subsets%20of%20data.ipynb)
