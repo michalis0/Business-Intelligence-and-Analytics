@@ -27,11 +27,11 @@
 
  After you have become familiar with Colab you can do the following exercises in groups of 3 (10-15mins each exercise). One team will be randomly picked to share their solution (if they feel confident it is correct!).
 
-1. **Exercise 1:** Recreate [this](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercise1.png) in Colab. This may require some knowledge of Latex for recreating the equations, so if you are not very familiar with this just ask your TAs. Links used:
+- **Exercise 1:** Recreate [this](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercise1.png) in Colab. This may require some knowledge of Latex for recreating the equations, so if you are not very familiar with this just ask your TAs. Links used:
    >- http://www.statisticshowto.com/mean-squared-error
 
 
-2. **Exercise 2:** Recreate [this](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercise2.png) in Colab. Links used:
+- **Exercise 2:** Recreate [this](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercice2-Amazon.png) in Colab. Links used:
    >- https://upload.wikimedia.org/wikipedia/commons/b/bd/Tesla_Motors.svg
    >- https://en.wikipedia.org/wiki/SolarCity
    >- https://hbr.org/2020/02/lessons-from-teslas-approach-to-innovation
