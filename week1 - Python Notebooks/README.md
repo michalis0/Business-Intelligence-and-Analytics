@@ -25,7 +25,7 @@
 ## Lab structure
 1. First we will take a look at this week's [walkthrough](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/BIAlab1walkthrough.ipynb) to get familiar with the topics of the lab.
 2. You will do [exercise 1](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercise1.png), where you are asked to recreate a notebook discussing the MSE. This will be done in groups of 3 (10 - 15 mins) and we will then show a sample answer.
-3. The last challenge of the day will be [exercise 2](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercice2-Amazon.png). Similarly to the first exercise, you will be asked to recreate a notebook on Amazon, a bit more technical, but still totally in your range of capabilities. This will also be done in groups of 3 (10 - 15 mins) and we will also show a sample answer.
+3. The last challenge of the day will be [exercise 2](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercice2.png). Similarly to the first exercise, you will be asked to recreate a notebook on Amazon, a bit more technical, but still totally in your range of capabilities. This will also be done in groups of 3 (10 - 15 mins) and we will also show a sample answer.
 
 **AT HOME:** Read the [Notebook Introduction](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Notebooks_Introduction.ipynb). It revisits what we have covered in the lab and will help you get comfortable with the technology we will be using throughout the semester. (It's short!)
 
@@ -37,7 +37,7 @@
    >- http://www.statisticshowto.com/mean-squared-error
 
 
-- **Exercise 2:** Recreate [this](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercice2-Amazon.png) in Colab. Links used:
+- **Exercise 2:** Recreate [this](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercice2.png) in Colab. Links used:
    >- https://en.wikipedia.org/wiki/Prime_Video
    >- https://en.wikipedia.org/wiki/Twitch_(service)
    >- https://en.wikipedia.org/wiki/Amazon_Web_Services
