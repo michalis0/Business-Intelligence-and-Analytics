@@ -18,7 +18,7 @@ Your teaching assistants will show you the following:
 3. (If time allows it, otherwise do it at home) You will then be able to showcase your skills in the [exercise](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Pandas/Exercise_1.ipynb). You will have 20-25 mins to do it and we will then correct it.
 
 ## Exercises at HOME
-Please do them all since this is the very base of what we will do all semester. This will be the most you will have to do at home all semester.)
+Please do them all since this is the very base of what we will do all semester. This will be the most you will have to do at home all semester.
 - Python Tutorial at [Kaggle](https://www.kaggle.com/learn/python)
 - Walkthroughs + Exercises for Pandas
     - [01: Selecting Subsets](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week2%20-%20Pandas%20and%20Python/Pandas/01_Selecting_Subsets_with_%5B_%5D%2C_loc_and_iloc.ipynb)
