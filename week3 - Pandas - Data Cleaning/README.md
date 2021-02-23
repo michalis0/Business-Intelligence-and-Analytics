@@ -9,8 +9,7 @@ Your teaching assistants will show you the following:
 
 1. Walkthrough analysis:
     - [Link to the Notebook](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week3%20-%20EDA%20and%20Visualization/walkthroughs/Introduction_to_Data_Analysis_through_examples.ipynb)
-2. Walkthrough visualization (**JUST simple EDA, viz we do at week 4**)
-    - [Link to the Notebook](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week3%20-%20EDA%20and%20Visualization/walkthroughs/walkthroughs_week_3_BIA.ipynb) (**MVL: this link does not work**)
+
 
 
 ## Hour 2 - "Exercises"
