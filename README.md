@@ -11,7 +11,7 @@ The labs will generally always have the same basic structure:
 3. **Solutions:** Upon coming back from the breakout rooms, motivated groups will be able to share their solution (remember, in Python there is an infinite number of solutions to any problem!) with the class. If no group volunteers, the TAs will present a sample solution.
 4. **Homework:** No one likes it, but unfortunately it is essential to your success in this class. Most of the homework is given in the first couple of weeks because we have to cover the basics quickly to get to the most interesting parts of the course. Do not feel discouraged by the homework given early in the semester since the amount of it will decrease as the semester moves along.
 
-If you have question or face problems you cannot resolve during the labs, do not hesitate to unmute yourself and ask for clarifications (or use the chat). If you have questions after the labs, please use the appropriate [forum](https://moodle.unil.ch/mod/forum/view.php?id=960967) on Moodle. Also, remember that Google is your friend, especially while coding!
+If you have questions or face problems you cannot resolve during the labs, do not hesitate to unmute yourself and ask for clarifications (or use the chat). If you have questions after the labs, please use the appropriate [forum](https://moodle.unil.ch/mod/forum/view.php?id=960967) on Moodle. Also, remember that Google is your friend, especially while coding!
 
 We are looking forward to a great semester with you,
 
