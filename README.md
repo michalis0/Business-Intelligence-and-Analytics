@@ -2,7 +2,7 @@
 
 Dear Students,
 
-Here you will find everything you need for the labs. Simply go to the corresponding week and you will find walkthroughs, exercices, data, and solutions. However, the latter will only be posted after the last lab (Tursdays, shortly after 4pm).
+Here you will find everything you need for the labs. Simply go to the corresponding week and you will find walkthroughs, exercices, data, and solutions. However, the latter will only be posted after the last lab (every Thursday, shortly after 4pm).
 
 The labs will generally always have the same basic structure:
 
