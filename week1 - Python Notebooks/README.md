@@ -23,9 +23,10 @@
     - When you write Python code in Colab it helps you "autocomplete" the code. Review this [here](https://colab.research.google.com/notebooks/basic_features_overview.ipynb#scrollTo=d4L9TOP9QSHn)
 
 ## Lab structure
-1. First we will take a look at this week's [walkthrough](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/BIAlab1walkthrough.ipynb) to get familiar with the topics of the lab.
-2. You will do [exercise 1](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercise1.png), where you are asked to recreate a notebook discussing the MSE. This will be done in groups of 3 (10 - 15 mins) and we will then show a sample answer.
-3. The last challenge of the day will be [exercise 2](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercice2.png). Similarly to the first exercise, you will be asked to recreate a notebook on Amazon, a bit more technical, but still totally in your range of capabilities. This will also be done in groups of 3 (10 - 15 mins) and we will also show a sample answer.
+1. Introduction of TAs
+2. Then, we will take a look at this week's [walkthrough](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/BIAlab1walkthrough.ipynb) to get familiar with the topics of the lab.
+3. You will do [exercise 1](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercise1.png), where you are asked to recreate a notebook discussing the MSE. This will be done in groups of 3 (10 - 15 mins) and we will then show a sample answer.
+4. The last challenge of the day will be [exercise 2](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercice2.png). Similarly to the first exercise, you will be asked to recreate a notebook on Amazon, a bit more technical, but still totally in your range of capabilities. This will also be done in groups of 3 (10 - 15 mins) and we will also show a sample answer.
 
 **AT HOME:** Read the [Notebook Introduction](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Notebooks_Introduction.ipynb). It revisits what we have covered in the lab and will help you get comfortable with the technology we will be using throughout the semester. (It's short!)
 
