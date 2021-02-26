@@ -1,6 +1,7 @@
 # Colab and Python Notebooks
 
 Your teaching assistants will show you the following:
+- Questions on the previous lab.
 - Revisit where all code is saved in github.
 - Revisit how to load in Colab a file from github.
 - How to autocomplete Python code in [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#)
