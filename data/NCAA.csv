@@ -1,405 +1,405 @@
-SchoolName;SportName;NCAAConference;Athletes ;Score;Eligibility;PreviousAthletes;PreviousScore;PreviousEligibility
-Western Illinois University;Men's Soccer;The Summit League;23;1000;1;28;961;0.9608
-Cornell University;Men's Basketball;The Ivy League;45;994;1;18;1000;1
-University of Wisconsin, Madison;Women's Basketball;Big Ten Conference;15;983;0.9655;14;1000;1
-Stanford University;Women's Tennis;Pac-12 Conference;8;1000;1;11;1000;1
-University of Iowa;Women's Basketball;Big Ten Conference;14;963;0.963;15;983;0.9667
-Princeton University;Women's Tennis;The Ivy League;10;1000;1;7;1000;1
-Oklahoma State University;Women's Soccer;Big 12 Conference;24;1000;1;23;1000;1
-Pennsylvania State University;Men's Tennis;Big Ten Conference;9;1000;1;10;1000;1
-Baylor University;Women's Basketball;Big 12 Conference;13;980;1;14;1000;1
-Baylor University;Men's Basketball;Big 12 Conference;13;1000;1;12;1000;1
-University of Nebraska Omaha;Men's Basketball;The Summit League;13;980;1;12;917;1
-University of Michigan;Women's Basketball;Big Ten Conference;11;1000;1;14;1000;1
-Syracuse University;Women's Tennis;Atlantic Coast Conference;8;1000;1;8;1000;1
-University of Michigan;Women's Soccer;Big Ten Conference;23;966;0.9556;20;971;1
-Virginia Polytechnic Institute and State University;Men's Basketball;Atlantic Coast Conference;13;936;0.9167;14;940;0.9231
-Dartmouth College;Women's Tennis;The Ivy League;9;1000;1;10;1000;1
-Michigan State University;Men's Soccer;Big Ten Conference;23;988;1;23;962;0.95
-University of Pittsburgh;Women's Basketball;Atlantic Coast Conference;12;958;0.9583;11;1000;1
-University of Nebraska Omaha;Women's Tennis;The Summit League;8;1000;1;7;1000;1
-Texas Christian University;Women's Soccer;Big 12 Conference;22;988;1;25;989;1
-University of Miami (Florida);Women's Tennis;Atlantic Coast Conference;9;1000;1;8;962;1
-Texas Christian University;Men's Basketball;Big 12 Conference;14;926;0.9259;13;918;0.88
-Pennsylvania State University;Men's Basketball;Big Ten Conference;13;1000;1;13;958;0.96
-Princeton University;Men's Tennis;The Ivy League;10;974;1;11;1000;1
-Harvard University;Women's Ice Hockey;The Ivy League;18;1000;1;20;1000;1
-North Dakota State University;Women's Basketball;The Summit League;16;983;1;14;982;0.9643
-Brown University;Men's Basketball;The Ivy League;14;964;0.9286;10;950;1
-Indiana University-Purdue University at Indianapolis;Women's Tennis;The Summit League;7;1000;1;8;969;0.9375
-University of Illinois, Champaign;Men's Tennis;Big Ten Conference;9;1000;1;7;1000;1
-Brown University;Women's Soccer;The Ivy League;29;1000;1;27;1000;1
-University of Illinois, Champaign;Men's Basketball;Big Ten Conference;13;1000;1;13;980;1
-University of Maryland, College Park;Women's Basketball;Big Ten Conference;14;1000;1;13;942;0.9615
-Pennsylvania State University;Women's Basketball;Big Ten Conference;15;964;0.9643;12;978;0.9565
-University of Denver;Men's Skiing;The Summit League;8;1000;1;10;1000;1
-Georgia Institute of Technology;Men's Basketball;Atlantic Coast Conference;13;960;1;12;1000;1
-Oregon State University;Women's Basketball;Pac-12 Conference;12;989;0.9783;12;979;1
-Cornell University;Men's Soccer;The Ivy League;16;1000;1;16;917;0.9333
-Columbia University-Barnard College;Men's Basketball;The Ivy League;15;1000;1;15;950;0.9667
-Boston College;Men's Basketball;Atlantic Coast Conference;13;1000;1;11;977;1
-Oklahoma State University;Men's Tennis;Big 12 Conference;10;1000;1;8;963;1
-Michigan State University;Men's Tennis;Big Ten Conference;9;1000;1;8;1000;1
-Georgia Institute of Technology;Men's Tennis;Atlantic Coast Conference;8;1000;1;11;971;1
-University of South Dakota;Women's Basketball;The Summit League;14;962;1;14;1000;1
-Brown University;Men's Ice Hockey;The Ivy League;25;1000;1;30;1000;1
-Georgia Institute of Technology;Women's Tennis;Atlantic Coast Conference;8;933;0.9333;9;1000;1
-Northwestern University;Women's Basketball;Big Ten Conference;14;1000;1;14;1000;1
-University of California, Berkeley;Men's Tennis;Pac-12 Conference;6;1000;1;7;1000;1
-University of Arizona;Women's Tennis;Pac-12 Conference;8;1000;1;8;1000;1
-West Virginia University;Men's Soccer;Big 12 Conference;21;975;1;19;968;1
-Florida State University;Men's Basketball;Atlantic Coast Conference;11;955;0.9546;14;981;0.963
-Cornell University;Men's Ice Hockey;The Ivy League;25;970;0.98;20;1000;1
-University of Michigan;Men's Soccer;Big Ten Conference;15;1000;1;21;976;0.9762
-Texas Tech University;Men's Basketball;Big 12 Conference;12;1000;1;14;961;1
-University of Texas at Austin;Men's Tennis;Big 12 Conference;10;1000;1;11;1000;1
-Princeton University;Men's Soccer;The Ivy League;28;1000;1;23;978;0.9783
-North Carolina State University;Women's Soccer;Atlantic Coast Conference;24;1000;1;23;1000;1
-Dartmouth College;Men's Soccer;The Ivy League;27;1000;1;27;1000;1
-Princeton University;Women's Basketball;The Ivy League;14;1000;1;13;1000;1
-University of North Carolina, Chapel Hill;Women's Soccer;Atlantic Coast Conference;24;987;0.9756;20;1000;1
-Pennsylvania State University;Men's Soccer;Big Ten Conference;21;986;1;19;944;0.9167
-Harvard University;Men's Soccer;The Ivy League;23;966;0.9767;21;976;1
-University of Washington;Men's Basketball;Pac-12 Conference;13;979;1;15;1000;1
-University of Nebraska Omaha;Men's Tennis;The Summit League;10;973;1;12;917;0.9167
-Columbia University-Barnard College;Women's Tennis;The Ivy League;10;1000;1;12;1000;1
-North Carolina State University;Women's Basketball;Atlantic Coast Conference;14;1000;1;14;964;0.9286
-Harvard University;Women's Soccer;The Ivy League;20;1000;1;22;1000;1
-Wake Forest University;Men's Basketball;Atlantic Coast Conference;13;1000;1;9;943;1
-University of Denver;Women's Skiing;The Summit League;11;977;1;11;988;0.9767
-University of Utah;Men's Basketball;Pac-12 Conference;14;1000;0.9286;13;979;1
-Dartmouth College;Women's Basketball;The Ivy League;15;1000;1;10;1000;1
-University of Southern California;Men's Basketball;Pac-12 Conference;14;944;0.9259;13;939;0.96
-University of Pennsylvania;Women's Soccer;The Ivy League;22;989;0.9773;23;1000;1
-West Virginia University;Men's Basketball;Big 12 Conference;11;976;1;13;1000;1
-University of Maryland, College Park;Men's Soccer;Big Ten Conference;25;976;0.9762;23;951;0.9512
-Clemson University;Men's Soccer;Atlantic Coast Conference;23;988;1;27;938;0.9583
-The Ohio State University;Men's Ice Hockey;Big Ten Conference;27;990;1;22;1000;1
-University of Pennsylvania;Women's Tennis;The Ivy League;9;1000;1;6;1000;1
-University of Oklahoma;Men's Tennis;Big 12 Conference;10;1000;1;9;1000;0.9412
-Oklahoma State University;Women's Tennis;Big 12 Conference;9;1000;1;9;903;1
-University of Iowa;Women's Soccer;Big Ten Conference;23;989;1;22;1000;1
-Dartmouth College;Men's Ice Hockey;The Ivy League;26;1000;1;26;1000;1
-Harvard University;Men's Tennis;The Ivy League;12;1000;1;11;976;1
-Princeton University;Women's Soccer;The Ivy League;25;1000;1;22;988;0.9767
-Baylor University;Men's Tennis;Big 12 Conference;12;929;0.9546;10;944;0.9444
-University of Colorado, Boulder;Men's Basketball;Pac-12 Conference;13;959;0.96;12;979;1
-West Virginia University;Women's Tennis;Big 12 Conference;10;1000;1;10;919;0.9474
-Michigan State University;Women's Tennis;Big Ten Conference;11;1000;1;8;900;0.9333
-University of Notre Dame;Men's Soccer;Atlantic Coast Conference;20;1000;1;22;1000;1
-University of Michigan;Men's Basketball;Big Ten Conference;11;1000;1;13;980;1
-Rutgers, The State University of New Jersey, New Brunswick;Women's Tennis;Big Ten Conference;8;1000;1;8;938;0.9375
-University of Notre Dame;Men's Tennis;Atlantic Coast Conference;12;1000;1;11;1000;1
-Boston College;Men's Ice Hockey;Atlantic Coast Conference;18;1000;1;18;1000;1
-Columbia University-Barnard College;Women's Soccer;The Ivy League;20;1000;1;22;1000;1
-Pennsylvania State University;Women's Ice Hockey;Big Ten Conference;21;1000;1;-99;-99;-99
-University of Minnesota, Twin Cities;Women's Basketball;Big Ten Conference;10;1000;1;14;1000;1
-University of Notre Dame;Women's Soccer;Atlantic Coast Conference;21;1000;1;19;959;0.946
-University of Wisconsin, Madison;Women's Soccer;Big Ten Conference;25;945;0.9556;27;989;1
-Stanford University;Women's Basketball;Pac-12 Conference;17;1000;1;16;1000;1
-Clemson University;Women's Tennis;Atlantic Coast Conference;7;1000;1;8;933;1
-University of Oregon;Women's Soccer;Pac-12 Conference;24;1000;1;22;1000;1
-Columbia University-Barnard College;Women's Basketball;The Ivy League;13;1000;1;13;1000;1
-Oral Roberts University;Men's Tennis;The Summit League;9;1000;1;6;882;0.7778
-Harvard University;Women's Tennis;The Ivy League;8;1000;1;9;941;0.9412
-Stanford University;Men's Soccer;Pac-12 Conference;17;1000;1;21;988;0.975
-University of Miami (Florida);Women's Soccer;Atlantic Coast Conference;21;1000;1;28;978;1
-Iowa State University;Women's Tennis;Big 12 Conference;11;976;1;9;1000;1
-Cornell University;Women's Tennis;The Ivy League;8;1000;1;8;969;0.9375
-Indiana University-Purdue University, Fort Wayne;Women's Soccer;The Summit League;24;956;0.9787;23;978;0.9783
-University of Southern California;Women's Tennis;Pac-12 Conference;8;1000;1;10;971;1
-University of Wisconsin, Madison;Women's Ice Hockey;Big Ten Conference;25;1000;1;25;966;0.9778
-University of Oklahoma;Men's Basketball;Big 12 Conference;13;958;1;12;1000;1
-University of Nebraska Omaha;Men's Soccer;The Summit League;17;1000;1;10;917;1
-Western Illinois University;Men's Tennis;The Summit League;7;962;0.9286;9;967;1
-University of Nebraska Omaha;Women's Soccer;The Summit League;21;1000;1;17;984;1
-University of Louisville;Men's Basketball;Atlantic Coast Conference;13;1000;1;13;1000;1
-University of Maryland, College Park;Women's Tennis;Big Ten Conference;8;1000;1;7;958;1
-Dartmouth College;Men's Tennis;The Ivy League;11;1000;1;10;1000;1
-University of Illinois, Champaign;Women's Basketball;Big Ten Conference;16;1000;1;15;949;0.9333
-University of California, Berkeley;Women's Soccer;Pac-12 Conference;26;971;0.9808;31;1000;1
-Indiana University-Purdue University, Fort Wayne;Men's Basketball;The Summit League;14;964;0.9643;13;1000;1
-Yale University;Women's Soccer;The Ivy League;21;1000;1;23;1000;1
-University of Virginia;Women's Basketball;Atlantic Coast Conference;13;979;1;13;1000;1
-Indiana University, Bloomington;Women's Basketball;Big Ten Conference;14;1000;1;14;981;1
-Yale University;Women's Basketball;The Ivy League;15;1000;1;12;978;1
-Kansas State University;Women's Basketball;Big 12 Conference;14;1000;1;13;981;1
-South Dakota State University;Men's Tennis;The Summit League;6;1000;1;5;1000;1
-Boston College;Women's Basketball;Atlantic Coast Conference;14;982;1;12;936;0.9583
-University of Oklahoma;Women's Tennis;Big 12 Conference;8;1000;1;8;1000;1
-Virginia Polytechnic Institute and State University;Men's Soccer;Atlantic Coast Conference;24;900;0.9524;26;968;0.9583
-Brown University;Women's Skiing;The Ivy League;7;1000;1;6;1000;1
-Boston College;Men's Skiing;Atlantic Coast Conference;6;1000;1;4;1000;1
-Yale University;Women's Ice Hockey;The Ivy League;22;1000;1;24;989;1
-University of Denver;Men's Ice Hockey;The Summit League;20;1000;1;22;1000;1
-North Carolina State University;Men's Tennis;Atlantic Coast Conference;9;1000;1;10;1000;1
-University of Denver;Men's Tennis;The Summit League;9;1000;1;8;1000;1
-Arizona State University;Men's Basketball;Pac-12 Conference;13;1000;1;12;1000;1
-Texas Tech University;Women's Soccer;Big 12 Conference;28;1000;1;28;1000;1
-University of Iowa;Women's Tennis;Big Ten Conference;8;938;0.9375;8;1000;1
-University of Miami (Florida);Men's Basketball;Atlantic Coast Conference;13;981;1;13;1000;1
-Oral Roberts University;Men's Soccer;The Summit League;21;988;0.9762;20;958;0.9737
-University of California, Berkeley;Men's Basketball;Pac-12 Conference;13;942;0.9231;14;961;0.9231
-Georgia Institute of Technology;Women's Basketball;Atlantic Coast Conference;14;927;0.9643;15;983;1
-Stanford University;Men's Tennis;Pac-12 Conference;8;1000;1;8;1000;1
-University of Michigan;Men's Tennis;Big Ten Conference;8;1000;1;7;962;1
-University of California, Los Angeles;Men's Tennis;Pac-12 Conference;9;1000;1;11;943;1
-Rutgers, The State University of New Jersey, New Brunswick;Women's Soccer;Big Ten Conference;22;1000;1;20;957;0.9714
-Dartmouth College;Women's Soccer;The Ivy League;26;1000;1;25;1000;1
-University of Washington;Men's Tennis;Pac-12 Conference;7;962;1;9;1000;1
-Michigan State University;Women's Basketball;Big Ten Conference;14;960;0.9615;15;965;0.9655
-Yale University;Men's Tennis;The Ivy League;9;1000;1;12;1000;1
-Cornell University;Women's Soccer;The Ivy League;19;1000;1;27;1000;1
-University of Kansas;Women's Tennis;Big 12 Conference;9;968;1;9;900;0.9333
-University of Louisville;Men's Soccer;Atlantic Coast Conference;23;974;0.975;30;969;0.96
-University of California, Los Angeles;Men's Basketball;Pac-12 Conference;12;952;0.9546;13;955;0.9149
-Virginia Polytechnic Institute and State University;Women's Tennis;Atlantic Coast Conference;8;1000;1;9;972;0.9444
-University of Arizona;Men's Tennis;Pac-12 Conference;9;969;0.9375;11;967;1
-University of Minnesota, Twin Cities;Men's Tennis;Big Ten Conference;9;1000;1;10;1000;1
-University of Texas at Austin;Men's Basketball;Big 12 Conference;13;1000;1;11;1000;0.9546
-Duke University;Men's Tennis;Atlantic Coast Conference;9;1000;1;9;1000;1
-University of California, Los Angeles;Men's Soccer;Pac-12 Conference;20;1000;1;25;975;1
-Florida State University;Women's Tennis;Atlantic Coast Conference;9;970;1;9;1000;1
-South Dakota State University;Women's Soccer;The Summit League;29;982;0.9821;25;990;0.9796
-Indiana University-Purdue University, Fort Wayne;Men's Tennis;The Summit League;9;971;1;8;1000;1
-University of Minnesota, Twin Cities;Women's Tennis;Big Ten Conference;9;1000;1;10;1000;1
-Texas Tech University;Women's Basketball;Big 12 Conference;15;942;1;14;981;1
-University of Texas at Austin;Women's Tennis;Big 12 Conference;9;1000;1;8;968;1
-University of Virginia;Men's Tennis;Atlantic Coast Conference;12;1000;1;8;1000;1
-University of Kansas;Women's Basketball;Big 12 Conference;12;957;1;13;938;0.9583
-Michigan State University;Men's Ice Hockey;Big Ten Conference;22;988;1;22;1000;0.9773
-University of Oregon;Women's Basketball;Pac-12 Conference;14;982;0.9643;14;1000;1
-Arizona State University;Women's Tennis;Pac-12 Conference;9;1000;1;8;1000;1
-University of Denver;Men's Basketball;The Summit League;13;962;1;13;1000;1
-Brown University;Men's Soccer;The Ivy League;24;1000;1;27;1000;1
-Syracuse University;Women's Ice Hockey;Atlantic Coast Conference;18;1000;1;20;944;0.973
-University of Virginia;Men's Basketball;Atlantic Coast Conference;12;979;1;12;976;1
-University of North Carolina, Chapel Hill;Women's Basketball;Atlantic Coast Conference;14;982;1;14;981;1
-Northwestern University;Men's Basketball;Big Ten Conference;12;932;0.9565;12;979;0.9583
-University of Oklahoma;Women's Soccer;Big 12 Conference;30;971;0.9815;26;990;0.9796
-Purdue University;Women's Soccer;Big Ten Conference;23;978;0.9783;22;1000;0.9773
-University of Minnesota, Twin Cities;Men's Basketball;Big Ten Conference;13;1000;0.96;13;981;1
-University of Nebraska, Lincoln;Women's Soccer;Big Ten Conference;25;989;1;27;980;1
-University of Colorado, Boulder;Men's Skiing;Pac-12 Conference;9;1000;1;9;941;1
-The Ohio State University;Women's Ice Hockey;Big Ten Conference;22;1000;1;30;991;0.9826
-University of Wisconsin, Madison;Women's Tennis;Big Ten Conference;9;968;1;8;1000;1
-Washington State University;Women's Soccer;Pac-12 Conference;28;990;1;22;989;1
-The Ohio State University;Men's Tennis;Big Ten Conference;11;1000;1;13;979;1
-University of Denver;Men's Soccer;The Summit League;22;1000;1;21;986;1
-University of Pittsburgh;Women's Soccer;Atlantic Coast Conference;22;1000;1;22;976;0.9756
-Indiana University, Bloomington;Men's Tennis;Big Ten Conference;8;966;1;9;1000;1
-West Virginia University;Women's Basketball;Big 12 Conference;14;1000;1;12;1000;1
-Dartmouth College;Women's Ice Hockey;The Ivy League;19;1000;1;21;1000;1
-Michigan State University;Men's Basketball;Big Ten Conference;13;961;1;13;1000;1
-University of Arizona;Women's Soccer;Pac-12 Conference;28;973;0.9821;26;979;0.9796
-University of Washington;Women's Basketball;Pac-12 Conference;12;1000;1;16;969;0.9688
-Western Illinois University;Men's Basketball;The Summit League;12;932;1;11;952;1
-University of Washington;Men's Soccer;Pac-12 Conference;20;986;0.9737;22;972;0.973
-University of Colorado, Boulder;Women's Tennis;Pac-12 Conference;9;969;1;9;966;1
-Virginia Polytechnic Institute and State University;Men's Tennis;Atlantic Coast Conference;9;967;1;8;967;1
-Northwestern University;Men's Tennis;Big Ten Conference;9;1000;1;10;1000;1
-University of California, Berkeley;Women's Basketball;Pac-12 Conference;13;940;0.96;13;960;1
-Wake Forest University;Women's Soccer;Atlantic Coast Conference;20;974;0.9737;22;976;1
-Oral Roberts University;Women's Tennis;The Summit League;7;1000;1;8;1000;1
-Northwestern University;Women's Soccer;Big Ten Conference;29;1000;1;26;1000;1
-Arizona State University;Women's Basketball;Pac-12 Conference;14;981;1;13;942;0.9615
-University of Pennsylvania;Women's Basketball;The Ivy League;15;1000;1;14;981;1
-North Dakota State University;Women's Soccer;The Summit League;22;988;1;23;989;1
-University of California, Los Angeles;Women's Tennis;Pac-12 Conference;9;971;1;8;1000;1
-University of Colorado, Boulder;Women's Skiing;Pac-12 Conference;11;944;0.9444;12;974;1
-University of Utah;Women's Basketball;Pac-12 Conference;15;983;1;13;941;0.96
-University of Nebraska, Lincoln;Men's Basketball;Big Ten Conference;13;958;0.96;13;940;0.9615
-Indiana University, Bloomington;Men's Soccer;Big Ten Conference;28;1000;1;24;1000;1
-Syracuse University;Women's Basketball;Atlantic Coast Conference;16;1000;1;13;1000;1
-University of South Dakota;Women's Tennis;The Summit League;9;875;0.875;8;969;0.9375
-University of Denver;Women's Tennis;The Summit League;8;933;1;8;931;1
-University of Wisconsin, Madison;Men's Soccer;Big Ten Conference;22;987;0.9737;20;972;0.9722
-University of California, Berkeley;Women's Tennis;Pac-12 Conference;9;1000;1;8;1000;1
-Boston College;Women's Soccer;Atlantic Coast Conference;20;1000;1;16;1000;1
-Arizona State University;Women's Soccer;Pac-12 Conference;22;988;1;25;959;1
-Harvard University;Men's Basketball;The Ivy League;17;985;1;17;939;1
-University of Southern California;Women's Basketball;Pac-12 Conference;15;983;0.9667;15;1000;1
-University of Utah;Women's Skiing;Pac-12 Conference;12;977;1;10;974;1
-South Dakota State University;Women's Basketball;The Summit League;16;1000;1;13;1000;1
-University of Miami (Florida);Women's Basketball;Atlantic Coast Conference;13;980;1;15;965;0.9655
-University of North Carolina, Chapel Hill;Men's Tennis;Atlantic Coast Conference;11;1000;1;8;1000;1
-University of Notre Dame;Men's Ice Hockey;Atlantic Coast Conference;21;988;0.9762;21;964;0.9762
-Boston College;Men's Soccer;Atlantic Coast Conference;12;1000;1;12;950;0.95
-Oregon State University;Men's Soccer;Pac-12 Conference;19;969;0.971;20;985;1
-Texas Tech University;Men's Tennis;Big 12 Conference;10;969;1;8;923;0.8462
-Dartmouth College;Men's Skiing;The Ivy League;21;1000;1;21;1000;1
-North Carolina State University;Men's Soccer;Atlantic Coast Conference;25;1000;1;19;985;1
-Columbia University-Barnard College;Men's Soccer;The Ivy League;24;989;1;19;973;1
-Wake Forest University;Women's Tennis;Atlantic Coast Conference;8;1000;1;8;967;1
-University of Arizona;Men's Basketball;Pac-12 Conference;11;1000;1;11;1000;1
-Oral Roberts University;Women's Soccer;The Summit League;28;944;0.9444;20;961;0.9231
-University of Wisconsin, Madison;Men's Ice Hockey;Big Ten Conference;26;960;0.9615;28;990;1
-Indiana University-Purdue University at Indianapolis;Men's Tennis;The Summit League;10;943;0.9444;11;1000;1
-Purdue University;Women's Tennis;Big Ten Conference;10;1000;1;9;1000;1
-University of California, Los Angeles;Women's Soccer;Pac-12 Conference;24;956;0.9556;24;988;1
-Florida State University;Women's Soccer;Atlantic Coast Conference;24;1000;1;21;1000;1
-University of Utah;Women's Tennis;Pac-12 Conference;8;1000;1;9;1000;1
-Washington State University;Men's Basketball;Pac-12 Conference;14;963;0.963;14;962;0.9615
-Cornell University;Women's Ice Hockey;The Ivy League;21;988;1;19;1000;1
-Clemson University;Men's Tennis;Atlantic Coast Conference;15;982;1;11;947;1
-University of Colorado, Boulder;Women's Basketball;Pac-12 Conference;13;1000;1;11;1000;1
-Iowa State University;Women's Soccer;Big 12 Conference;26;990;1;29;1000;1
-Yale University;Men's Basketball;The Ivy League;16;969;1;17;1000;1
-The Ohio State University;Men's Basketball;Big Ten Conference;11;976;0.9524;13;957;1
-Texas Christian University;Men's Tennis;Big 12 Conference;9;966;1;11;1000;1
-South Dakota State University;Women's Tennis;The Summit League;8;1000;1;7;1000;1
-University of South Dakota;Women's Soccer;The Summit League;28;981;1;25;990;1
-Kansas State University;Men's Basketball;Big 12 Conference;13;981;0.9615;13;981;1
-University of North Carolina, Chapel Hill;Men's Soccer;Atlantic Coast Conference;19;1000;1;24;892;0.9211
-Iowa State University;Men's Basketball;Big 12 Conference;13;980;1;13;958;0.96
-North Carolina State University;Women's Tennis;Atlantic Coast Conference;9;1000;1;9;1000;1
-University of Illinois, Champaign;Women's Tennis;Big Ten Conference;8;1000;1;8;1000;1
-University of Michigan;Women's Tennis;Big Ten Conference;8;1000;1;9;1000;1
-Boston College;Women's Ice Hockey;Atlantic Coast Conference;18;1000;1;19;1000;1
-Columbia University-Barnard College;Men's Tennis;The Ivy League;9;1000;1;9;1000;1
-Western Illinois University;Women's Basketball;The Summit League;13;1000;1;14;1000;1
-University of Washington;Women's Tennis;Pac-12 Conference;8;969;1;8;1000;1
-Duke University;Men's Soccer;Atlantic Coast Conference;12;1000;1;11;1000;1
-University of Virginia;Men's Soccer;Atlantic Coast Conference;14;941;0.963;16;957;1
-Rutgers, The State University of New Jersey, New Brunswick;Women's Basketball;Big Ten Conference;10;1000;1;13;1000;1
-Cornell University;Women's Basketball;The Ivy League;13;1000;1;14;1000;1
-Harvard University;Men's Ice Hockey;The Ivy League;29;991;1;28;991;1
-Yale University;Men's Ice Hockey;The Ivy League;26;980;1;26;1000;1
-Northwestern University;Men's Soccer;Big Ten Conference;23;1000;1;24;977;0.9775
-Dartmouth College;Women's Skiing;The Ivy League;20;1000;1;21;1000;1
-Rutgers, The State University of New Jersey, New Brunswick;Men's Soccer;Big Ten Conference;19;984;1;18;984;1
-University of Colorado, Boulder;Women's Soccer;Pac-12 Conference;23;988;1;20;975;1
-Michigan State University;Women's Soccer;Big Ten Conference;25;1000;1;25;979;0.9787
-University of Southern California;Men's Tennis;Pac-12 Conference;7;1000;1;9;889;0.9286
-The Ohio State University;Women's Soccer;Big Ten Conference;24;989;1;24;1000;1
-Baylor University;Women's Tennis;Big 12 Conference;10;1000;1;11;976;1
-University of Virginia;Women's Tennis;Atlantic Coast Conference;8;1000;1;8;1000;1
-Stanford University;Men's Basketball;Pac-12 Conference;14;1000;1;13;1000;1
-Duke University;Women's Soccer;Atlantic Coast Conference;21;1000;1;21;988;1
-University of Louisville;Women's Tennis;Atlantic Coast Conference;9;1000;1;8;1000;1
-Clemson University;Men's Basketball;Atlantic Coast Conference;13;1000;1;11;1000;1
-The Ohio State University;Women's Basketball;Big Ten Conference;15;1000;1;15;921;0.8793
-Indiana University, Bloomington;Men's Basketball;Big Ten Conference;13;978;1;13;1000;1
-Yale University;Women's Tennis;The Ivy League;8;1000;1;8;1000;1
-Oregon State University;Women's Soccer;Pac-12 Conference;23;987;1;25;989;1
-University of Louisville;Women's Basketball;Atlantic Coast Conference;14;1000;1;17;1000;1
-Dartmouth College;Men's Basketball;The Ivy League;15;1000;1;14;1000;1
-University of Oklahoma;Women's Basketball;Big 12 Conference;15;1000;1;14;943;0.963
-University of Oregon;Men's Tennis;Pac-12 Conference;10;1000;1;10;1000;1
-University of Notre Dame;Men's Basketball;Atlantic Coast Conference;13;917;0.9167;12;1000;1
-University of Nebraska, Lincoln;Women's Basketball;Big Ten Conference;13;1000;1;16;1000;1
-University of Nebraska Omaha;Women's Basketball;The Summit League;13;1000;1;13;979;1
-Texas Christian University;Women's Tennis;Big 12 Conference;11;1000;1;8;969;0.9375
-Indiana University-Purdue University at Indianapolis;Men's Basketball;The Summit League;13;962;0.9615;14;963;0.963
-University of Kansas;Women's Soccer;Big 12 Conference;20;986;0.973;27;941;0.9216
-Duke University;Women's Tennis;Atlantic Coast Conference;10;1000;1;10;1000;1
-Syracuse University;Men's Basketball;Atlantic Coast Conference;13;1000;1;13;878;0.84
-University of Denver;Women's Basketball;The Summit League;15;1000;1;12;1000;1
-South Dakota State University;Men's Basketball;The Summit League;14;963;0.963;12;957;1
-Cornell University;Men's Tennis;The Ivy League;12;1000;1;11;953;0.9524
-Brown University;Women's Ice Hockey;The Ivy League;22;1000;1;22;1000;1
-Duke University;Men's Basketball;Atlantic Coast Conference;13;979;0.96;14;1000;1
-University of Pennsylvania;Men's Basketball;The Ivy League;16;953;0.9688;16;1000;1
-University of Utah;Men's Skiing;Pac-12 Conference;12;977;1;10;950;0.95
-University of Minnesota, Twin Cities;Women's Soccer;Big Ten Conference;20;1000;1;23;988;1
-Florida State University;Women's Basketball;Atlantic Coast Conference;13;1000;1;12;978;1
-University of Miami (Florida);Men's Tennis;Atlantic Coast Conference;6;958;1;10;1000;1
-Virginia Polytechnic Institute and State University;Women's Soccer;Atlantic Coast Conference;20;1000;1;21;988;1
-Syracuse University;Women's Soccer;Atlantic Coast Conference;17;1000;1;18;1000;1
-University of Notre Dame;Women's Tennis;Atlantic Coast Conference;8;1000;1;7;1000;1
-Pennsylvania State University;Women's Soccer;Big Ten Conference;20;971;1;18;1000;1
-University of North Carolina, Chapel Hill;Women's Tennis;Atlantic Coast Conference;8;1000;1;8;1000;1
-Texas Christian University;Women's Basketball;Big 12 Conference;17;952;0.9688;13;938;0.9565
-Washington State University;Women's Tennis;Pac-12 Conference;8;931;0.9333;8;1000;1
-Clemson University;Women's Basketball;Atlantic Coast Conference;14;980;1;12;977;1
-University of Louisville;Men's Tennis;Atlantic Coast Conference;13;1000;1;16;948;0.931
-University of Maryland, College Park;Men's Basketball;Big Ten Conference;13;941;1;11;881;0.9048
-North Dakota State University;Men's Basketball;The Summit League;13;962;0.9615;13;923;0.8846
-Indiana University-Purdue University, Fort Wayne;Women's Basketball;The Summit League;14;964;0.9643;13;1000;1
-University of Illinois, Champaign;Women's Soccer;Big Ten Conference;22;976;1;21;1000;1
-Purdue University;Women's Basketball;Big Ten Conference;12;1000;1;14;982;0.9643
-Clemson University;Women's Soccer;Atlantic Coast Conference;31;991;1;24;967;1
-Indiana University, Bloomington;Women's Tennis;Big Ten Conference;9;1000;1;9;1000;1
-Syracuse University;Men's Soccer;Atlantic Coast Conference;14;962;0.9615;15;1000;1
-Oklahoma State University;Women's Basketball;Big 12 Conference;15;983;1;14;980;1
-Western Illinois University;Women's Tennis;The Summit League;7;893;0.9286;-99;-99;-99
-University of California, Los Angeles;Women's Basketball;Pac-12 Conference;13;971;0.9423;13;1000;1
-Brown University;Men's Tennis;The Ivy League;11;1000;1;12;1000;1
-University of North Carolina, Chapel Hill;Men's Basketball;Atlantic Coast Conference;13;1000;1;13;959;0.9615
-Indiana University-Purdue University at Indianapolis;Women's Soccer;The Summit League;25;1000;1;23;1000;1
-Harvard University;Women's Basketball;The Ivy League;16;1000;1;15;1000;1
-University of Pennsylvania;Men's Soccer;The Ivy League;19;958;0.9722;20;972;0.973
-Indiana University-Purdue University, Fort Wayne;Men's Soccer;The Summit League;20;961;0.9744;21;922;0.8462
-Indiana University-Purdue University at Indianapolis;Women's Basketball;The Summit League;15;1000;1;12;1000;1
-Pennsylvania State University;Women's Tennis;Big Ten Conference;8;967;1;8;1000;1
-Indiana University, Bloomington;Women's Soccer;Big Ten Conference;28;1000;1;32;1000;1
-Stanford University;Women's Soccer;Pac-12 Conference;25;1000;1;19;1000;1
-Iowa State University;Women's Basketball;Big 12 Conference;15;983;0.9655;13;958;1
-Wake Forest University;Women's Basketball;Atlantic Coast Conference;12;1000;1;14;1000;1
-University of Oregon;Men's Basketball;Pac-12 Conference;13;905;0.9565;13;952;1
-University of Virginia;Women's Soccer;Atlantic Coast Conference;22;974;1;22;1000;1
-University of Nebraska, Lincoln;Men's Tennis;Big Ten Conference;12;1000;1;11;952;1
-University of Nebraska, Lincoln;Women's Tennis;Big Ten Conference;9;1000;1;9;971;1
-North Carolina State University;Men's Basketball;Atlantic Coast Conference;12;957;0.9583;12;1000;1
-Harvard University;Men's Skiing;The Ivy League;9;1000;1;7;962;1
-University of Wisconsin, Madison;Men's Tennis;Big Ten Conference;10;1000;1;8;900;1
-Boston College;Women's Tennis;Atlantic Coast Conference;8;1000;1;8;966;1
-University of Iowa;Men's Tennis;Big Ten Conference;9;1000;1;13;1000;1
-Brown University;Women's Tennis;The Ivy League;9;1000;1;12;1000;1
-Indiana University-Purdue University, Fort Wayne;Women's Tennis;The Summit League;7;1000;1;8;929;1
-Kansas State University;Women's Tennis;Big 12 Conference;10;1000;1;9;969;1
-University of Pittsburgh;Women's Tennis;Atlantic Coast Conference;9;1000;1;8;1000;1
-Yale University;Men's Soccer;The Ivy League;19;1000;1;27;989;1
-University of Oregon;Women's Tennis;Pac-12 Conference;11;975;1;10;1000;1
-University of Wisconsin, Madison;Men's Basketball;Big Ten Conference;14;1000;1;13;1000;1
-University of Kansas;Men's Basketball;Big 12 Conference;13;959;0.9615;13;1000;1
-University of Minnesota, Twin Cities;Women's Ice Hockey;Big Ten Conference;21;1000;1;23;989;1
-University of Michigan;Men's Ice Hockey;Big Ten Conference;23;1000;1;19;1000;1
-Wake Forest University;Men's Soccer;Atlantic Coast Conference;22;1000;1;16;1000;1
-Washington State University;Women's Basketball;Pac-12 Conference;12;1000;1;14;1000;1
-University of Utah;Women's Soccer;Pac-12 Conference;26;990;1;25;949;0.9592
-University of Arizona;Women's Basketball;Pac-12 Conference;14;958;1;14;936;0.92
-University of Southern California;Women's Soccer;Pac-12 Conference;20;986;1;18;986;1
-University of Texas at Austin;Women's Soccer;Big 12 Conference;22;988;1;20;1000;1
-Texas Tech University;Women's Tennis;Big 12 Conference;10;1000;1;9;1000;1
-University of Texas at Austin;Women's Basketball;Big 12 Conference;17;1000;1;14;1000;1
-Harvard University;Women's Skiing;The Ivy League;8;1000;1;10;974;1
-University of Pennsylvania;Men's Tennis;The Ivy League;10;1000;1;12;1000;1
-University of Minnesota, Twin Cities;Men's Ice Hockey;Big Ten Conference;25;990;0.9796;24;1000;1
-Princeton University;Men's Basketball;The Ivy League;19;974;0.9737;17;938;0.9688
-Oral Roberts University;Men's Basketball;The Summit League;14;963;0.9643;13;959;0.96
-Oklahoma State University;Men's Basketball;Big 12 Conference;13;940;0.9231;14;1000;1
-Virginia Polytechnic Institute and State University;Women's Basketball;Atlantic Coast Conference;12;979;1;12;950;1
-Florida State University;Men's Tennis;Atlantic Coast Conference;11;1000;1;11;1000;1
-University of Utah;Men's Tennis;Pac-12 Conference;9;968;1;7;1000;1
-University of Pittsburgh;Men's Soccer;Atlantic Coast Conference;18;986;1;18;969;0.9688
-West Virginia University;Women's Soccer;Big 12 Conference;21;986;1;20;971;0.9444
-Brown University;Women's Basketball;The Ivy League;13;1000;1;17;1000;1
-University of Notre Dame;Women's Basketball;Atlantic Coast Conference;13;1000;1;12;1000;1
-Wake Forest University;Men's Tennis;Atlantic Coast Conference;6;958;1;4;938;1
-Princeton University;Men's Ice Hockey;The Ivy League;28;1000;1;25;1000;1
-University of South Dakota;Men's Basketball;The Summit League;14;946;0.9643;13;960;0.9615
-University of Nebraska Omaha;Men's Ice Hockey;The Summit League;24;979;0.9792;25;947;0.9583
-Indiana University-Purdue University at Indianapolis;Men's Soccer;The Summit League;17;964;1;21;988;1
-University of Pittsburgh;Men's Basketball;Atlantic Coast Conference;11;1000;1;13;960;1
-Princeton University;Women's Ice Hockey;The Ivy League;21;1000;1;19;1000;1
-University of Iowa;Men's Basketball;Big Ten Conference;13;942;0.9615;11;1000;1
-Boston College;Men's Tennis;Atlantic Coast Conference;10;974;1;10;1000;1
-Rutgers, The State University of New Jersey, New Brunswick;Men's Basketball;Big Ten Conference;12;932;0.9565;14;1000;1
-Oregon State University;Men's Basketball;Pac-12 Conference;14;907;0.9259;12;1000;0.9556
-University of Maryland, College Park;Women's Soccer;Big Ten Conference;24;1000;1;26;967;1
-Duke University;Women's Basketball;Atlantic Coast Conference;14;981;1;11;976;1
-Boston College;Women's Skiing;Atlantic Coast Conference;5;1000;1;7;1000;1
-University of Washington;Women's Soccer;Pac-12 Conference;29;1000;1;24;1000;1
-University of California, Berkeley;Men's Soccer;Pac-12 Conference;28;949;0.9608;24;947;0.9167
-Purdue University;Men's Basketball;Big Ten Conference;13;1000;1;13;960;0.96
-The Ohio State University;Women's Tennis;Big Ten Conference;11;1000;1;10;1000;1
-Pennsylvania State University;Men's Ice Hockey;Big Ten Conference;20;962;0.9744;-99;-99;-99
-The Ohio State University;Men's Soccer;Big Ten Conference;26;957;0.9565;26;977;0.9778
-Baylor University;Women's Soccer;Big 12 Conference;28;1000;1;27;1000;1
-Oral Roberts University;Women's Basketball;The Summit League;14;923;0.9615;13;941;0.9615
-Purdue University;Men's Tennis;Big Ten Conference;9;1000;1;9;941;1
-University of Denver;Women's Soccer;The Summit League;22;988;1;22;1000;1
-Northwestern University;Women's Tennis;Big Ten Conference;9;1000;1;8;1000;1
-University of Louisville;Women's Soccer;Atlantic Coast Conference;25;1000;1;24;966;0.9778
-Western Illinois University;Women's Soccer;The Summit League;30;991;0.9828;28;1000;1
+School;Sport;Conference;Athletes ;Score;Eligibility;PreviousAthletes;PreviousScore;PreviousEligibility;Zufallszahl
+Georgia Institute of Technology;Women's Tennis;Atlantic Coast Conference;8;933;0.9333;9;1000;1;0,92075829
+Stanford University;Men's Soccer;Pac-12 Conference;17;1000;1;21;988;0.975;0,570451908
+Princeton University;Women's Soccer;The Ivy League;25;1000;1;22;988;0.9767;0,643915275
+Oklahoma State University;Men's Basketball;Big 12 Conference;13;940;0.9231;14;1000;1;0,984462436
+Clemson University;Men's Tennis;Atlantic Coast Conference;15;982;1;11;947;1;0,64374597
+Brown University;Men's Basketball;The Ivy League;14;964;0.9286;10;950;1;0,122251811
+University of Minnesota, Twin Cities;Women's Ice Hockey;Big Ten Conference;21;1000;1;23;989;1;0,096853383
+Western Illinois University;Women's Tennis;The Summit League;7;893;0.9286;-99;-99;-99;0,278799652
+Indiana University-Purdue University at Indianapolis;Men's Soccer;The Summit League;17;964;1;21;988;1;0,557301751
+Syracuse University;Women's Basketball;Atlantic Coast Conference;16;1000;1;13;1000;1;0,882790412
+Boston College;Men's Skiing;Atlantic Coast Conference;6;1000;1;4;1000;1;0,906773319
+University of Wisconsin, Madison;Women's Ice Hockey;Big Ten Conference;25;1000;1;25;966;0.9778;0,29845281
+Boston College;Men's Basketball;Atlantic Coast Conference;13;1000;1;11;977;1;0,201840393
+University of California, Los Angeles;Men's Soccer;Pac-12 Conference;20;1000;1;25;975;1;0,570195909
+University of North Carolina, Chapel Hill;Men's Soccer;Atlantic Coast Conference;19;1000;1;24;892;0.9211;0,799657977
+Boston College;Women's Ice Hockey;Atlantic Coast Conference;18;1000;1;19;1000;1;0,529506237
+Clemson University;Women's Tennis;Atlantic Coast Conference;7;1000;1;8;933;1;0,714974653
+University of Maryland, College Park;Women's Tennis;Big Ten Conference;8;1000;1;7;958;1;0,420020602
+University of Texas at Austin;Women's Basketball;Big 12 Conference;17;1000;1;14;1000;1;0,083747036
+Cornell University;Women's Soccer;The Ivy League;19;1000;1;27;1000;1;0,863205683
+Brown University;Women's Basketball;The Ivy League;13;1000;1;17;1000;1;0,441653852
+Northwestern University;Men's Tennis;Big Ten Conference;9;1000;1;10;1000;1;0,557698711
+Syracuse University;Women's Tennis;Atlantic Coast Conference;8;1000;1;8;1000;1;0,346137581
+University of Washington;Women's Tennis;Pac-12 Conference;8;969;1;8;1000;1;0,021098743
+University of Wisconsin, Madison;Women's Basketball;Big Ten Conference;15;983;0.9655;14;1000;1;0,011489963
+Indiana University, Bloomington;Men's Tennis;Big Ten Conference;8;966;1;9;1000;1;0,765774299
+Oregon State University;Men's Soccer;Pac-12 Conference;19;969;0.971;20;985;1;0,908536777
+University of Pittsburgh;Women's Soccer;Atlantic Coast Conference;22;1000;1;22;976;0.9756;0,02465775
+Brown University;Men's Tennis;The Ivy League;11;1000;1;12;1000;1;0,292915728
+University of Arizona;Women's Basketball;Pac-12 Conference;14;958;1;14;936;0.92;0,635930131
+Harvard University;Women's Ice Hockey;The Ivy League;18;1000;1;20;1000;1;0,418358209
+Texas Tech University;Women's Soccer;Big 12 Conference;28;1000;1;28;1000;1;0,405385708
+Dartmouth College;Women's Basketball;The Ivy League;15;1000;1;10;1000;1;0,997589827
+University of Wisconsin, Madison;Men's Ice Hockey;Big Ten Conference;26;960;0.9615;28;990;1;0,461056583
+University of Oregon;Women's Tennis;Pac-12 Conference;11;975;1;10;1000;1;0,539968543
+University of Illinois, Champaign;Men's Basketball;Big Ten Conference;13;1000;1;13;980;1;0,79995609
+Western Illinois University;Men's Soccer;The Summit League;23;1000;1;28;961;0.9608;0,214817868
+Purdue University;Women's Basketball;Big Ten Conference;12;1000;1;14;982;0.9643;0,392613501
+University of Miami (Florida);Women's Soccer;Atlantic Coast Conference;21;1000;1;28;978;1;0,827821265
+Indiana University-Purdue University, Fort Wayne;Women's Soccer;The Summit League;24;956;0.9787;23;978;0.9783;0,815033179
+Washington State University;Men's Basketball;Pac-12 Conference;14;963;0.963;14;962;0.9615;0,99653389
+Baylor University;Men's Tennis;Big 12 Conference;12;929;0.9546;10;944;0.9444;0,714777312
+University of Denver;Women's Basketball;The Summit League;15;1000;1;12;1000;1;0,11309509
+Boston College;Women's Tennis;Atlantic Coast Conference;8;1000;1;8;966;1;0,224722506
+University of Nebraska Omaha;Men's Soccer;The Summit League;17;1000;1;10;917;1;0,220205157
+Oral Roberts University;Men's Soccer;The Summit League;21;988;0.9762;20;958;0.9737;0,642287203
+University of Colorado, Boulder;Men's Basketball;Pac-12 Conference;13;959;0.96;12;979;1;0,040297759
+University of Louisville;Women's Basketball;Atlantic Coast Conference;14;1000;1;17;1000;1;0,658986008
+Florida State University;Women's Tennis;Atlantic Coast Conference;9;970;1;9;1000;1;0,444373839
+Boston College;Women's Basketball;Atlantic Coast Conference;14;982;1;12;936;0.9583;0,223983725
+University of Oklahoma;Women's Soccer;Big 12 Conference;30;971;0.9815;26;990;0.9796;0,763614229
+University of North Carolina, Chapel Hill;Men's Basketball;Atlantic Coast Conference;13;1000;1;13;959;0.9615;0,005483404
+University of Nebraska, Lincoln;Men's Tennis;Big Ten Conference;12;1000;1;11;952;1;0,338711874
+West Virginia University;Women's Soccer;Big 12 Conference;21;986;1;20;971;0.9444;0,736011337
+Columbia University-Barnard College;Men's Tennis;The Ivy League;9;1000;1;9;1000;1;0,262889694
+Yale University;Women's Basketball;The Ivy League;15;1000;1;12;978;1;0,721315061
+Western Illinois University;Men's Tennis;The Summit League;7;962;0.9286;9;967;1;0,071950326
+Princeton University;Women's Basketball;The Ivy League;14;1000;1;13;1000;1;0,329059075
+Yale University;Men's Soccer;The Ivy League;19;1000;1;27;989;1;0,692630647
+Arizona State University;Men's Basketball;Pac-12 Conference;13;1000;1;12;1000;1;0,848554903
+Purdue University;Women's Soccer;Big Ten Conference;23;978;0.9783;22;1000;0.9773;0,584623116
+Indiana University, Bloomington;Women's Soccer;Big Ten Conference;28;1000;1;32;1000;1;0,682391924
+Michigan State University;Men's Ice Hockey;Big Ten Conference;22;988;1;22;1000;0.9773;0,040498358
+University of Pittsburgh;Women's Basketball;Atlantic Coast Conference;12;958;0.9583;11;1000;1;0,389881652
+Boston College;Women's Soccer;Atlantic Coast Conference;20;1000;1;16;1000;1;0,793171043
+University of Iowa;Women's Basketball;Big Ten Conference;14;963;0.963;15;983;0.9667;0,753490805
+Boston College;Men's Ice Hockey;Atlantic Coast Conference;18;1000;1;18;1000;1;0,828206149
+University of Utah;Men's Skiing;Pac-12 Conference;12;977;1;10;950;0.95;0,100206364
+Virginia Polytechnic Institute and State University;Women's Tennis;Atlantic Coast Conference;8;1000;1;9;972;0.9444;0,863022009
+Wake Forest University;Men's Basketball;Atlantic Coast Conference;13;1000;1;9;943;1;0,315109692
+University of Notre Dame;Women's Basketball;Atlantic Coast Conference;13;1000;1;12;1000;1;0,595193724
+North Dakota State University;Women's Soccer;The Summit League;22;988;1;23;989;1;0,276139083
+Cornell University;Men's Ice Hockey;The Ivy League;25;970;0.98;20;1000;1;0,254158641
+University of California, Berkeley;Women's Tennis;Pac-12 Conference;9;1000;1;8;1000;1;0,085358025
+Syracuse University;Women's Soccer;Atlantic Coast Conference;17;1000;1;18;1000;1;0,338799474
+The Ohio State University;Men's Ice Hockey;Big Ten Conference;27;990;1;22;1000;1;0,418649514
+Brown University;Women's Tennis;The Ivy League;9;1000;1;12;1000;1;0,729046845
+South Dakota State University;Women's Soccer;The Summit League;29;982;0.9821;25;990;0.9796;0,469453226
+University of Washington;Men's Soccer;Pac-12 Conference;20;986;0.9737;22;972;0.973;0,476679713
+University of Oklahoma;Women's Tennis;Big 12 Conference;8;1000;1;8;1000;1;0,951412449
+Pennsylvania State University;Women's Soccer;Big Ten Conference;20;971;1;18;1000;1;0,057324589
+Indiana University-Purdue University, Fort Wayne;Men's Tennis;The Summit League;9;971;1;8;1000;1;0,867742726
+West Virginia University;Men's Soccer;Big 12 Conference;21;975;1;19;968;1;0,500009982
+Kansas State University;Men's Basketball;Big 12 Conference;13;981;0.9615;13;981;1;0,399898046
+Northwestern University;Women's Soccer;Big Ten Conference;29;1000;1;26;1000;1;0,274364834
+North Carolina State University;Women's Soccer;Atlantic Coast Conference;24;1000;1;23;1000;1;0,95566198
+University of Wisconsin, Madison;Men's Tennis;Big Ten Conference;10;1000;1;8;900;1;0,506445201
+University of Texas at Austin;Women's Tennis;Big 12 Conference;9;1000;1;8;968;1;0,070756219
+University of Denver;Men's Basketball;The Summit League;13;962;1;13;1000;1;0,625186477
+Indiana University-Purdue University at Indianapolis;Men's Tennis;The Summit League;10;943;0.9444;11;1000;1;0,758542761
+North Dakota State University;Women's Basketball;The Summit League;16;983;1;14;982;0.9643;0,869570704
+Indiana University, Bloomington;Men's Basketball;Big Ten Conference;13;978;1;13;1000;1;0,346502495
+Oral Roberts University;Women's Tennis;The Summit League;7;1000;1;8;1000;1;0,393379471
+Wake Forest University;Women's Tennis;Atlantic Coast Conference;8;1000;1;8;967;1;0,785303267
+Dartmouth College;Women's Skiing;The Ivy League;20;1000;1;21;1000;1;0,011714257
+The Ohio State University;Women's Ice Hockey;Big Ten Conference;22;1000;1;30;991;0.9826;0,857528841
+Cornell University;Men's Basketball;The Ivy League;45;994;1;18;1000;1;0,341843776
+University of Illinois, Champaign;Women's Tennis;Big Ten Conference;8;1000;1;8;1000;1;0,066123856
+University of Arizona;Women's Tennis;Pac-12 Conference;8;1000;1;8;1000;1;0,7934603
+Brown University;Men's Ice Hockey;The Ivy League;25;1000;1;30;1000;1;0,671161632
+University of North Carolina, Chapel Hill;Women's Soccer;Atlantic Coast Conference;24;987;0.9756;20;1000;1;0,446894073
+University of Michigan;Men's Ice Hockey;Big Ten Conference;23;1000;1;19;1000;1;0,646630659
+University of Denver;Women's Skiing;The Summit League;11;977;1;11;988;0.9767;0,347370521
+Oregon State University;Women's Soccer;Pac-12 Conference;23;987;1;25;989;1;0,730487312
+Baylor University;Men's Basketball;Big 12 Conference;13;1000;1;12;1000;1;0,448179006
+University of Miami (Florida);Women's Basketball;Atlantic Coast Conference;13;980;1;15;965;0.9655;0,18693667
+Purdue University;Women's Tennis;Big Ten Conference;10;1000;1;9;1000;1;0,982798993
+Harvard University;Women's Soccer;The Ivy League;20;1000;1;22;1000;1;0,413560004
+University of Louisville;Men's Soccer;Atlantic Coast Conference;23;974;0.975;30;969;0.96;0,273313552
+Duke University;Men's Soccer;Atlantic Coast Conference;12;1000;1;11;1000;1;0,356405839
+University of Utah;Men's Tennis;Pac-12 Conference;9;968;1;7;1000;1;0,086742321
+University of Nebraska Omaha;Women's Tennis;The Summit League;8;1000;1;7;1000;1;0,415460008
+Michigan State University;Women's Soccer;Big Ten Conference;25;1000;1;25;979;0.9787;0,06701481
+Baylor University;Women's Tennis;Big 12 Conference;10;1000;1;11;976;1;0,08051275
+University of Oregon;Women's Soccer;Pac-12 Conference;24;1000;1;22;1000;1;0,549185389
+University of Notre Dame;Men's Ice Hockey;Atlantic Coast Conference;21;988;0.9762;21;964;0.9762;0,424399026
+Pennsylvania State University;Women's Tennis;Big Ten Conference;8;967;1;8;1000;1;0,784288048
+Columbia University-Barnard College;Women's Soccer;The Ivy League;20;1000;1;22;1000;1;0,81099503
+University of Wisconsin, Madison;Women's Tennis;Big Ten Conference;9;968;1;8;1000;1;0,527300504
+Western Illinois University;Men's Basketball;The Summit League;12;932;1;11;952;1;0,521711132
+University of South Dakota;Women's Soccer;The Summit League;28;981;1;25;990;1;0,80070889
+University of South Dakota;Women's Tennis;The Summit League;9;875;0.875;8;969;0.9375;0,625218093
+Texas Christian University;Men's Tennis;Big 12 Conference;9;966;1;11;1000;1;0,463672389
+University of California, Los Angeles;Women's Soccer;Pac-12 Conference;24;956;0.9556;24;988;1;0,334698304
+University of Illinois, Champaign;Men's Tennis;Big Ten Conference;9;1000;1;7;1000;1;0,24420596
+University of Texas at Austin;Men's Tennis;Big 12 Conference;10;1000;1;11;1000;1;0,248692758
+University of Nebraska, Lincoln;Women's Basketball;Big Ten Conference;13;1000;1;16;1000;1;0,827350806
+University of Nebraska, Lincoln;Women's Tennis;Big Ten Conference;9;1000;1;9;971;1;0,201605317
+Oral Roberts University;Women's Soccer;The Summit League;28;944;0.9444;20;961;0.9231;0,900674068
+Northwestern University;Men's Basketball;Big Ten Conference;12;932;0.9565;12;979;0.9583;0,106233752
+Pennsylvania State University;Men's Soccer;Big Ten Conference;21;986;1;19;944;0.9167;0,48179423
+Duke University;Men's Basketball;Atlantic Coast Conference;13;979;0.96;14;1000;1;0,892536991
+University of Nebraska Omaha;Women's Basketball;The Summit League;13;1000;1;13;979;1;0,817887519
+Columbia University-Barnard College;Men's Basketball;The Ivy League;15;1000;1;15;950;0.9667;0,896687086
+The Ohio State University;Women's Tennis;Big Ten Conference;11;1000;1;10;1000;1;0,069846875
+Stanford University;Women's Soccer;Pac-12 Conference;25;1000;1;19;1000;1;0,455461108
+Florida State University;Women's Soccer;Atlantic Coast Conference;24;1000;1;21;1000;1;0,085550861
+Yale University;Men's Ice Hockey;The Ivy League;26;980;1;26;1000;1;0,726604692
+Yale University;Men's Basketball;The Ivy League;16;969;1;17;1000;1;0,295782775
+Harvard University;Women's Tennis;The Ivy League;8;1000;1;9;941;0.9412;0,636885805
+Florida State University;Men's Basketball;Atlantic Coast Conference;11;955;0.9546;14;981;0.963;0,016221772
+Texas Tech University;Men's Basketball;Big 12 Conference;12;1000;1;14;961;1;0,624107764
+University of Michigan;Men's Basketball;Big Ten Conference;11;1000;1;13;980;1;0,219567757
+Harvard University;Men's Skiing;The Ivy League;9;1000;1;7;962;1;0,42685496
+University of Illinois, Champaign;Women's Soccer;Big Ten Conference;22;976;1;21;1000;1;0,542286717
+The Ohio State University;Men's Tennis;Big Ten Conference;11;1000;1;13;979;1;0,41247655
+Rutgers, The State University of New Jersey, New Brunswick;Women's Basketball;Big Ten Conference;10;1000;1;13;1000;1;0,196861339
+Princeton University;Men's Basketball;The Ivy League;19;974;0.9737;17;938;0.9688;0,212729667
+Michigan State University;Men's Tennis;Big Ten Conference;9;1000;1;8;1000;1;0,244897603
+Oral Roberts University;Women's Basketball;The Summit League;14;923;0.9615;13;941;0.9615;0,37414481
+Syracuse University;Men's Basketball;Atlantic Coast Conference;13;1000;1;13;878;0.84;0,948136775
+West Virginia University;Women's Tennis;Big 12 Conference;10;1000;1;10;919;0.9474;0,174785976
+Cornell University;Women's Ice Hockey;The Ivy League;21;988;1;19;1000;1;0,697902311
+Rutgers, The State University of New Jersey, New Brunswick;Women's Tennis;Big Ten Conference;8;1000;1;8;938;0.9375;0,293665443
+Indiana University-Purdue University at Indianapolis;Men's Basketball;The Summit League;13;962;0.9615;14;963;0.963;0,373560865
+University of Minnesota, Twin Cities;Women's Basketball;Big Ten Conference;10;1000;1;14;1000;1;0,732347841
+Michigan State University;Women's Basketball;Big Ten Conference;14;960;0.9615;15;965;0.9655;0,704462306
+University of Michigan;Women's Soccer;Big Ten Conference;23;966;0.9556;20;971;1;0,883558546
+University of Notre Dame;Men's Soccer;Atlantic Coast Conference;20;1000;1;22;1000;1;0,410896812
+University of Minnesota, Twin Cities;Men's Basketball;Big Ten Conference;13;1000;0.96;13;981;1;0,773012777
+University of Arizona;Men's Basketball;Pac-12 Conference;11;1000;1;11;1000;1;0,675256344
+University of Maryland, College Park;Men's Soccer;Big Ten Conference;25;976;0.9762;23;951;0.9512;0,238963802
+University of Iowa;Men's Tennis;Big Ten Conference;9;1000;1;13;1000;1;0,078011882
+Arizona State University;Women's Basketball;Pac-12 Conference;14;981;1;13;942;0.9615;0,876053004
+University of Colorado, Boulder;Women's Basketball;Pac-12 Conference;13;1000;1;11;1000;1;0,275110294
+Georgia Institute of Technology;Women's Basketball;Atlantic Coast Conference;14;927;0.9643;15;983;1;0,723406843
+University of Nebraska Omaha;Men's Ice Hockey;The Summit League;24;979;0.9792;25;947;0.9583;0,385115421
+University of Denver;Men's Ice Hockey;The Summit League;20;1000;1;22;1000;1;0,551052897
+Washington State University;Women's Basketball;Pac-12 Conference;12;1000;1;14;1000;1;0,674502891
+University of Kansas;Women's Soccer;Big 12 Conference;20;986;0.973;27;941;0.9216;0,893274577
+University of Southern California;Men's Tennis;Pac-12 Conference;7;1000;1;9;889;0.9286;0,997243767
+University of Michigan;Women's Tennis;Big Ten Conference;8;1000;1;9;1000;1;0,416679191
+University of Utah;Women's Skiing;Pac-12 Conference;12;977;1;10;974;1;0,890482691
+Baylor University;Women's Basketball;Big 12 Conference;13;980;1;14;1000;1;0,913906478
+University of Wisconsin, Madison;Women's Soccer;Big Ten Conference;25;945;0.9556;27;989;1;0,230506174
+University of Pittsburgh;Men's Soccer;Atlantic Coast Conference;18;986;1;18;969;0.9688;0,75530423
+Brown University;Men's Soccer;The Ivy League;24;1000;1;27;1000;1;0,850228855
+Harvard University;Men's Soccer;The Ivy League;23;966;0.9767;21;976;1;0,178510542
+Princeton University;Men's Tennis;The Ivy League;10;974;1;11;1000;1;0,508991142
+West Virginia University;Men's Basketball;Big 12 Conference;11;976;1;13;1000;1;0,422593889
+University of Virginia;Men's Soccer;Atlantic Coast Conference;14;941;0.963;16;957;1;0,154105428
+Indiana University-Purdue University, Fort Wayne;Women's Basketball;The Summit League;14;964;0.9643;13;1000;1;0,010284124
+Indiana University, Bloomington;Men's Soccer;Big Ten Conference;28;1000;1;24;1000;1;0,824361341
+Columbia University-Barnard College;Men's Soccer;The Ivy League;24;989;1;19;973;1;0,922214088
+Wake Forest University;Men's Soccer;Atlantic Coast Conference;22;1000;1;16;1000;1;0,230166843
+University of Southern California;Men's Basketball;Pac-12 Conference;14;944;0.9259;13;939;0.96;0,618069408
+Boston College;Men's Tennis;Atlantic Coast Conference;10;974;1;10;1000;1;0,766798721
+Syracuse University;Women's Ice Hockey;Atlantic Coast Conference;18;1000;1;20;944;0.973;0,903806512
+University of Virginia;Women's Soccer;Atlantic Coast Conference;22;974;1;22;1000;1;0,874993302
+Iowa State University;Women's Soccer;Big 12 Conference;26;990;1;29;1000;1;0,808453384
+University of Notre Dame;Women's Tennis;Atlantic Coast Conference;8;1000;1;7;1000;1;0,624081127
+Pennsylvania State University;Women's Basketball;Big Ten Conference;15;964;0.9643;12;978;0.9565;0,934667803
+University of Oregon;Men's Basketball;Pac-12 Conference;13;905;0.9565;13;952;1;0,034790178
+University of Colorado, Boulder;Women's Tennis;Pac-12 Conference;9;969;1;9;966;1;0,96880067
+Texas Tech University;Women's Basketball;Big 12 Conference;15;942;1;14;981;1;0,756627803
+University of Denver;Women's Soccer;The Summit League;22;988;1;22;1000;1;0,629198674
+University of Louisville;Women's Tennis;Atlantic Coast Conference;9;1000;1;8;1000;1;0,268116922
+South Dakota State University;Men's Tennis;The Summit League;6;1000;1;5;1000;1;0,312539342
+University of Colorado, Boulder;Women's Soccer;Pac-12 Conference;23;988;1;20;975;1;0,21828472
+University of Washington;Men's Basketball;Pac-12 Conference;13;979;1;15;1000;1;0,319652424
+Michigan State University;Women's Tennis;Big Ten Conference;11;1000;1;8;900;0.9333;0,337118262
+The Ohio State University;Men's Soccer;Big Ten Conference;26;957;0.9565;26;977;0.9778;0,094147794
+University of Denver;Women's Tennis;The Summit League;8;933;1;8;931;1;0,887516564
+Oregon State University;Men's Basketball;Pac-12 Conference;14;907;0.9259;12;1000;0.9556;0,471054148
+Arizona State University;Women's Tennis;Pac-12 Conference;9;1000;1;8;1000;1;0,58889167
+University of Utah;Women's Basketball;Pac-12 Conference;15;983;1;13;941;0.96;0,586089208
+University of Washington;Women's Basketball;Pac-12 Conference;12;1000;1;16;969;0.9688;0,568140325
+Northwestern University;Women's Tennis;Big Ten Conference;9;1000;1;8;1000;1;0,579815333
+Dartmouth College;Women's Tennis;The Ivy League;9;1000;1;10;1000;1;0,165512278
+Stanford University;Men's Basketball;Pac-12 Conference;14;1000;1;13;1000;1;0,556168692
+Virginia Polytechnic Institute and State University;Men's Soccer;Atlantic Coast Conference;24;900;0.9524;26;968;0.9583;0,129705881
+University of North Carolina, Chapel Hill;Women's Tennis;Atlantic Coast Conference;8;1000;1;8;1000;1;0,030906957
+Florida State University;Men's Tennis;Atlantic Coast Conference;11;1000;1;11;1000;1;0,744258968
+Virginia Polytechnic Institute and State University;Women's Soccer;Atlantic Coast Conference;20;1000;1;21;988;1;0,652800963
+Yale University;Women's Tennis;The Ivy League;8;1000;1;8;1000;1;0,571660481
+University of California, Los Angeles;Women's Tennis;Pac-12 Conference;9;971;1;8;1000;1;0,955088927
+University of Oklahoma;Men's Basketball;Big 12 Conference;13;958;1;12;1000;1;0,473996984
+Texas Christian University;Women's Soccer;Big 12 Conference;22;988;1;25;989;1;0,432629223
+Rutgers, The State University of New Jersey, New Brunswick;Women's Soccer;Big Ten Conference;22;1000;1;20;957;0.9714;0,856439583
+University of California, Berkeley;Men's Soccer;Pac-12 Conference;28;949;0.9608;24;947;0.9167;0,140667004
+Pennsylvania State University;Men's Tennis;Big Ten Conference;9;1000;1;10;1000;1;0,878854343
+Princeton University;Men's Ice Hockey;The Ivy League;28;1000;1;25;1000;1;0,99654841
+Texas Tech University;Women's Tennis;Big 12 Conference;10;1000;1;9;1000;1;0,867540422
+Purdue University;Men's Tennis;Big Ten Conference;9;1000;1;9;941;1;0,698737739
+Indiana University-Purdue University, Fort Wayne;Women's Tennis;The Summit League;7;1000;1;8;929;1;0,530283202
+Duke University;Women's Tennis;Atlantic Coast Conference;10;1000;1;10;1000;1;0,747119007
+Purdue University;Men's Basketball;Big Ten Conference;13;1000;1;13;960;0.96;0,51892949
+University of California, Berkeley;Women's Soccer;Pac-12 Conference;26;971;0.9808;31;1000;1;0,249485635
+University of Texas at Austin;Women's Soccer;Big 12 Conference;22;988;1;20;1000;1;0,271806434
+Harvard University;Women's Skiing;The Ivy League;8;1000;1;10;974;1;0,533240249
+Virginia Polytechnic Institute and State University;Men's Basketball;Atlantic Coast Conference;13;936;0.9167;14;940;0.9231;0,2895613
+Boston College;Women's Skiing;Atlantic Coast Conference;5;1000;1;7;1000;1;0,910367707
+The Ohio State University;Women's Soccer;Big Ten Conference;24;989;1;24;1000;1;0,460620617
+Clemson University;Women's Basketball;Atlantic Coast Conference;14;980;1;12;977;1;0,786299335
+University of Pennsylvania;Men's Tennis;The Ivy League;10;1000;1;12;1000;1;0,536789832
+University of Minnesota, Twin Cities;Women's Tennis;Big Ten Conference;9;1000;1;10;1000;1;0,503434683
+Cornell University;Women's Basketball;The Ivy League;13;1000;1;14;1000;1;0,289184799
+University of Iowa;Women's Soccer;Big Ten Conference;23;989;1;22;1000;1;0,432513651
+University of Miami (Florida);Women's Tennis;Atlantic Coast Conference;9;1000;1;8;962;1;0,698545947
+Indiana University-Purdue University at Indianapolis;Women's Basketball;The Summit League;15;1000;1;12;1000;1;0,919127613
+University of Virginia;Women's Tennis;Atlantic Coast Conference;8;1000;1;8;1000;1;0,062762521
+Indiana University-Purdue University, Fort Wayne;Men's Soccer;The Summit League;20;961;0.9744;21;922;0.8462;0,650008846
+University of Kansas;Women's Basketball;Big 12 Conference;12;957;1;13;938;0.9583;0,735949374
+University of Nebraska Omaha;Men's Tennis;The Summit League;10;973;1;12;917;0.9167;0,883013428
+Dartmouth College;Men's Skiing;The Ivy League;21;1000;1;21;1000;1;0,819684021
+Princeton University;Women's Ice Hockey;The Ivy League;21;1000;1;19;1000;1;0,883985412
+University of Pittsburgh;Women's Tennis;Atlantic Coast Conference;9;1000;1;8;1000;1;0,390383697
+University of Notre Dame;Men's Basketball;Atlantic Coast Conference;13;917;0.9167;12;1000;1;0,439236995
+Brown University;Women's Skiing;The Ivy League;7;1000;1;6;1000;1;0,115236605
+University of Michigan;Women's Basketball;Big Ten Conference;11;1000;1;14;1000;1;0,463282589
+Indiana University-Purdue University at Indianapolis;Women's Tennis;The Summit League;7;1000;1;8;969;0.9375;0,428095176
+Georgia Institute of Technology;Men's Basketball;Atlantic Coast Conference;13;960;1;12;1000;1;0,618564857
+Dartmouth College;Men's Basketball;The Ivy League;15;1000;1;14;1000;1;0,72060792
+University of Wisconsin, Madison;Men's Basketball;Big Ten Conference;14;1000;1;13;1000;1;0,08074376
+University of Nebraska Omaha;Women's Soccer;The Summit League;21;1000;1;17;984;1;0,537172554
+University of Louisville;Women's Soccer;Atlantic Coast Conference;25;1000;1;24;966;0.9778;0,540253274
+The Ohio State University;Men's Basketball;Big Ten Conference;11;976;0.9524;13;957;1;0,808893173
+University of Louisville;Men's Tennis;Atlantic Coast Conference;13;1000;1;16;948;0.931;0,315500268
+University of California, Berkeley;Women's Basketball;Pac-12 Conference;13;940;0.96;13;960;1;0,832520199
+Cornell University;Men's Tennis;The Ivy League;12;1000;1;11;953;0.9524;0,350211343
+University of Denver;Men's Skiing;The Summit League;8;1000;1;10;1000;1;0,832046615
+South Dakota State University;Women's Tennis;The Summit League;8;1000;1;7;1000;1;0,526981535
+University of South Dakota;Women's Basketball;The Summit League;14;962;1;14;1000;1;0,204012999
+University of Virginia;Women's Basketball;Atlantic Coast Conference;13;979;1;13;1000;1;0,445323213
+University of Nebraska Omaha;Men's Basketball;The Summit League;13;980;1;12;917;1;0,254411246
+Boston College;Men's Soccer;Atlantic Coast Conference;12;1000;1;12;950;0.95;0,069088579
+Pennsylvania State University;Men's Ice Hockey;Big Ten Conference;20;962;0.9744;-99;-99;-99;0,912378082
+Stanford University;Men's Tennis;Pac-12 Conference;8;1000;1;8;1000;1;0,523049819
+Oklahoma State University;Women's Soccer;Big 12 Conference;24;1000;1;23;1000;1;0,172744223
+University of Pennsylvania;Women's Basketball;The Ivy League;15;1000;1;14;981;1;0,350601429
+Columbia University-Barnard College;Women's Tennis;The Ivy League;10;1000;1;12;1000;1;0,678062503
+Western Illinois University;Women's Soccer;The Summit League;30;991;0.9828;28;1000;1;0,986092179
+Northwestern University;Men's Soccer;Big Ten Conference;23;1000;1;24;977;0.9775;0,933158046
+North Carolina State University;Men's Basketball;Atlantic Coast Conference;12;957;0.9583;12;1000;1;0,681028805
+Rutgers, The State University of New Jersey, New Brunswick;Men's Basketball;Big Ten Conference;12;932;0.9565;14;1000;1;0,09372269
+Harvard University;Men's Basketball;The Ivy League;17;985;1;17;939;1;0,820044196
+Yale University;Women's Ice Hockey;The Ivy League;22;1000;1;24;989;1;0,58862155
+University of Minnesota, Twin Cities;Men's Tennis;Big Ten Conference;9;1000;1;10;1000;1;0,20778743
+Wake Forest University;Women's Soccer;Atlantic Coast Conference;20;974;0.9737;22;976;1;0,15913245
+The Ohio State University;Women's Basketball;Big Ten Conference;15;1000;1;15;921;0.8793;0,696286251
+University of Utah;Women's Tennis;Pac-12 Conference;8;1000;1;9;1000;1;0,471548599
+University of California, Los Angeles;Women's Basketball;Pac-12 Conference;13;971;0.9423;13;1000;1;0,68469789
+University of California, Berkeley;Men's Basketball;Pac-12 Conference;13;942;0.9231;14;961;0.9231;0,86947844
+West Virginia University;Women's Basketball;Big 12 Conference;14;1000;1;12;1000;1;0,700589363
+University of Pittsburgh;Men's Basketball;Atlantic Coast Conference;11;1000;1;13;960;1;0,99462008
+University of Arizona;Women's Soccer;Pac-12 Conference;28;973;0.9821;26;979;0.9796;0,69403991
+Syracuse University;Men's Soccer;Atlantic Coast Conference;14;962;0.9615;15;1000;1;0,413502725
+Cornell University;Men's Soccer;The Ivy League;16;1000;1;16;917;0.9333;0,446926391
+North Carolina State University;Women's Basketball;Atlantic Coast Conference;14;1000;1;14;964;0.9286;0,558883419
+Virginia Polytechnic Institute and State University;Men's Tennis;Atlantic Coast Conference;9;967;1;8;967;1;0,877489143
+Texas Christian University;Men's Basketball;Big 12 Conference;14;926;0.9259;13;918;0.88;0,049109419
+Princeton University;Women's Tennis;The Ivy League;10;1000;1;7;1000;1;0,093995597
+Indiana University, Bloomington;Women's Tennis;Big Ten Conference;9;1000;1;9;1000;1;0,209276302
+University of Utah;Men's Basketball;Pac-12 Conference;14;1000;0.9286;13;979;1;0,743569498
+University of Iowa;Men's Basketball;Big Ten Conference;13;942;0.9615;11;1000;1;0,267441553
+South Dakota State University;Women's Basketball;The Summit League;16;1000;1;13;1000;1;0,943445398
+Oregon State University;Women's Basketball;Pac-12 Conference;12;989;0.9783;12;979;1;0,879526204
+University of Minnesota, Twin Cities;Women's Soccer;Big Ten Conference;20;1000;1;23;988;1;0,498041288
+University of North Carolina, Chapel Hill;Women's Basketball;Atlantic Coast Conference;14;982;1;14;981;1;0,711849824
+Cornell University;Women's Tennis;The Ivy League;8;1000;1;8;969;0.9375;0,784096829
+Brown University;Women's Ice Hockey;The Ivy League;22;1000;1;22;1000;1;0,161296708
+Michigan State University;Men's Soccer;Big Ten Conference;23;988;1;23;962;0.95;0,91105495
+South Dakota State University;Men's Basketball;The Summit League;14;963;0.963;12;957;1;0,569306961
+University of Virginia;Men's Basketball;Atlantic Coast Conference;12;979;1;12;976;1;0,981355851
+University of Kansas;Women's Tennis;Big 12 Conference;9;968;1;9;900;0.9333;0,592118265
+University of Colorado, Boulder;Women's Skiing;Pac-12 Conference;11;944;0.9444;12;974;1;0,570482667
+University of Wisconsin, Madison;Men's Soccer;Big Ten Conference;22;987;0.9737;20;972;0.9722;0,536293146
+University of Washington;Men's Tennis;Pac-12 Conference;7;962;1;9;1000;1;0,466614001
+Dartmouth College;Men's Ice Hockey;The Ivy League;26;1000;1;26;1000;1;0,32920248
+Duke University;Women's Soccer;Atlantic Coast Conference;21;1000;1;21;988;1;0,678842511
+Indiana University-Purdue University at Indianapolis;Women's Soccer;The Summit League;25;1000;1;23;1000;1;0,916588426
+Oklahoma State University;Men's Tennis;Big 12 Conference;10;1000;1;8;963;1;0,27799007
+Texas Christian University;Women's Tennis;Big 12 Conference;11;1000;1;8;969;0.9375;0,54062117
+Indiana University, Bloomington;Women's Basketball;Big Ten Conference;14;1000;1;14;981;1;0,78230219
+Georgia Institute of Technology;Men's Tennis;Atlantic Coast Conference;8;1000;1;11;971;1;0,970850001
+Rutgers, The State University of New Jersey, New Brunswick;Men's Soccer;Big Ten Conference;19;984;1;18;984;1;0,896981041
+University of South Dakota;Men's Basketball;The Summit League;14;946;0.9643;13;960;0.9615;0,325622817
+University of Pennsylvania;Men's Soccer;The Ivy League;19;958;0.9722;20;972;0.973;0,888453659
+University of Denver;Men's Soccer;The Summit League;22;1000;1;21;986;1;0,945001409
+Duke University;Men's Tennis;Atlantic Coast Conference;9;1000;1;9;1000;1;0,781983191
+Duke University;Women's Basketball;Atlantic Coast Conference;14;981;1;11;976;1;0,691421305
+University of California, Los Angeles;Men's Tennis;Pac-12 Conference;9;1000;1;11;943;1;0,976170994
+Clemson University;Women's Soccer;Atlantic Coast Conference;31;991;1;24;967;1;0,874367177
+Virginia Polytechnic Institute and State University;Women's Basketball;Atlantic Coast Conference;12;979;1;12;950;1;0,938860967
+University of Louisville;Men's Basketball;Atlantic Coast Conference;13;1000;1;13;1000;1;0,580331247
+University of Pennsylvania;Men's Basketball;The Ivy League;16;953;0.9688;16;1000;1;0,207422347
+Pennsylvania State University;Women's Ice Hockey;Big Ten Conference;21;1000;1;-99;-99;-99;0,633281031
+University of Virginia;Men's Tennis;Atlantic Coast Conference;12;1000;1;8;1000;1;0,593588801
+Baylor University;Women's Soccer;Big 12 Conference;28;1000;1;27;1000;1;0,181881508
+University of Southern California;Women's Tennis;Pac-12 Conference;8;1000;1;10;971;1;0,483881328
+Washington State University;Women's Tennis;Pac-12 Conference;8;931;0.9333;8;1000;1;0,771384643
+Texas Tech University;Men's Tennis;Big 12 Conference;10;969;1;8;923;0.8462;0,501273296
+University of North Carolina, Chapel Hill;Men's Tennis;Atlantic Coast Conference;11;1000;1;8;1000;1;0,591659202
+Northwestern University;Women's Basketball;Big Ten Conference;14;1000;1;14;1000;1;0,029636873
+North Carolina State University;Men's Tennis;Atlantic Coast Conference;9;1000;1;10;1000;1;0,36298937
+Stanford University;Women's Tennis;Pac-12 Conference;8;1000;1;11;1000;1;0,234831511
+University of Oklahoma;Men's Tennis;Big 12 Conference;10;1000;1;9;1000;0.9412;0,071204875
+Kansas State University;Women's Tennis;Big 12 Conference;10;1000;1;9;969;1;0,487023784
+University of Colorado, Boulder;Men's Skiing;Pac-12 Conference;9;1000;1;9;941;1;0,172788589
+University of Maryland, College Park;Men's Basketball;Big Ten Conference;13;941;1;11;881;0.9048;0,377687906
+Yale University;Women's Soccer;The Ivy League;21;1000;1;23;1000;1;0,496800038
+University of Illinois, Champaign;Women's Basketball;Big Ten Conference;16;1000;1;15;949;0.9333;0,712312865
+University of Maryland, College Park;Women's Basketball;Big Ten Conference;14;1000;1;13;942;0.9615;0,794235165
+Oral Roberts University;Men's Basketball;The Summit League;14;963;0.9643;13;959;0.96;0,098137935
+University of Oregon;Women's Basketball;Pac-12 Conference;14;982;0.9643;14;1000;1;0,671139133
+Harvard University;Men's Tennis;The Ivy League;12;1000;1;11;976;1;0,366471056
+University of Notre Dame;Women's Soccer;Atlantic Coast Conference;21;1000;1;19;959;0.946;0,86263247
+University of Texas at Austin;Men's Basketball;Big 12 Conference;13;1000;1;11;1000;0.9546;0,526260234
+Brown University;Women's Soccer;The Ivy League;29;1000;1;27;1000;1;0,905335398
+Stanford University;Women's Basketball;Pac-12 Conference;17;1000;1;16;1000;1;0,599219287
+Iowa State University;Women's Tennis;Big 12 Conference;11;976;1;9;1000;1;0,729701377
+Yale University;Men's Tennis;The Ivy League;9;1000;1;12;1000;1;0,973298854
+Washington State University;Women's Soccer;Pac-12 Conference;28;990;1;22;989;1;0,28168583
+University of Utah;Women's Soccer;Pac-12 Conference;26;990;1;25;949;0.9592;0,744645104
+University of Pennsylvania;Women's Soccer;The Ivy League;22;989;0.9773;23;1000;1;0,66621243
+University of Minnesota, Twin Cities;Men's Ice Hockey;Big Ten Conference;25;990;0.9796;24;1000;1;0,082043519
+University of Nebraska, Lincoln;Women's Soccer;Big Ten Conference;25;989;1;27;980;1;0,301659702
+Indiana University-Purdue University, Fort Wayne;Men's Basketball;The Summit League;14;964;0.9643;13;1000;1;0,284573589
+Dartmouth College;Men's Soccer;The Ivy League;27;1000;1;27;1000;1;0,983723071
+Oral Roberts University;Men's Tennis;The Summit League;9;1000;1;6;882;0.7778;0,801198334
+Western Illinois University;Women's Basketball;The Summit League;13;1000;1;14;1000;1;0,392951384
+University of Nebraska, Lincoln;Men's Basketball;Big Ten Conference;13;958;0.96;13;940;0.9615;0,727777037
+University of Notre Dame;Men's Tennis;Atlantic Coast Conference;12;1000;1;11;1000;1;0,830545023
+Michigan State University;Men's Basketball;Big Ten Conference;13;961;1;13;1000;1;0,450362541
+Iowa State University;Men's Basketball;Big 12 Conference;13;980;1;13;958;0.96;0,098151313
+Clemson University;Men's Basketball;Atlantic Coast Conference;13;1000;1;11;1000;1;0,709924925
+Wake Forest University;Men's Tennis;Atlantic Coast Conference;6;958;1;4;938;1;0,067278883
+North Carolina State University;Women's Tennis;Atlantic Coast Conference;9;1000;1;9;1000;1;0,863034948
+Harvard University;Men's Ice Hockey;The Ivy League;29;991;1;28;991;1;0,104925165
+Florida State University;Women's Basketball;Atlantic Coast Conference;13;1000;1;12;978;1;0,321876028
+North Carolina State University;Men's Soccer;Atlantic Coast Conference;25;1000;1;19;985;1;0,539117224
+University of Pennsylvania;Women's Tennis;The Ivy League;9;1000;1;6;1000;1;0,14999253
+University of Southern California;Women's Soccer;Pac-12 Conference;20;986;1;18;986;1;0,288008341
+University of Oklahoma;Women's Basketball;Big 12 Conference;15;1000;1;14;943;0.963;0,621610854
+University of California, Los Angeles;Men's Basketball;Pac-12 Conference;12;952;0.9546;13;955;0.9149;0,851610185
+Harvard University;Women's Basketball;The Ivy League;16;1000;1;15;1000;1;0,679192804
+University of Washington;Women's Soccer;Pac-12 Conference;29;1000;1;24;1000;1;0,273900021
+Oklahoma State University;Women's Basketball;Big 12 Conference;15;983;1;14;980;1;0,18579931
+University of Kansas;Men's Basketball;Big 12 Conference;13;959;0.9615;13;1000;1;0,467174769
+University of California, Berkeley;Men's Tennis;Pac-12 Conference;6;1000;1;7;1000;1;0,965813976
+Texas Christian University;Women's Basketball;Big 12 Conference;17;952;0.9688;13;938;0.9565;0,758146257
+Wake Forest University;Women's Basketball;Atlantic Coast Conference;12;1000;1;14;1000;1;0,399743368
+University of Oregon;Men's Tennis;Pac-12 Conference;10;1000;1;10;1000;1;0,836703806
+Dartmouth College;Men's Tennis;The Ivy League;11;1000;1;10;1000;1;0,276418259
+University of Southern California;Women's Basketball;Pac-12 Conference;15;983;0.9667;15;1000;1;0,733481055
+Columbia University-Barnard College;Women's Basketball;The Ivy League;13;1000;1;13;1000;1;0,375570008
+Arizona State University;Women's Soccer;Pac-12 Conference;22;988;1;25;959;1;0,607822035
+Dartmouth College;Women's Ice Hockey;The Ivy League;19;1000;1;21;1000;1;0,465336612
+University of Miami (Florida);Men's Tennis;Atlantic Coast Conference;6;958;1;10;1000;1;0,872319789
+University of Maryland, College Park;Women's Soccer;Big Ten Conference;24;1000;1;26;967;1;0,003975347
+University of Denver;Men's Tennis;The Summit League;9;1000;1;8;1000;1;0,974896046
+University of Arizona;Men's Tennis;Pac-12 Conference;9;969;0.9375;11;967;1;0,738668958
+Dartmouth College;Women's Soccer;The Ivy League;26;1000;1;25;1000;1;0,688916145
+University of Michigan;Men's Soccer;Big Ten Conference;15;1000;1;21;976;0.9762;0,983396615
+Pennsylvania State University;Men's Basketball;Big Ten Conference;13;1000;1;13;958;0.96;0,124092148
+Princeton University;Men's Soccer;The Ivy League;28;1000;1;23;978;0.9783;0,142998392
+Clemson University;Men's Soccer;Atlantic Coast Conference;23;988;1;27;938;0.9583;0,626090856
+University of Iowa;Women's Tennis;Big Ten Conference;8;938;0.9375;8;1000;1;0,387896748
+Oklahoma State University;Women's Tennis;Big 12 Conference;9;1000;1;9;903;1;0,126995013
+Kansas State University;Women's Basketball;Big 12 Conference;14;1000;1;13;981;1;0,082153444
+Iowa State University;Women's Basketball;Big 12 Conference;15;983;0.9655;13;958;1;0,878617523
+North Dakota State University;Men's Basketball;The Summit League;13;962;0.9615;13;923;0.8846;0,009732354
+University of Michigan;Men's Tennis;Big Ten Conference;8;1000;1;7;962;1;0,671268124
+University of Miami (Florida);Men's Basketball;Atlantic Coast Conference;13;981;1;13;1000;1;0,973294308
