@@ -1,7 +1,10 @@
 # Pandas and EDA
 
 Your teaching assistants will show you the following:
-- You will become familiar with using Pandas for applying important concepts in EDA: **summary statistics, boxplots, correlations and pairplots**.
+- You will become familiar with using Pandas for applying important concepts in EDA: 
+    - summary statistics, 
+    - boxplots, 
+    - correlations and pairplots.
 - We will also see how to get data from a webpage through **web-scraping**.
 
 
