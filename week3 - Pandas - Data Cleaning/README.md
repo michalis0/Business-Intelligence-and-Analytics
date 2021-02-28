@@ -1,4 +1,4 @@
-# Pandas and EDA
+# Pandas and EDA (Exploratory Data Analysis)
 
 ## Goals
 - You will become familiar with using Pandas for applying important concepts in EDA: 
