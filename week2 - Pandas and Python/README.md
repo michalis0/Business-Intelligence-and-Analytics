@@ -3,7 +3,7 @@
 Your teaching assistants will show you the following:
 - Questions on the previous lab.
 - Revisit where all code is saved in github.
-- Remind students that when you can open a notebook in Colab, but you should also *save* it in your Google drive, if you want to process it some other day (useful to know for the Bonus assignment you have to make!). If you just open and process an notebook it's not saved by default...
+- Remind students that you can open a notebook in Colab by clicking the "Open in Colab" button, **but** you should also *save* it in your Google drive, if you want to process it some other day (useful to know for the Bonus assignment you have to make!). If you just open and process an notebook it's not saved by default...
 - Revisit how to load in Colab a file from github.
 - How to autocomplete Python code.
 
