@@ -7,8 +7,8 @@ The main goal is for you to be able to create appropriate graphics to analyze an
 
 
 ## Lab Structure
-1. As usual, we will first take a look at this week's [Walkthrough](lien) to get familiar with data visualization.
-2. In groups, you will complete [Exercise 1](link)
+As usual, we will first take a look at this week's [Walkthrough](lien) to get familiar with data visualization and you'll complete exercise in groups during the lab session
+
 
 ## (At home)
 Complete the tasks from here:
