@@ -12,7 +12,7 @@
 
 1. Walkthrough1: EDA with Pandas (+some small exercises)
 2. Walkthrough2: Webscraping
-    - [Link to the Notebook](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week3%20-%20EDA%20and%20Visualization/walkthroughs/Introduction_to_Data_Analysis_through_examples.ipynb)
+    - [Link to the Notebook](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week3%20-%20Pandas%20-%20Data%20Cleaning/walkthroughs/Introduction_to_EDA.ipynb)
 
 
 ## Exercises (MVL: Links don't work)
