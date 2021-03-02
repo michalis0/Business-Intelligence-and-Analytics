@@ -10,13 +10,12 @@
 
 ## Lab Structure
 
-1. Walkthrough1: EDA with Pandas (+some small exercises)
-2. Walkthrough2: Webscraping
+1. Walkthrough1: EDA with Pandas (+some small exercises) and Webscraping
     - [Link to the Notebook](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week3%20-%20Pandas%20-%20Data%20Cleaning/walkthroughs/Introduction_to_EDA.ipynb)
 
 
-## Exercises (MVL: Links don't work)
-1. Answer on your own the questions in [Exercise1](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week3%20-%20EDA%20and%20Visualization/Exercises/Exercise1_week3.ipynb)
+## Exercises
+1. Answer on your own the questions in [Exercise1](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week3%20-%20Pandas%20-%20Data%20Cleaning/Exercises/Exercise1_week3.ipynb)
 
-2. Complete the different EDA tasks in this exercise [Exercise2](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week3%20-%20EDA%20and%20Visualization/Exercises/Exercise2_week3.ipynb)
+2. Advanced: If you want an extra challenge, complete the different EDA tasks in this exercise [Exercise2](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week3%20-%20Pandas%20-%20Data%20Cleaning/Exercises/Exercise2_week3.ipynb)
 
