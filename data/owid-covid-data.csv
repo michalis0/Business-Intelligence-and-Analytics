@@ -1,4 +1,4 @@
-location;date;cases;deaths;tests;vaccinations
+country;date;cases;deaths;tests;vaccinations
 Albania;25.02.2020;0;0;8.0;0
 Albania;26.02.2020;0;0;5.0;0
 Albania;27.02.2020;0;0;4.0;0
