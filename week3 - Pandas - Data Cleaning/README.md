@@ -4,7 +4,7 @@
 
 - Review **Exploratory Data Analysis (EDA)** in Python
 - Learn how to plot histograms, heatmaps and find correlations in your data.
-- Understand how to get data from web pages using **web-scraping**.
+- Showcase how to get data from web pages using **web-scraping**.
 
 ## Lab Structure
 1. First, we will cover the [Introduction_to_EDA.ipynb](walkthroughs/Introduction_to_EDA.ipynb) walkthrough. Here, your TA's will show you an introduction into Exploratory Data Analysis.
