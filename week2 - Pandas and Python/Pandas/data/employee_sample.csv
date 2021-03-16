@@ -1,8 +1,3 @@
-,GENDER,RACE,DEPARTMENT,YEARS EXPERIENCE,SALARY
-Tom,Male,White,Engineering,23,107962
-Niko,Male,Black,Engineering,1,30347
-Penelope,Female,White,Engineering,12,60258
-Aria,Female,Black,Engineering,8,43618
-Sofia,Female,Black,Parks & Recreation,23,26125
-Dean,Male,Black,Parks & Recreation,3,33592
-Zach,Male,White,Parks & Recreation,4,37565
+version https://git-lfs.github.com/spec/v1
+oid sha256:98f54f47b41bdfa338efe7674e0dfae4deab27d70e412f0896dad117c4d0eccd
+size 335
