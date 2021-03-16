@@ -1,8 +1,8 @@
-,GENDER,ETHNICITY,DEPARTMENT,YEARS EXPERIENCE,SALARY
-Tom,Male,White,Engineering,23,107962
-Niko,Male,Black,Engineering,1,30347
-Penelope,Female,White,Engineering,12,60258
-Aria,Female,Black,Engineering,8,43618
-Sofia,Female,Black,Parks & Recreation,23,26125
-Dean,Male,Black,Parks & Recreation,3,33592
-Zach,Male,White,Parks & Recreation,4,37565
+,GENDER,NATIONALITY,DEPARTMENT,YEARS EXPERIENCE,SALARY
+Tom,Male,Switzerland,Engineering,23,107962
+Niko,Male,USA,Engineering,1,30347
+Penelope,Female,Switzerland,Engineering,12,60258
+Aria,Female,USA,Engineering,8,43618
+Sofia,Female,USA,Parks & Recreation,23,26125
+Dean,Male,USA,Parks & Recreation,3,33592
+Zach,Male,Switzerland,Parks & Recreation,4,37565
