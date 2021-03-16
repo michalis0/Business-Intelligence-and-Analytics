@@ -24,7 +24,7 @@
 
 ## Lab structure
 1. Introduction of TAs
-2. Then, we will take a look at this week's [walkthrough](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/BIAlab1walkthrough.ipynb) to get familiar with the topics of the lab.
+2. Then, we will take a look at this week's [walkthrough](Walkthrough/BIAlab1walkthrough.ipynb) to get familiar with the topics of the lab.
 3. You will do [exercise 1](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercise1.png), where you are asked to recreate a notebook discussing the MSE. This will be done in groups of 3 (10 - 15 mins) and we will then show a sample answer.
 4. The last challenge of the day will be [exercise 2](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Exercice2.png). Similarly to the first exercise, you will be asked to recreate a notebook on Amazon, a bit more technical, but still totally in your range of capabilities. This will also be done in groups of 3 (10 - 15 mins) and we will also show a sample answer.
 
