@@ -1,0 +1,72 @@
+data/Advertising.csv
+data/Birthweight.csv
+data/BostonHousing.csv
+data/CEO compensation.csv
+data/CovidData2021.csv
+data/Credit.csv
+data/ESG_index_companies.csv
+data/Galton.csv
+data/GermanCredit.csv
+data/Groceries.csv
+data/MarketArrivals.csv
+data/NCAA.csv
+data/StudentsPerformance.csv
+data/Telco-Customer-Churn.csv
+data/Wage.csv
+data/Wines10K.csv
+data/artists (1).csv
+data/baseball.csv
+data/bike_sharing_daily.csv
+data/bike_sharing_hourly.csv
+data/bitcoin_usd.csv
+data/breast-cancer-wisconsin.csv
+data/cmort.csv
+data/cohort-analysis-rewards.csv
+data/corvallis.csv
+data/covid_19_data.csv
+data/customers.csv
+data/customers_prepro.csv
+data/default.csv
+data/e-commerced.csv
+data/google-play-store-apps/googleplaystore.csv
+data/google-play-store-apps/googleplaystore_user_reviews.csv
+data/google-play-store-apps/googleplaystore_user_reviews_old.csv
+data/hflights.csv
+data/income.csv
+data/investments_VC.csv
+data/loan_data_set.csv
+data/movies/movies.csv
+data/mtcars.csv
+data/new_application_train_1.csv
+data/pandas_tutorial_read.csv
+data/pandas_tutorial_read_old.csv
+data/part.csv
+data/quakes.csv
+data/routes.csv
+data/steam-200k.csv
+data/stock_price_data_eod.csv
+data/supermarket_data.csv
+data/tips.csv
+data/trades.csv
+data/wages.csv
+data/weather.csv
+data/winequality-red.csv
+data/yahoo.csv
+week2 - Pandas and Python/Pandas/data/baseball14.csv
+week2 - Pandas and Python/Pandas/data/baseball15.csv
+week2 - Pandas and Python/Pandas/data/baseball16.csv
+week2 - Pandas and Python/Pandas/data/college.csv
+week2 - Pandas and Python/Pandas/data/college_data_dictionary.csv
+week2 - Pandas and Python/Pandas/data/e1.csv
+week2 - Pandas and Python/Pandas/data/e2.csv
+week2 - Pandas and Python/Pandas/data/food_inspections.csv
+week2 - Pandas and Python/Pandas/data/movie.csv
+week2 - Pandas and Python/Pandas/data/nba_stats.csv
+week2 - Pandas and Python/Pandas/data/sample_data.csv
+week2 - Pandas and Python/Pandas/data/sample_data2.csv
+week2 - Pandas and Python/Pandas/data/stackoverflow/matplotlib.csv
+week2 - Pandas and Python/Pandas/data/stackoverflow/numpy.csv
+week2 - Pandas and Python/Pandas/data/stackoverflow/pandas2015topresent.csv
+week2 - Pandas and Python/Pandas/data/stackoverflow/pandasbefore2015.csv
+week2 - Pandas and Python/Pandas/data/stackoverflow/scikit-learn.csv
+week2 - Pandas and Python/Pandas/data/stackoverflow_qa.csv
