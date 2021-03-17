@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f6d8b341185c8db98d5cc7381b070dec182e5bfd2346a8a5a2e64e7d029d984a
-size 352
+,GENDER,NATIONALITY,DEPARTMENT,YEARS EXPERIENCE,SALARY
+Tom,Male,Switzerland,Engineering,23,107962
+Niko,Male,USA,Engineering,1,30347
+Penelope,Female,Switzerland,Engineering,12,60258
+Aria,Female,USA,Engineering,8,43618
+Sofia,Female,USA,Parks & Recreation,23,26125
+Dean,Male,USA,Parks & Recreation,3,33592
+Zach,Male,Switzerland,Parks & Recreation,4,37565
