@@ -16,7 +16,7 @@ Your teaching assistants will show you the following:
 
 ## Lab Structure
 1. You will learn how to load csv and JSON files into a Pandas DataFrame, which is covered in the [Basic_Pandas_Load_File.ipynb](walkthroughs/Basic_Pandas_Load_File.ipynb) walkthrough.
-2. You will then be able to showcase your skills in the [exercise](Exercices/Exercise_1.ipynb). You will have 20-25 mins to do it and we will then correct it.
+2. You will then be able to showcase your skills in the [exercise](Exercices/Exercices/Exercise_1.ipynb). You will have 20-25 mins to do it and we will then correct it.
 4. [Optional] For students that wish to refresh Python, we have prepared this [Python_Tutorial.ipynb](walkthroughs/Python_Tutorial.ipynb) walkthrough.
 
 ## Exercises at HOME
