@@ -13,4 +13,4 @@
 
 
 ## Exercises at HOME [Optional]
-[Optional at home] If you are finding the contents covered in this course easy and you would like an additional challenge you can complete [Exercise2_week3.ipynb](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/week3%20-%20Pandas%20-%20Data%20Cleaning/Exercises/Exercises/Exercise2_week3.ipynb) at home.
+[Optional at home] If you are finding the contents covered in this course easy and you would like an additional challenge you can complete [Exercise2_week3.ipynb](Exercises/Exercises/Exercise2_week3.ipynb) at home.
