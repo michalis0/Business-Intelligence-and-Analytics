@@ -26,4 +26,4 @@ Please do them all since this is the very base of what we will do all semester. 
     - [01: Selecting Subsets](walkthroughs/01_Selecting_Subsets_with_%5B_%5D%2C_loc_and_iloc.ipynb)
     - [02: Boolean Indexing](walkthroughs/02%20Boolean%20Indexing.ipynb)
     - [03: Assigning Subsets of Data](walkthroughs/03%20Assigning%20subsets%20of%20data.ipynb)
-    - [04: How NOT to Select Subsets of Data](walkthroughs/04%How%NOT%to%select%subsets%of%data.ipynb)
+    - [04: How NOT to Select Subsets of Data](walkthroughs/04 How NOT to select subsets of data.ipynb)
