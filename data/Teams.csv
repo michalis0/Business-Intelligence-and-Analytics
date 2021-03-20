@@ -1,0 +1,33 @@
+team,ranking,games,wins,draws,losses,goalsFor,goalsAgainst,yellowCards,redCards
+Brazil,1,5,3,1,1,9,4,7,2
+Spain,2,6,5,0,1,7,2,3,0
+Portugal,3,4,1,2,1,7,1,8,1
+Netherlands,4,6,6,0,0,12,5,15,0
+Italy,5,3,0,2,1,4,5,5,0
+Germany,6,6,4,0,2,13,3,8,1
+Argentina,7,5,4,0,1,10,6,7,0
+England,8,4,1,2,1,3,5,6,0
+France,9,3,0,1,2,1,4,6,1
+Greece,13,3,1,0,2,2,5,5,0
+USA,14,4,1,2,1,5,5,9,0
+Serbia,15,3,1,0,2,2,3,8,1
+Uruguay,16,6,3,2,1,9,5,8,2
+Mexico,17,4,1,1,2,4,5,9,0
+Chile,18,4,2,0,2,3,5,13,1
+Cameroon,19,3,0,0,3,2,5,5,0
+Australia,20,3,1,1,1,3,6,7,2
+Nigeria,21,3,0,1,2,3,5,5,1
+Switzerland,24,3,1,1,1,1,1,8,1
+Slovenia,25,3,1,1,1,3,3,9,0
+Ivory Coast,27,3,1,1,1,4,3,5,0
+Algeria,30,3,0,1,2,0,2,4,2
+Paraguay,31,5,1,3,1,3,2,9,0
+Ghana,32,5,2,2,1,5,4,11,0
+Slovakia,34,4,1,1,2,5,7,11,0
+Denmark,36,3,1,0,2,3,6,6,0
+Honduras,38,3,0,1,2,0,3,7,0
+Japan,45,4,2,1,1,4,2,7,0
+South Korea,47,4,1,1,2,6,8,6,0
+New Zealand,78,3,0,3,0,2,2,6,0
+South Africa,83,3,1,1,1,3,5,4,1
+North Korea,105,3,0,0,3,1,12,2,0
