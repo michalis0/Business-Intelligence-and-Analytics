@@ -1,4 +1,4 @@
-Year;Team;ISO code;Goals for;Goals against;Penalties;Matches;Shots on goal;Shots wide;Free kicks;Offside;Corners;Won;Drawn;Lost
+Year;Team;ISO code;goalsFor;goalsAgainst;Penalties;Matches;Shots;wideShots;Freekicks;Offside;Corners;Won;Drawn;Lost
 1930;Argentina ;AR;18;9;0;5;18;0;0;0;0;4;0;1
 1930;Uruguay ;UY;15;3;0;4;15;0;0;0;0;4;0;0
 1930;USA ;US;7;6;0;3;7;0;0;0;0;2;0;1
