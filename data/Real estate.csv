@@ -1,4 +1,4 @@
-No,X1 transaction date,X2 house age,X3 distance to the nearest MRT station,X4 number of convenience stores,X5 latitude,X6 longitude,Y house price of unit area
+No, Transaction_date, House_age, Distance_MRT_station, Number_convenience_stores, Latitude, Longitude, House_price
 1,2012.917,32,84.87882,10,24.98298,121.54024,37.9
 2,2012.917,19.5,306.5947,9,24.98034,121.53951,42.2
 3,2013.583,13.3,561.9845,5,24.98746,121.54391,47.3
