@@ -4,13 +4,14 @@ In this week's lab, we are going to learn about how to perform market basket ana
 
 <img src='https://dmcommunity.files.wordpress.com/2019/06/associationrules.jpg' width="400">
 
-## Goals
-
-* Learn how to mine association rules using Python
-* Strengthen your knowledge of frequent itemsets, the Apriori algorithm, and association rules
-
 ## Lab Structure
 
-1. Exercise: Calculate support, confidence and lift for a set of rules
-2. Walkthrough: Finding frequent itemsets and mining association rules in Python
-3. Exercise using the groceries.csv dataset
+1. Exercise 1: Calculate support, confidence and lift for a set of rules (at beginning of walkthrough)
+2. [Walkthrough](Walkthrough/AssociationRules.ipynb): Finding frequent itemsets and mining association rules in Python
+3. Exercise 2 using the groceries.csv dataset finding frequent itemsets and interesting association rules (second part of the walkthrough)
+
+## To Do (at home)
+* Listen to the pre-recorded lecture on Moodle
+* Try to solve on your own the first exercise and calculate support, confidence and lift for the given set of rules
+* Go though the walkthrough
+* Try to solve exercise 2
