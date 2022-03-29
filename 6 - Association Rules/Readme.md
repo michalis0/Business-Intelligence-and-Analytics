@@ -14,4 +14,4 @@ In this week's lab, we are going to learn about how to perform market basket ana
 * Listen to the pre-recorded lecture on Moodle
 * Try to solve on your own the first exercise and calculate support, confidence and lift for the given set of rules
 * Go though the walkthrough
-* Try to solve exercise 2
+* Solve exercise 2
