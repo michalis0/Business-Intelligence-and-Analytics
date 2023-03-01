@@ -7,14 +7,16 @@ Your teaching assistants will show you the following:
 - How to autocomplete Python code.
 
 ## Goals:
+- Learn what an API is and how to extract data from it.
 - Learn how to load different types of dataset
 - Load some csv files from the /data in our github. What is the dataset about? What is the numerosity, what is the dimensionality of the dataset? 
 - Learn how to convert columns in the appropriate datatype.
 - Learn how to do basic operations using the dataframe in Python.
 
 ## Lab Structure
-1. You will learn how to load csv and JSON files into a Pandas DataFrame, which is covered in the [walkthrough pandas loading](walkthroughs/walkthrough_pandas_loading.ipynb) walkthrough notebook.
-2. You will then be able to showcase your skills in the [exercise](exercises/exercise_01.ipynb). You will have 20-25 mins to do it and we will then correct it.
+1. You will start by learning how to extract JSON-format data from an API (web service).
+2. You will learn how to load csv and JSON files into a Pandas DataFrame, which is covered in the [walkthrough pandas loading](walkthroughs/walkthrough_pandas_loading.ipynb) walkthrough notebook.
+3. You will then be able to showcase your skills in the [exercise](exercises/exercise_01.ipynb). You will have 20-25 mins to do it and we will then correct it.
 4. [Optional] For students that wish to refresh Python, we have prepared this [python tutorial](walkthroughs/walkthrough_python_tuto.ipynb) walkthrough notebook.
 
 ## Exercises at HOME
