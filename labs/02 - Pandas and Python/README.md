@@ -21,7 +21,7 @@ Your teaching assistants will show you the following:
 Please do them all since this is the very base of what we will do all semester. This will be the most you will have to do at home all semester.
 - Python Tutorial at [Kaggle](https://www.kaggle.com/learn/python)
 - Walkthroughs + Exercises for Pandas
-    - [01: Selecting Subsets](walkthroughs/walkthroughs/walkthrough_02_1_selecting_subsets.ipynb)
+    - [01: Selecting Subsets](walkthroughs/walkthrough_02_1_selecting_subsets.ipynb)
     - [02: Boolean Indexing](walkthroughs/walkthrough_02_2_indexing.ipynb)
     - [03: Assigning Subsets of Data](walkthroughs/walkthrough_02_3_subsets.ipynb)
     - [04: How NOT to Select Subsets of Data](walkthroughs/walkthrough_02_4_bad_subsets.ipynb)
