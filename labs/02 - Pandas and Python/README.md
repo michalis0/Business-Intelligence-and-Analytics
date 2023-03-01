@@ -13,9 +13,9 @@ Your teaching assistants will show you the following:
 - Learn how to do basic operations using the dataframe in Python.
 
 ## Lab Structure
-1. You will learn how to load csv and JSON files into a Pandas DataFrame, which is covered in the [walkthrough_pandas_loading](walkthroughs/walkthrough_pandas_loading.ipynb) walkthrough notebook.
+1. You will learn how to load csv and JSON files into a Pandas DataFrame, which is covered in the [walkthrough pandas loading](walkthroughs/walkthrough_pandas_loading.ipynb) walkthrough notebook.
 2. You will then be able to showcase your skills in the [exercise](exercises/exercise_01.ipynb). You will have 20-25 mins to do it and we will then correct it.
-4. [Optional] For students that wish to refresh Python, we have prepared this [Python_Tutorial.ipynb](walkthroughs/walkthrough_python_tuto.ipynb) walkthrough.
+4. [Optional] For students that wish to refresh Python, we have prepared this [python tutorial](walkthroughs/walkthrough_python_tuto.ipynb) walkthrough notebook.
 
 ## Exercises at HOME
 Please do them all since this is the very base of what we will do all semester. This will be the most you will have to do at home all semester.
