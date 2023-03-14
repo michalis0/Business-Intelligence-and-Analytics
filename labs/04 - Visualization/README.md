@@ -8,7 +8,7 @@ Then, we will take a look at interactive visualization using various new librair
 
 
 ## Lab Structure
-As usual, we will first take a look at this week's [Walkthrough](Walkthrough_4.ipynb) to get familiar with data visualization. You'll complete small exercises in groups during the lab session.
+As usual, we will first take a look at this week's [Walkthrough](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/04%20-%20Visualization/walkthrough_4.ipynb) to get familiar with data visualization. You'll complete small exercises in groups during the lab session.
 
 
 ## (At home)
