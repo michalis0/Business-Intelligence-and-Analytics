@@ -38,11 +38,16 @@
    >- http://www.statisticshowto.com/mean-squared-error
 
 
-- **Exercise 2:** Recreate [this](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/01%20-%20Python%20Notebooks/exercises/BIA%20Lab%201%20ex2.pdf) in Colab. Here are the links you'll have to embed:
+- **Exercise 2:** Recreate [this](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/01%20-%20Python%20Notebooks/exercises/BIA%20Lab%201%20ex2.pdf) in Colab. Here are the links for the images and videos you'll have to embed:
+  >- https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_HEC_Lausanne.png
+  >- https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg
+  >- https://www.youtube.com/embed/a9__D53WsUs
+
+Here are the links you'll have to insert:
    >- https://en.wikipedia.org/wiki/Prime_Video
    >- https://en.wikipedia.org/wiki/Twitch_(service)
    >- https://en.wikipedia.org/wiki/Amazon_Web_Services
    >- https://www.bbc.com/news/business-55927979
    >- https://www.independent.co.uk/news/world/americas/jeff-bezos-letter-amazon-b1796716.html
-   >- https://www.youtube.com/embed/a9__D53WsUs
+   
 
