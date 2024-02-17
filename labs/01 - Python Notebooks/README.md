@@ -38,7 +38,7 @@
    >- http://www.statisticshowto.com/mean-squared-error
 
 
-- **Exercise 2:** Recreate [this](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/01%20-%20Python%20Notebooks/exercises/BIA%20Lab%201%20ex2.pdf) in Colab. Here are the links you'll have to embed:
+- **Exercise 2:** Recreate [this](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/01%20-%20Python%20Notebooks/exercises/BIA%20Lab%201%20ex2.pdf)in Colab. Here are the links you'll have to embed:
    >- https://en.wikipedia.org/wiki/Prime_Video
    >- https://en.wikipedia.org/wiki/Twitch_(service)
    >- https://en.wikipedia.org/wiki/Amazon_Web_Services
