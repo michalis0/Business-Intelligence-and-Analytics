@@ -34,7 +34,7 @@
 
  After you have become familiar with Colab you can do the following exercises in groups of 3 (10-15mins each exercise). One team will be randomly picked to share their solution (if they feel confident it is correct!).
 
-- **Exercise 1:** Recreate [this](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/01%20-%20Python%20Notebooks/exercises/BIA%20Lab%201%20ex1.pdf) in Colab. This may require some knowledge of Latex for recreating the equations, so if you are not very familiar with this just ask your TAs. Links used:
+- **Exercise 1:** Recreate [this](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/01%20-%20Python%20Notebooks/exercises/BIA%20Lab%201%20ex1.pdf) in Colab. This may require some knowledge of Latex for recreating the equations, so if you are not very familiar with this just ask your TAs. Here is the link you'll have to embed:
    >- http://www.statisticshowto.com/mean-squared-error
 
 
