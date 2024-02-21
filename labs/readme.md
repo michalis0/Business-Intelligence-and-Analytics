@@ -1,15 +1,15 @@
 ## Content
 
 1. [Python Notebooks](./01%20-%20Python%20Notebooks)
-2. [BigQuery and SQL](./2-BigQuery)
-3. AutoML on GCP
-4. IoT + BigQuery
-5. Building a recommender system on GCP
-6. Elastic Search
-7. ${\text{\color{red}No lab - Easter Holidays!}}$
-8. Elastic Search + Python
-9. Graph Analytics in Python
-10. Continuous Integration GCP
-11. GenAI studio
-12. ${\text{\color{red}No lab - Ascension!}}$
-13. Chatbots on GCP
+2. [Pandas and Python](./02%20-%20Pandas%20and%20Python)
+3. Pandas - Data Cleaning(./03%20-%20Pandas%20-%20Data%20Cleaning)
+4. Data Visualization
+5. Clustering
+6. Association Rules
+7. ${\text{\color{red}No lab!}}$
+8. ${\text{\color{red}Review Session}}$
+9. Regression 1
+10. Regression 2
+11. Classification 1
+12. ${\text{\color{red}No lab!}}$
+13. Classification 2
