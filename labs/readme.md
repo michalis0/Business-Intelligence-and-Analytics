@@ -1,6 +1,6 @@
 ## Content
 
-1. [Python Notebooks](./01\ Python\ Notebooks)
+1. [Python Notebooks](./01 \Python \Notebooks)
 2. [BigQuery and SQL](./2-BigQuery)
 3. AutoML on GCP
 4. IoT + BigQuery
