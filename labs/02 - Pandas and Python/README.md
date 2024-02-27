@@ -14,8 +14,8 @@ Your teaching assistants will show you the following:
 - Learn how to do basic operations using the dataframe in Python.
 
 ## Lab Structure
-1. You will by learning how to load CSV and JSON files into a Pandas DataFrame, which is covered in [this walkthrough notebook](walkthroughs/walkthrough_pandas_load_file.ipynb).
-2. You will learn how to extract JSON-format data from an API (web service). This is covered in [this walkthrough notebook](walkthroughs/API_walkthrough.ipynb)
+1. You will by learning how to load CSV and JSON files into a Pandas DataFrame, which is covered in the [walkthrough_pandas_load_file](walkthroughs/walkthrough_pandas_load_file.ipynb).
+2. You will learn how to extract JSON-format data from an API (web service). This is covered in the [API_walkthrough](walkthroughs/API_walkthrough.ipynb)
 3. You will then be able to showcase your skills in the [exercise](exercises/exercise_01.ipynb). You will have 20-25 mins to do it and we will then correct it.
 4. [Optional] Follow the [dataset description walkthrough](walkthroughs/Dataset_Descriptions.ipynb) to learn how to extract the summary statistics of all columns in a dataset.
 5. [Optional] For students that wish to refresh Python, we have prepared this [python tutorial](walkthroughs/walkthrough_python_tuto.ipynb) walkthrough notebook.
