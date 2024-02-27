@@ -15,7 +15,7 @@ Your teaching assistants will show you the following:
 
 ## Lab Structure
 1. You will start by learning how to extract JSON-format data from an API (web service).
-2. You will learn how to load csv and JSON files into a Pandas DataFrame, which is covered in the [walkthrough pandas loading](walkthroughs/walkthrough_pandas_load_file.ipynb) walkthrough notebook.
+2. You will learn how to load csv and JSON files into a Pandas DataFrame, which is covered in [this walkthrough notebook](walkthroughs/walkthrough_pandas_load_file.ipynb).
 3. You will then be able to showcase your skills in the [exercise](exercises/exercise_01.ipynb). You will have 20-25 mins to do it and we will then correct it.
 4. [Optional] For students that wish to refresh Python, we have prepared this [python tutorial](walkthroughs/walkthrough_python_tuto.ipynb) walkthrough notebook.
 5. Don't forget to complete the quizz of the lab right [here](https://moodle.unil.ch/mod/quiz/view.php?id=1634352)
