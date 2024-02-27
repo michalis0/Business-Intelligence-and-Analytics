@@ -25,6 +25,6 @@ Please do them all since this is the very base of what we will do all semester. 
 - Python Tutorial at [Kaggle](https://www.kaggle.com/learn/python)
 - Walkthroughs + Exercises for Pandas
     - [01: Selecting Subsets](@Home/02_1_Selecting_Subsets_with_%5B_%5D%2C_loc_and_iloc.ipynb)
-    - [02: Boolean Indexing](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/02%20-%20Pandas%20and%20Python/walkthroughs/02_2_Boolean_Indexing.ipynb)
-    - [03: Assigning Subsets of Data](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/02%20-%20Pandas%20and%20Python/walkthroughs/02_3_Assigning_subsets_of_data.ipynb)
-    - [04: How NOT to Select Subsets of Data](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/02%20-%20Pandas%20and%20Python/walkthroughs/02_4_How_NOT_to_select_subsets_of_data.ipynb)
+    - [02: Boolean Indexing](@Home/02_2_Boolean_Indexing.ipynb)
+    - [03: Assigning Subsets of Data](@Home/02_3_Assigning_subsets_of_data.ipynb)
+    - [04: How NOT to Select Subsets of Data](@Home/02_4_How_NOT_to_select_subsets_of_data.ipynb)
