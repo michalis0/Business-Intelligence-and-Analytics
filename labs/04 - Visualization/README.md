@@ -17,4 +17,4 @@ Don't forget to complete the quizz of this lab, available [here](https://moodle.
 Complete the tasks from here:
 
 - https://www.kaggle.com/learn/data-visualization
-- [Optional] [Kaggle tutorial on Seaborn](https://www.kaggle.com/kanncaa1/seaborn-tutorial-for-beginners)
+- Kaggle tutorial on Seaborn](https://www.kaggle.com/kanncaa1/seaborn-tutorial-for-beginners)[Optional] 
