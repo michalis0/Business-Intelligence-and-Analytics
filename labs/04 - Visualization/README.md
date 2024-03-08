@@ -8,7 +8,7 @@ Then, we will take a look at interactive visualization using various new librair
 
 
 ## Lab Structure
-As usual, we will first take a look at this week's [Walkthrough](./walkthrough_4.ipynb) to get familiar with data visualization. Then, you'll have to complete 3 little exercises that are available [here](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/Editing/labs/04%20-%20Visualization/exercises/exercises_lab_4.ipynb).
+As usual, we will first take a look at this week's [Walkthrough](./walkthrough_4.ipynb) to get familiar with data visualization. Then, you'll have to complete 3 little exercises that are available [here](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/Editing/labs/04%20-%20Visualization/exercises/exercises_lab_4.ipynb). The answers you'll get from them are essentials to complete the quiz questions. 
 
 Don't forget to complete the quizz of this lab, available [here](https://moodle.unil.ch/mod/quiz/view.php?id=1634380).
 
