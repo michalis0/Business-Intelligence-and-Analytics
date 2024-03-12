@@ -3,7 +3,7 @@
 1. [Python Notebooks](./01%20-%20Python%20Notebooks)
 2. [Pandas and Python](./02%20-%20Pandas%20and%20Python)
 3. [Pandas - Data Cleaning](./03%20-%20Pandas%20and%20Data%20Cleaning)
-4. Data Visualization
+4. [Data Visualization](./04%20-%20Visualization)
 5. Clustering
 6. Association Rules
 7. ${\text{\color{red}No lab!}}$
