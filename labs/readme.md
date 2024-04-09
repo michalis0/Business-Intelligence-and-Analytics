@@ -7,7 +7,7 @@
 5. [Clustering](./05%20-%20Clustering/)
 6. [Association Rules](./06%20-%20Association%20Rules/)
 7. ${\text{\color{red}No lab!}}$
-8. ${\text{\color{red}Review Session}}$
+8. [Review Session](./08%20-%20ChatGPT/)
 9. Regression 1
 10. Regression 2
 11. Classification 1
