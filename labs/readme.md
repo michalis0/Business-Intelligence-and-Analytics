@@ -10,6 +10,6 @@
 8. [Review Session](./08%20-%20ChatGPT/)
 9. [Regression 1](./09%20-%20Regression%201/)
 10. [Regression 2](./10%20-%20Regression%202/)
-11. Classification 1
+11. [Classification 1](./11%20-%20Classification%201/)
 12. ${\text{\color{red}No lab!}}$
 13. Classification 2
