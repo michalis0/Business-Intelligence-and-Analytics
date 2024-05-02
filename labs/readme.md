@@ -12,4 +12,4 @@
 10. [Regression 2](./10%20-%20Regression%202/)
 11. [Classification 1](./11%20-%20Classification%201/)
 12. ${\text{\color{red}No lab!}}$
-13. Classification 2
+13. [Classification 2](./12%20-%20Classification%202/)
