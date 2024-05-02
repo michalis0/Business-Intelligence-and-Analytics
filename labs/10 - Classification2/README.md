@@ -16,3 +16,4 @@ This week we continue to study classification diving into new techniques such as
 ## Lab structure
 1. We will complete a [walkthrough](walkthrough/walkthrough_10.ipynb).
 2. You will have 15-20 minutes to complete an [exercise](exercises/exercises_classification_2.ipynb).
+3. Don't forget to complete the last quiz of the semester available [here](https://moodle.unil.ch/mod/quiz/view.php?id=1634457).
