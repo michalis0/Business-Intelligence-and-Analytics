@@ -25,8 +25,9 @@
 ## Lab structure
 1. Introduction of TAs
 2. Then, we will take a look at this week's [walkthrough](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/01%20-%20Python%20Notebooks/walkthrough/walkthrough_01_markdown_and_exercises.ipynb) to get familiar with the topics of the lab.
-3. You will do [exercise 1](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/01%20-%20Python%20Notebooks/exercises/Exercise_01.png), where you are asked to recreate a notebook discussing the MSE. This will be done in groups of 3 (10 - 15 mins) and we will then show a sample answer.
-4. The last challenge of the day will be [exercise 2](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/01%20-%20Python%20Notebooks/exercises/Exercise_02.png). Similarly to the first exercise, you will be asked to recreate a notebook on Amazon, a bit more technical, but still totally in your range of capabilities. This will also be done in groups of 3 (10 - 15 mins) and we will also show a sample answer.
+3. You will do [exercise 1](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/01%20-%20Python%20Notebooks/exercises/Exercise_01.png), where you are asked to recreate a notebook discussing the MSE. 
+4. The last challenge of the day will be [exercise 2](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/01%20-%20Python%20Notebooks/exercises/Exercise_02.png). Similarly to the first exercise, you will be asked to recreate a notebook on Amazon, a bit more technical, but still totally in your range of capabilities.
+5. Finally, you will have a quiz [https://moodle.unil.ch/mod/quiz/view.php?id=1871940] at the end of the Lab with two questions, and the answers must be submitted within 48 hours. As a reminder, these quizzes are graded and account for 15% of your final grade.
 
 **AT HOME:** Read the [Notebook Introduction](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/01%20-%20Python%20Notebooks/walkthrough/walkthrough_01_intro_notebooks.ipynb). It revisits what we have covered in the lab and will help you get comfortable with the technology we will be using throughout the semester. (It's short!)
 
