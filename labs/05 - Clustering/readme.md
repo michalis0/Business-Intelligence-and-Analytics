@@ -1,8 +1,6 @@
 # CLUSTERING 
 
-This week we are learning how to use various clustering algorithms from sklearn. 
-This is useful for making sense of ***unlabelled data***: observations for which we have certain metrics, based on which we try to predict a class label (such as whether an email is spam or not-spam, or whether a given flower is of one type or another). 
-We do not know how many classes or labels we should have and we do not have a set of annotated data.
+This week, we are exploring various clustering algorithms from scikit-learn, which are particularly useful for understanding **unlabeled data**. Unlabeled data refers to the observations where we have certain features or metrics but lack predefined class labels. The main advantage of clustering is that it doesn't require prior knowledge of the number of classes or any labeled data. Instead, the algorithms identify the underlying structure within the data on their own.
 
 <img src='https://static.javatpoint.com/tutorial/machine-learning/images/k-means-clustering-algorithm-in-machine-learning.png' width="300">
 
@@ -21,5 +19,5 @@ Try to solve on your own the [exercises for this week](exercises/exercise_cluste
 
 **Note**: Clustering can be computation-intensive, which is why some cells in the exercise notebook take a bit of time to run. 
 This is especially true for questions 2 (~2 mins) and 7 (~10 mins) of the exercise. 
-While these cells run, you can simply assume that your code is correct (if no error code shows up in the first seconds) and look at the next questions. 
+While these cells run, you can simply assume that your code is correct (if no error message shows up in the first seconds) and look at the next questions. 
 This means that you can fill the dots ( ... ) without running the cells while waiting for the other, computation-intensive, cell to display its full output.
