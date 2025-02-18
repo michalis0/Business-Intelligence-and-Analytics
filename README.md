@@ -1,18 +1,26 @@
-# Business Intelligence and Analytics
+# Business Intelligence and Analytics  
 
-Dear Students,
+Dear Students,  
 
-Here you will find everything you need for the labs. Simply go to the corresponding week and you will find walkthroughs, exercices, data, and solutions (will only be posted around one week later).
+Welcome to the Business Intelligence and Analytics lab sessions! This is your go-to space for developing the skills you’ll need to thrive in this course. Each week’s lab materials—walkthroughs, exercises, data, and solutions—will be provided here, with solutions posted approximately one week after the session.  
 
-The labs will generally always have the same basic structure:
+Our labs are designed to build both technical and analytical expertise, following this structured format:  
 
-1. **Walkthroughs:** The TAs will guide you through notebooks that explain how to practically apply concepts seen in the lectures with the help of Python code. These notebooks will greatly help you solve the exercices and the assignment, therefore, it will only benefit you to pay close attention.
-2. **Exercises:** You will do these in small breakout rooms with 3 or 4 of your colleagues. We strongly encourage **one** of you to create a Notebook in Colab, share his screen and collaborate on it together rather than individually. You will have 10-20mins to do this, according to the length of the exercices.
-3. **Solutions:** Upon coming back from the breakout rooms, motivated groups will be able to share their solution (remember, in Python there is an infinite number of solutions to any problem!) with the class. If no group volunteers, the TAs will present a sample solution.
-4. **Homework:** It is essential to your success in this class! Most of the homework is given in the first couple of weeks because we have to cover the basics quickly to get to the most interesting parts of the course. Do not feel discouraged by the homework given early in the semester since the amount of it will decrease as the semester progresses.
+### 1. **Walkthroughs:**  
+In the first part of each lab, the TAs will guide you through notebooks that demonstrate practical applications of lecture concepts using Python. These hands-on sessions are designed to help you complete the exercises and assignments effectively. Take detailed notes, ask questions, and stay engaged for maximum benefit.  
 
-If you have questions or face problems you cannot resolve during the labs, do not hesitate to ask for clarifications. If you have questions after the labs, please use the discussion forum on Moodle. Also, remember that Google is your friend, especially while coding!
+### 2. **Exercises:**  
+In the second part, you’ll apply the concepts by solving exercises that build on the walkthroughs. You can work individually or in small collaborative groups, depending on your preference. This is an ideal time to ask the TAs questions to deepen your understanding and refine your problem-solving skills.  
 
-We are looking forward to a great semester with you.
+### 3. **Lab Assignments:**  
+Each lab session includes a weekly assignment with two quiz questions on Moodle (for a total of 20 questions across 10 labs). To earn full points, you must answer 16 out of 20 questions correctly (80%). You can miss up to two labs without penalty, but missed lab activities cannot be made up under any circumstances. The quiz closes at **4:00 PM every Thursday**. You may collaborate on the questions, but each student must submit their own responses individually on Moodle.  
 
-Your BIA-TAs
+### 4. **Personal Assignment:**  
+Once during the semester, you will be assigned a **personal assignment** (Moodle: Python code + Quiz). This assignment is strictly individual, and any detected code similarity between students will result in a grade of zero for all involved parties. Take this assignment as an opportunity to demonstrate your individual progress and analytical thinking.  
+
+### **Support and Questions:**  
+If you run into challenges during the lab, don’t hesitate to ask the TAs for help. After the lab, any additional questions should be posted in the Moodle discussion forum. Don’t forget: Google and other online resources are invaluable tools for any coder, so use them to your advantage!  
+
+We look forward to an exciting and productive semester with you.  
+
+**Your BIA TAs**  
