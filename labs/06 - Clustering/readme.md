@@ -6,7 +6,7 @@ This week, we are exploring various clustering algorithms from scikit-learn, whi
 
 ## STRUCTURE
 
-Please have a look at the [walkthrough](walkthrough_05.ipynb) for an introduction to **two** clustering algorithms:
+Please have a look at the [walkthrough](walkthrough.ipynb) for an introduction to **two** clustering algorithms:
  - *KMeans*
  - *hierarchical clustering*.
 We'll also see how to plot dendrograms, which show the hierachical relationship between observations.
