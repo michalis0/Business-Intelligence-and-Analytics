@@ -24,7 +24,7 @@
 
 ## Lab structure
 1. Introduction of TAs
-2. Then, we will take a look at this week's [walkthrough](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/01%20-%20Python%20Notebooks/walkthrough/walkthrough_01_markdown_and_exercises.ipynb) to get familiar with the topics of the lab.
+2. Then, we will take a look at this week's [walkthrough](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/02%20-%20Python%20Notebooks/walkthrough/walkthrough_01_markdown_and_exercises.ipynb) to get familiar with the topics of the lab.
 3. You will do [exercise 1](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/02%20-%20Python%20Notebooks/exercises/BIA%20Lab%201%20ex1.pdf), where you are asked to recreate a notebook discussing the MSE. 
 4. The last challenge of the day will be [exercise 2](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/02%20-%20Python%20Notebooks/exercises/BIA%20Lab%201%20ex2.pdf). Similarly to the first exercise, you will be asked to recreate a notebook on Amazon, a bit more technical, but still totally in your range of capabilities.
 5. Finally, you will have a [Quiz](https://moodle.unil.ch/mod/quiz/view.php?id=1871940) at the end of the Lab with two questions, and the answers must be submitted within 48 hours. As a reminder, these quizzes are graded and account for 15% of your final grade.
