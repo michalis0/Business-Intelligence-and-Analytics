@@ -19,7 +19,7 @@ Your teaching assistants will show you the following:
 3. You will then be able to showcase your skills in the [exercise](exercises/exercise_01.ipynb). You will have 20-25 mins to do it and we will then correct it.
 4. [Optional] Follow the [dataset description walkthrough](walkthroughs/Dataset_Descriptions.ipynb) to learn how to extract the summary statistics of all columns in a dataset.
 5. [Optional] For students that wish to refresh Python, we have prepared this [python tutorial](walkthroughs/walkthrough_python_tuto.ipynb) walkthrough notebook.
-6. Don't forget to complete the quizz of the lab right [here](https://moodle.unil.ch/mod/quiz/view.php?id=1634352)
+6. Don't forget to complete the quizz of the lab right [here](https://moodle.unil.ch/mod/quiz/view.php?id=1871978)
 
 ## Exercises at HOME
 Please do them all since this is the very base of what we will do all semester. This will be the most you will have to do at home all semester.
