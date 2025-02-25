@@ -16,7 +16,7 @@
     - Latex equations in markdown
     - Review [this](https://www.markdownguide.org/basic-syntax/) for markdown features or the shorter [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - Images, videos
-    - Go [here](https://colab.research.google.com/github/michalis0/Business-Intelligence-and-Analytics/blob/master/week1%20-%20Python%20Notebooks/Notebooks_Introduction.ipynb) and review this notebook to see various features and also how to embed images and videos.
+    - Go [here](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/02%20-%20Python%20Notebooks/walkthrough/walkthrough_01_intro_notebooks.ipynb) and review this notebook to see various features and also how to embed images and videos.
 - How to [load](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) in Colab an ipynb from Github
 - How to execute some Python code in Colab. How to save your notebook in your Google Drive space.
 - Autocomplete in Google Colab for code [optional]
@@ -28,8 +28,6 @@
 3. You will do [exercise 1](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/02%20-%20Python%20Notebooks/exercises/BIA%20Lab%201%20ex1.pdf), where you are asked to recreate a notebook discussing the MSE. 
 4. The last challenge of the day will be [exercise 2](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/02%20-%20Python%20Notebooks/exercises/BIA%20Lab%201%20ex2.pdf). Similarly to the first exercise, you will be asked to recreate a notebook on Amazon, a bit more technical, but still totally in your range of capabilities.
 5. Finally, you will have a [Quiz](https://moodle.unil.ch/mod/quiz/view.php?id=1871940) at the end of the Lab with two questions, and the answers must be submitted within 48 hours. As a reminder, these quizzes are graded and account for 15% of your final grade.
-
-**AT HOME:** Read the [Notebook Introduction](https://github.com/michalis0/Business-Intelligence-and-Analytics/blob/master/labs/02%20-%20Python%20Notebooks/walkthrough/walkthrough_01_intro_notebooks.ipynb). It revisits what we have covered in the lab and will help you get comfortable with the technology we will be using throughout the semester. (It's short!)
 
 ## Exercises
 

@@ -13,7 +13,7 @@ In the first part of each lab, the TAs will guide you through notebooks that dem
 In the second part, you’ll apply the concepts by solving exercises that build on the walkthroughs. You can work individually or in small collaborative groups, depending on your preference. This is an ideal time to ask the TAs questions to deepen your understanding and refine your problem-solving skills.  
 
 ### 3. **Lab Assignments:**  
-Each lab session includes a weekly assignment with two quiz questions on Moodle (for a total of 20 questions across 10 labs). To earn full points, you must answer 16 out of 20 questions correctly (80%). You can miss up to two labs without penalty, but missed lab activities cannot be made up under any circumstances. The quiz closes at **4:00 PM every Thursday**. You may collaborate on the questions, but each student must submit their own responses individually on Moodle.  
+Each lab session includes a weekly assignment with two quiz questions on Moodle (for a total of 20 questions across 10 labs). To earn full points, you must answer 16 out of 20 questions correctly (80%). You can miss up to two labs without penalty, but missed lab activities cannot be made up under any circumstances. The quiz closes at **4:30 PM every Thursday**. You may collaborate on the questions, but each student must submit their own responses individually on Moodle.  
 
 ### 4. **Personal Assignment:**  
 Once during the semester, you will be assigned a **personal assignment** (Moodle: Python code + Quiz). This assignment is strictly individual, and any detected code similarity between students will result in a grade of zero for all involved parties. Take this assignment as an opportunity to demonstrate your individual progress and analytical thinking.  
