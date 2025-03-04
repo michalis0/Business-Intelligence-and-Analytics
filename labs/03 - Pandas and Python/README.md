@@ -7,16 +7,16 @@ Your teaching assistants will show you the following:
 - How to autocomplete Python code.
 
 ## Goals:
-- Learn what an API is and how to extract data from it.
 - Learn how to load different types of dataset
 - Load some csv files from the /data in our github. What is the dataset about? What is the numerosity, what is the dimensionality of the dataset? 
 - Learn how to convert columns in the appropriate datatype.
 - Learn how to do basic operations using the dataframe in Python.
+- Learn what an API is and how to extract data from it.
 
 ## Lab Structure
 1. You will by learning how to load CSV and JSON files into a Pandas DataFrame, which is covered in the [walkthrough_pandas](walkthroughs/walkthrough_pandas.ipynb).
 2. You will learn how to extract JSON-format data from an API (web service). This is covered in the [API_walkthrough](walkthroughs/API_walkthrough.ipynb)
-3. You will then be able to showcase your skills in the [exercise](exercises/exercise_01.ipynb). You will have 20-25 mins to do it and we will then correct it.
+3. You will then be able to showcase your skills in the [exercise](exercises/exercise_01.ipynb).
 4. [Optional] Follow the [dataset description walkthrough](walkthroughs/Dataset_Descriptions.ipynb) to learn how to extract the summary statistics of all columns in a dataset.
 5. [Optional] For students that wish to refresh Python, we have prepared this [python tutorial](walkthroughs/walkthrough_python_tuto.ipynb) walkthrough notebook.
 6. Don't forget to complete the quizz of the lab right [here](https://moodle.unil.ch/mod/quiz/view.php?id=1871978)
